@@ -1,5 +1,0 @@
-CAPSTE v4 — Visible Elite + Common Ground Upgrade
-Build date: 2026-10-21
-Standard: 32 questions. Advanced: 86 questions. Elite: 86 advanced + 30 diagnostic questions = 116.
-Added/clarified: prominent version markers, visible Elite feature panel, versioned local storage, active-mode progress/results, import compatibility for Elite mode, orientation tags and CALCism comparison.
-Status: prototype; heuristic scoring; no psychometric validation or formal WCAG audit.
