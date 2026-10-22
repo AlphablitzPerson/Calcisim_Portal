@@ -68,6 +68,201 @@ footer a { color:inherit; }
 @media(max-width:850px) { .catalog {grid-template-columns:repeat(2,minmax(0,1fr));} .sources{grid-template-columns:repeat(2,minmax(0,1fr));} }
 @media(max-width:600px) { .toolbar {grid-template-columns:1fr;} .catalog,.sources {grid-template-columns:1fr;} .stats {grid-template-columns:1fr;} .section-head {align-items:start; flex-direction:column;} }
 @media(prefers-color-scheme:dark) { :root { --site-background:#111917; --site-on-background:#edf1e9; } }
+
+/* Sacred library / temple bookshelf visual theme */
+:root {
+  --site-primary: #173b32;
+  --site-secondary: #d9b76b;
+  --site-background: #efe4cd;
+  --site-on-primary: #fff7e5;
+  --site-on-secondary: #2b2114;
+  --site-on-background: #2d2419;
+  --site-font-heading: Georgia, "Palatino Linotype", "Book Antiqua", serif;
+}
+body {
+  background: #211810;
+  background-image: radial-gradient(ellipse at 50% 0%, #6b5130 0, #302318 48%, #17120e 100%);
+  color: #f4ead5;
+}
+#app {
+  max-width: 1600px;
+  margin: 0 auto;
+  background: #efe4cd;
+  box-shadow: 0 0 70px #0009;
+  border-inline: 1px solid #b58a46;
+}
+.hero {
+  text-align: center;
+  padding-top: clamp(3.2rem, 8vw, 6.5rem);
+  padding-bottom: clamp(3rem, 7vw, 5.5rem);
+  background:
+    radial-gradient(ellipse at 50% 0%, #47705a 0, transparent 55%),
+    linear-gradient(135deg, #102c25, #1e4538 55%, #10271f);
+  border-bottom: 5px double #d9b76b;
+}
+.hero:before {
+  content: "";
+  position: absolute;
+  inset: 1rem 1rem .8rem;
+  border: 1px solid #d9b76b88;
+  border-bottom: 0;
+  border-radius: 48% 48% 0 0 / 16% 16% 0 0;
+  pointer-events: none;
+}
+.hero:after {
+  content: "✧  ☼  ✧";
+  top: .25rem;
+  right: 0;
+  left: 0;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  letter-spacing: .55em;
+  opacity: .28;
+}
+.hero h1 {
+  margin-inline: auto;
+  text-shadow: 0 3px 0 #091b15, 0 0 24px #e5c57b44;
+  letter-spacing: .015em;
+}
+.hero p { margin-inline: auto; }
+.motto {
+  display: inline-block;
+  max-width: 100%;
+  border: 1px solid #d9b76b99;
+  border-left: 3px solid #d9b76b;
+  background: #0b211b66;
+  color: #f6dfaa;
+  text-align: left;
+}
+.wrap { width: min(1240px, 100% - 2rem); }
+main { background: linear-gradient(#f3ead8, #e8d8b9); }
+.stats { gap: .85rem; }
+.stat {
+  background: linear-gradient(145deg, #fff8e8, #ead9b8);
+  border: 1px solid #c7a767;
+  border-radius: 5px;
+  box-shadow: 0 5px 0 #a17b3f, 0 10px 22px #3c29151a;
+  text-align: center;
+}
+.stat strong { color: #1d4a3b; }
+.section-head { border-bottom: 1px solid #c9a75e; padding-bottom: .7rem; }
+.kicker { color: #99702d; }
+.hero .kicker { color: #e5c77e; }
+input, select {
+  background: #fff9ed;
+  border: 1px solid #bca36f;
+  border-radius: 4px;
+  color: #2d2419;
+  box-shadow: inset 0 1px 2px #4b32120c;
+}
+button, .button { border-radius: 4px; }
+.primary { background: #1c4939; color: #fff7e5; border: 1px solid #c9a75e; }
+.secondary { background: #d9b76b; color: #2b2114; }
+.ghost { border-color: #bca36f; }
+.note {
+  background: #f8efd9;
+  border-left-color: #b48a43;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px #4b32120b;
+}
+/* The catalogue sits on a dark carved-wood shelf. */
+.catalog {
+  position: relative;
+  padding: 1rem 1rem 1.45rem;
+  gap: 1rem;
+  background:
+    repeating-linear-gradient(3deg, transparent 0 18px, #ffffff05 19px 20px),
+    linear-gradient(90deg, #3b2518, #63432b 15%, #3e291b 50%, #63432b 85%, #352116);
+  border: 1px solid #8d6738;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0 3px #25180f, inset 0 0 0 4px #9c733d, 0 7px 0 #24170f;
+}
+.catalog:after {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  height: 12px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(#9b6d3d, #4a2d19 48%, #28180f 50%, #674327);
+  border-top: 1px solid #d5b06a;
+  box-shadow: 0 4px 0 #24170f;
+  pointer-events: none;
+}
+.book {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  background:
+    linear-gradient(90deg, #e0c99b 0, #f8efd9 9%, #fff8e8 25%, #f0e2c4 100%);
+  border: 1px solid #b18b4b;
+  border-left: 7px solid #24513f;
+  border-radius: 3px 7px 7px 3px;
+  padding: 1.05rem;
+  box-shadow: inset 3px 0 0 #d9b76b, inset 6px 0 0 #173b32, 3px 4px 0 #29190f88, 0 8px 14px #160d0870;
+  color: #302719;
+}
+.book:before {
+  content: "✧";
+  position: absolute;
+  top: .45rem;
+  right: .7rem;
+  color: #a47a32;
+  font-size: 1.1rem;
+  opacity: .8;
+}
+.book h3 { color: #173b32; padding-right: 1rem; }
+.author { color: #5d4a32; }
+.tag {
+  background: #dce5d4;
+  color: #234a37;
+  border: 1px solid #bdc8ad;
+  border-radius: 2px;
+}
+.status {
+  background: #f0e4c9;
+  border-left: 2px solid #c49b50;
+  color: #4b3a24;
+  border-radius: 2px;
+}
+.book .actions { gap: .4rem; }
+.book .actions a, .book .actions button { box-shadow: 0 1px 2px #29190f12; }
+details {
+  margin-top: .25rem;
+  padding-top: .55rem;
+  border-top: 1px solid #d6c49d;
+  color: #3e3324;
+}
+details summary { cursor: pointer; font-weight: 700; color: #1d4a3b; }
+.book details .actions { margin-top: .55rem; }
+.book details a { color: #205744; }
+.empty { background: #fff7e7; color: #302719; }
+.sources { gap: .9rem; }
+.source {
+  background: linear-gradient(145deg, #fff8e8, #ead9b8);
+  border: 1px solid #c7a767;
+  border-radius: 3px;
+  box-shadow: 0 3px 0 #b18b4b;
+}
+.source h3 { color: #173b32; }
+.source a { color: #205744; }
+footer {
+  background: linear-gradient(135deg, #132e25, #203f31);
+  color: #f4ead5;
+  border-top: 5px double #d9b76b;
+}
+footer a { color: #f0d28c; }
+:focus-visible { outline: 3px solid #a16e22; outline-offset: 3px; }
+@media(max-width:600px) {
+  .catalog { padding: .75rem .65rem 1.3rem; }
+  .hero:before { inset: .5rem .5rem .3rem; }
+  .book { padding: .95rem .85rem; }
+}
+@media(prefers-color-scheme:dark) {
+  :root { --site-background: #efe4cd; --site-on-background: #2d2419; }
+  body { color: #f4ead5; }
+}
+
 </style>
 </head>
 <body>
@@ -151,6 +346,9 @@ const books = [
 {t:"Homage to Catalonia",a:"George Orwell",s:"History",l:"Beginner",y:1938},
 {t:"The Wealth of Nations",a:"Adam Smith",s:"Economics",l:"Advanced",y:1776},
 {t:"Capital, Volume I",a:"Karl Marx",s:"Economics",l:"Advanced",y:1867},
+{t:"Capital, Volume II: The Process of Circulation of Capital",a:"Karl Marx; edited by Friedrich Engels",s:"Economics",l:"Advanced",y:1885},
+{t:"Capital, Volume III: The Process of Capitalist Production as a Whole",a:"Karl Marx; edited by Friedrich Engels",s:"Economics",l:"Advanced",y:1894},
+{t:"Theories of Surplus Value (sometimes called Capital, Volume IV)",a:"Karl Marx; edited by Karl Kautsky",s:"Economics",l:"Advanced",y:1905},
 {t:"The General Theory of Employment, Interest and Money",a:"John Maynard Keynes",s:"Economics",l:"Advanced",y:1936},
 {t:"Doughnut Economics",a:"Kate Raworth",s:"Economics",l:"Beginner",y:2017},
 {t:"Governing the Commons",a:"Elinor Ostrom",s:"Economics",l:"Advanced",y:1990},
