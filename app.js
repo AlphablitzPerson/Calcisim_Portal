@@ -730,56 +730,30 @@ function directSources(b){const q=b.t+' '+b.a;return [
  ...(['Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Moral Anti-Realism','https://plato.stanford.edu/entries/moral-anti-realism/'],['Stanford Encyclopedia of Philosophy: Moral Error Theory','https://plato.stanford.edu/entries/moral-anti-realism/'],['Internet Encyclopedia of Philosophy: Moral Anti-Realism','https://iep.utm.edu/moralrea/']]:[])
  ];}
 function amazonPrint(b){const marketplace=document.getElementById('marketplace')?.value||'de';return 'https://www.amazon.'+marketplace+'/s?i=stripbooks&k='+encodeURIComponent(b.t+' '+b.a);}
-function authorSortKey(author){
- const first=String(author||'').split(';')[0].split(/\s+(?:and|&)\s+/i)[0]
-  .replace(/^\s*(?:edited by|translated by|compiled by|traditional)\s+/i,'').trim();
- const words=first.replace(/[.,]/g,'').split(/\s+/).filter(Boolean);
- return (words.length?words[words.length-1]+' '+words.slice(0,-1).join(' '):first).toLocaleLowerCase();
-}
-function sortBooks(items,mode){
- const collator=new Intl.Collator(undefined,{sensitivity:'base',numeric:true});
- const year=(b)=>Number.isFinite(Number(b.y))?Number(b.y):null;
- return [...items].map((b,index)=>({b,index})).sort((x,y)=>{
-  const a=x.b,b=y.b; let result=0;
-  switch(mode){
-   case 'title-asc': result=collator.compare(a.t,b.t)||collator.compare(a.a,b.a); break;
-   case 'author-asc': result=collator.compare(authorSortKey(a.a),authorSortKey(b.a))||collator.compare(a.a,b.a)||collator.compare(a.t,b.t); break;
-   case 'author-desc': result=collator.compare(authorSortKey(b.a),authorSortKey(a.a))||collator.compare(b.a,a.a)||collator.compare(a.t,b.t); break;
-   case 'year-asc': {const ay=year(a),by=year(b);result=ay===null?(by===null?0:1):by===null?-1:ay-by;result=result||collator.compare(a.t,b.t);break;}
-   case 'year-desc': {const ay=year(a),by=year(b);result=ay===null?(by===null?0:1):by===null?-1:by-ay;result=result||collator.compare(a.t,b.t);break;}
-   case 'subject-asc': result=collator.compare(a.s,b.s)||collator.compare(a.t,b.t); break;
-   case 'level-asc': {const rank={Beginner:0,Intermediate:1,Advanced:2};result=(rank[a.l]??99)-(rank[b.l]??99)||collator.compare(a.t,b.t);break;}
-   default: result=x.index-y.index;
-  }
-  return result||x.index-y.index;
- }).map(x=>x.b);
-}
 function draw(){
  const q=search.value.trim().toLowerCase();
  const normalized=v=>String(v).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');
  const queryTerms=normalized(q).split(' ').filter(w=>w && !['and','or','the'].includes(w));
  const searchMatches=b=>{if(!q)return true;const hay=normalized(b.t+' '+b.a+' '+b.s);if(queryTerms.includes('marx')&&queryTerms.includes('engels'))return hay.includes('marx')||hay.includes('engels');return queryTerms.every(term=>hay.includes(term));};
- const filtered=sortBooks(books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a))),document.getElementById('sortBy').value);
+ const filtered=books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));
  document.getElementById('resultCount').textContent=`Showing ${filtered.length} of ${books.length} titles`;
- document.getElementById('resultCount').setAttribute('aria-label',`${filtered.length} catalogue results, sorted by ${document.getElementById('sortBy').selectedOptions[0].textContent}`);
  catalog.innerHTML='';
  if(!filtered.length){catalog.innerHTML='<div class="empty" style="grid-column:1/-1">No titles match these filters. Try a broader search or reset the filters.</div>';return;}
  filtered.forEach(b=>{
   const key=b.t+'|'+b.a; const isSaved=saved.has(key);
   const el=document.createElement('article');el.className='book';
-  el.innerHTML=`<div class="tagrow"><span class="tag">${esc(b.s)}</span><span class="tag">${esc(b.l)}</span></div><h3>${esc(b.t)}</h3><p class="author">${esc(b.a)}${b.y?` · ${b.y<0?Math.abs(b.y)+' BCE':b.y}`:''}</p><div class="status">Free access: <strong>check availability and licence</strong>. Search results and catalogue records are not verified free editions.</div><div class="actions"><a class="button primary" href="${freeSearch(b)}" target="_blank" rel="noopener noreferrer">Find a free edition ↗</a><a class="button secondary" href="${amazonPrint(b)}" target="_blank" rel="noopener noreferrer">Amazon print search ↗</a><a class="button media-link" href="https://www.youtube.com/results?search_query=${encodeURIComponent('"'+b.t+'" '+b.a+' audiobook OR audio book OR reading')}" target="_blank" rel="noopener noreferrer">Audio / audiobook search ↗</a><a class="button media-link" href="https://www.youtube.com/results?search_query=${encodeURIComponent('"'+b.t+'" '+b.a+' lecture OR book discussion OR author interview')}" target="_blank" rel="noopener noreferrer">Video / lecture search ↗</a><a class="button ghost" href="mailto:secularperspective@outlook.com?subject=${encodeURIComponent('Temple of Knowledge book request: '+b.t)}&body=${encodeURIComponent('Hello,\n\nI could not find a suitable free edition of this book in The Temple of Knowledge.\n\nTitle: '+b.t+'\nAuthor: '+b.a+'\n\nCould you help locate a lawful edition or consider adding a source?\n\nThank you.')}">Request this book by email</a><button class="ghost save" type="button">${isSaved?'★ Saved':'☆ Save'}</button></div><details><summary>Direct source links</summary><div class="actions">${directSources(b).map(([label,url])=>`<a href="${url}" target="_blank" rel="noopener noreferrer">${label} ↗</a>`).join('')}</div></details>`;
+  el.innerHTML=`<div class="tagrow"><span class="tag">${esc(b.s)}</span><span class="tag">${esc(b.l)}</span></div><h3>${esc(b.t)}</h3><p class="author">${esc(b.a)}${b.y?` · ${b.y<0?Math.abs(b.y)+' BCE':b.y}`:''}</p><div class="status">Free access: <strong>check availability and licence</strong>. Search results and catalogue records are not verified free editions.</div><div class="actions"><a class="button primary" href="${freeSearch(b)}" target="_blank" rel="noopener noreferrer">Find a free edition ↗</a><a class="button secondary" href="${amazonPrint(b)}" target="_blank" rel="noopener noreferrer">Amazon print search ↗</a><a class="button ghost" href="mailto:secularperspective@outlook.com?subject=${encodeURIComponent('Temple of Knowledge book request: '+b.t)}&body=${encodeURIComponent('Hello,\n\nI could not find a suitable free edition of this book in The Temple of Knowledge.\n\nTitle: '+b.t+'\nAuthor: '+b.a+'\n\nCould you help locate a lawful edition or consider adding a source?\n\nThank you.')}">Request this book by email</a><button class="ghost save" type="button">${isSaved?'★ Saved':'☆ Save'}</button></div><details><summary>Direct source links</summary><div class="actions">${directSources(b).map(([label,url])=>`<a href="${url}" target="_blank" rel="noopener noreferrer">${label} ↗</a>`).join('')}</div></details>`;
   el.querySelector('.save').addEventListener('click',()=>{if(saved.has(key))saved.delete(key);else saved.add(key);localStorage.setItem('templeOfKnowledgeSavedBooks',JSON.stringify([...saved]));draw();});
   catalog.appendChild(el);
  });
 }
 [search,topic,level].forEach(e=>e.addEventListener('input',draw));
-document.getElementById('sortBy').addEventListener('change',draw);
 document.getElementById('freeSearchEngine').addEventListener('change',draw);
 document.getElementById('unlockProprietary').addEventListener('click',()=>{const accepted=window.confirm('Proprietary search engine warning\n\nGoogle and Bing are proprietary, non-FOSS services. Using them may expose your search queries and related technical information to those providers under their own policies. They are provided only as optional alternatives. Use these sources at your own risk.\n\nUnlock Google and Bing in the search-engine menu?');if(!accepted)return;for(const value of ['google','bing']){const option=document.querySelector('#freeSearchEngine option[value=\"' + value + '\"]');if(option)option.hidden=false;}document.getElementById('unlockProprietary').textContent='Google / Bing unlocked';document.getElementById('unlockProprietary').disabled=true;});
 document.getElementById('showSaved').addEventListener('click',()=>{savedOnly=!savedOnly;document.getElementById('showSaved').textContent=savedOnly?'★ Show all titles':'★ Show saved titles';draw();});
-document.getElementById('clearFilters').addEventListener('click',()=>{search.value='';topic.value='';level.value='';document.getElementById('sortBy').value='default';savedOnly=false;document.getElementById('showSaved').textContent='★ Show saved titles';draw();});
+document.getElementById('clearFilters').addEventListener('click',()=>{search.value='';topic.value='';level.value='';savedOnly=false;document.getElementById('showSaved').textContent='★ Show saved titles';draw();});
 document.getElementById('marketplace').addEventListener('change',draw);
-document.getElementById('exportList').addEventListener('click',()=>{const q=search.value.trim().toLowerCase();const normalized=v=>String(v).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');const queryTerms=normalized(q).split(' ').filter(w=>w && !['and','or','the'].includes(w));const searchMatches=b=>{if(!q)return true;const hay=normalized(b.t+' '+b.a+' '+b.s);if(queryTerms.includes('marx')&&queryTerms.includes('engels'))return hay.includes('marx')||hay.includes('engels');return queryTerms.every(term=>hay.includes(term));};const rows=sortBooks(books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a))),document.getElementById('sortBy').value);const csv=[['Title','Author','Subject','Level','Publication year','Free edition search (selected engine)','Amazon physical books search'],...rows.map(b=>[b.t,b.a,b.s,b.l,b.y,freeSearch(b),amazonPrint(b)])].map(r=>r.map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='temple-of-knowledge-reading-list.csv';a.click();URL.revokeObjectURL(url);});
+document.getElementById('exportList').addEventListener('click',()=>{const q=search.value.trim().toLowerCase();const normalized=v=>String(v).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');const queryTerms=normalized(q).split(' ').filter(w=>w && !['and','or','the'].includes(w));const searchMatches=b=>{if(!q)return true;const hay=normalized(b.t+' '+b.a+' '+b.s);if(queryTerms.includes('marx')&&queryTerms.includes('engels'))return hay.includes('marx')||hay.includes('engels');return queryTerms.every(term=>hay.includes(term));};const rows=books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));const csv=[['Title','Author','Subject','Level','Publication year','Free edition search (selected engine)','Amazon physical books search'],...rows.map(b=>[b.t,b.a,b.s,b.l,b.y,freeSearch(b),amazonPrint(b)])].map(r=>r.map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='temple-of-knowledge-reading-list.csv';a.click();URL.revokeObjectURL(url);});
 draw();
 
 

@@ -1,0 +1,113 @@
+ CALCism — Five-Stage Reading Pathway
+
+The Temple of Knowledge · Sora Izumi Dao (空 泉 道)
+
+> No theory is sacred enough to override reality.
+
+This is a curated sequence, not a compulsory canon. Reading levels are editorial estimates; verify editions and lawful access.
+
+ Stage 1 — Foundations: Critical Thinking and Social Inquiry
+
+Purpose: Build habits of evidence-based inquiry before adopting a political framework.
+
+   Book  Author  Level  Year  Why read it here 
+---:------------:---
+ 1  How to Lie with Statistics  Darrell Huff  Beginner  1954  Spot misleading statistical presentations. 
+ 2  The Demon-Haunted World  Carl Sagan  Beginner  1995  Practise scepticism, evidence and intellectual humility. 
+ 3  Calling Bullshit  Carl T. Bergstrom and Jevin D. West  Beginner  2020  Evaluate data claims and information manipulation. 
+ 4  The Art of Statistics  David Spiegelhalter  Beginner  2019  Reason about uncertainty and evidence. 
+ 5  The Sociological Imagination  C. Wright Mills  Beginner  1959  Connect individual experience to social structures. 
+ 6  Fragments of an Anarchist Anthropology  David Graeber  Beginner  2004  Explore political possibilities beyond state-centred assumptions. 
+ 7  The Dawn of Everything  David Graeber and David Wengrow  Intermediate  2021  Question simple narratives about inequality and states. 
+ 8  The Elements of Moral Philosophy  James Rachels and Stuart Rachels  Beginner  1986  Map ethical arguments before evaluating them. 
+ 9  Mutual Aid: A Factor of Evolution  Peter Kropotkin  Beginner  1902  Introduce cooperation as a social and evolutionary theme. 
+ 10  The Conquest of Bread  Peter Kropotkin  Beginner  1892  Begin with a foundational statement of anarchist communism. 
+
+Stage checkpoint: Summarise the strongest argument, the best counterargument, and what evidence could change your view.
+
+ Stage 2 — Power, Class, Economy and Inequality
+
+Purpose: Study institutions, economic arrangements, social identities and historical power. Compare traditions rather than treating one author as final authority.
+
+   Book  Author  Level  Year  Why read it here 
+---:------------:---
+ 1  The Communist Manifesto  Karl Marx and Friedrich Engels  Beginner  1848  A short historical statement of class struggle and communist politics. 
+ 2  Socialism: Utopian and Scientific  Friedrich Engels  Beginner  1880  A classic introduction to Engels's socialist theory. 
+ 3  The Two Souls of Socialism  Hal Draper  Intermediate  1966  Distinguish emancipatory socialism from socialism imposed from above. 
+ 4  The Wealth of Nations  Adam Smith  Advanced  1776  Read a foundational account of markets and political economy critically. 
+ 5  Doughnut Economics  Kate Raworth  Beginner  2017  Consider social needs within ecological limits. 
+ 6  Governing the Commons  Elinor Ostrom  Advanced  1990  Examine evidence about communities managing shared resources. 
+ 7  Seeing Like a State  James C. Scott  Intermediate  1998  Study how state simplification can misread complex societies. 
+ 8  A People's History of the World  Chris Harman  Intermediate  1999  A broad, explicitly interpretive history from below. 
+ 9  The Black Jacobins  C. L. R. James  Intermediate  1938  Study revolution, slavery, colonialism and Haitian independence. 
+ 10  The Wretched of the Earth  Frantz Fanon  Advanced  1961  Analyse colonial domination and decolonisation. 
+ 11  Feminism Is for Everybody  bell hooks  Beginner  2000  An accessible introduction to feminism and structural power. 
+ 12  Transgender History  Susan Stryker  Intermediate  2008  Explore histories of transgender movements and communities. 
+
+Stage checkpoint: Summarise the strongest argument, the best counterargument, and what evidence could change your view.
+
+ Stage 3 — Socialism, Communism, Anarchism and Workers’ Self-Management
+
+Purpose: Compare social ownership traditions, with particular attention to bottom-up self-management versus centralised authority.
+
+   Book  Author  Level  Year  Why read it here 
+---:------------:---
+ 1  Principles of Communism  Friedrich Engels  Beginner  1847  A concise question-and-answer introduction to communism. 
+ 2  The Civil War in France  Karl Marx  Intermediate  1871  Marx’s analysis of the Paris Commune. 
+ 3  Critique of the Gotha Programme  Karl Marx  Intermediate  1875  A short influential discussion of post-capitalist distribution. 
+ 4  Communism and Anarchy  Peter Kropotkin  Beginner  1901  Compare communist aims with anti-authoritarian organisation. 
+ 5  The ABC of Communist Anarchism  Alexander Berkman  Beginner  1929  A plain-language introduction to anarchist communism. 
+ 6  Anarchy  Errico Malatesta  Beginner  1891  A compact introduction to anarchist ideas and social change. 
+ 7  Anarchism and Other Essays  Emma Goldman  Beginner  1910  Essays on freedom, authority, education and social life. 
+ 8  What Is Property?  Pierre-Joseph Proudhon  Intermediate  1840  A historically influential critique of property relations; read with context. 
+ 9  The Federative Principle  Pierre-Joseph Proudhon  Intermediate  1863  Explore federation and decentralised political organisation. 
+ 10  Anarcho-Syndicalism  Rudolf Rocker  Intermediate  1938  Trade unions, direct action and worker self-management. 
+ 11  Workers' Councils  Anton Pannekoek  Advanced  1946  An advanced account of council-based self-management. 
+ 12  The Russian Revolution  Rosa Luxemburg  Intermediate  1922  A revolutionary socialist critique of authoritarian tendencies. 
+
+Stage checkpoint: Summarise the strongest argument, the best counterargument, and what evidence could change your view.
+
+ Stage 4 — Communalism, Ecology, Feminism and Institutions
+
+Purpose: Move from political theory towards institutions, ecological limits, care, federation and practical collective decision-making.
+
+   Book  Author  Level  Year  Why read it here 
+---:------------:---
+ 1  Post-Scarcity Anarchism  Murray Bookchin  Intermediate  1971  Connect technology, ecology and anti-authoritarian organisation. 
+ 2  The Next Revolution  Murray Bookchin  Intermediate  2015  Introduce libertarian municipalism and communalism. 
+ 3  The Ecology of Freedom  Murray Bookchin  Advanced  1982  A demanding study of hierarchy, domination and ecological politics. 
+ 4  The Cooperative Commonwealth  Laurence Gronlund  Intermediate  1884  A historical proposal for cooperative social organisation. 
+ 5  The People's Republic of Walmart  Leigh Phillips and Michal Rozworski  Beginner  2019  Discuss planning and coordination at large scale. 
+ 6  Another Now  Yanis Varoufakis  Intermediate  2020  Explore a contemporary fictional alternative to capitalist institutions. 
+ 7  The Second Sex  Simone de Beauvoir  Advanced  1949  A foundational, advanced work in feminist philosophy. 
+ 8  The Making of the English Working Class  E. P. Thompson  Advanced  1963  Study class as a historical process and collective formation. 
+ 9  The Art of Not Being Governed  James C. Scott  Advanced  2009  Explore state avoidance and Southeast Asian histories. 
+ 10  The Presentation of Self in Everyday Life  Erving Goffman  Intermediate  1956  Understand interaction, social roles and everyday institutions. 
+ 11  The Social Construction of Reality  Peter L. Berger and Thomas Luckmann  Advanced  1966  An advanced account of how social knowledge is produced. 
+ 12  The General Idea of the Revolution in the Nineteenth Century  Pierre-Joseph Proudhon  Advanced  1851  A challenging extension on social and political transformation. 
+
+Stage checkpoint: Summarise the strongest argument, the best counterargument, and what evidence could change your view.
+
+ Stage 5 — CALCism Synthesis: Materialism, Religion, Philosophy and Further Study
+
+Purpose: Bring the strands together without treating CALCism or any theory as immune to criticism. Compare naturalistic inquiry, moral philosophy, religious traditions and their critics.
+
+   Book  Author  Level  Year  Why read it here 
+---:------------:---
+ 1  The Structure of Scientific Revolutions  Thomas S. Kuhn  Intermediate  1962  Examine scientific change, paradigms and the history of science. 
+ 2  Cosmos  Carl Sagan  Beginner  1980  Place human history and inquiry within a scientific cosmic perspective. 
+ 3  The Origin of the Family, Private Property and the State  Friedrich Engels  Advanced  1884  Read a historically influential theory alongside later scholarship. 
+ 4  Capital, Volume I  Karl Marx  Advanced  1867  Advanced political economy; attempt after introductory economics. 
+ 5  The German Ideology  Karl Marx and Friedrich Engels  Advanced  1846  Advanced materialist social theory; read with historical context. 
+ 6  God and the State  Mikhail Bakunin  Beginner  1882  An anti-authoritarian critique of religious and political authority. 
+ 7  Why Buddhism Is True  Robert Wright  Intermediate  2017  A contemporary psychological interpretation, not a neutral survey of Buddhism. 
+ 8  Buddhism Without Beliefs  Stephen Batchelor  Beginner  1997  A modern secular interpretation to compare with traditional and scholarly sources. 
+ 9  Buddhism: A Very Short Introduction  Damien Keown  Beginner  1996  A compact scholarly orientation to Buddhist traditions. 
+ 10  Tao Te Ching  Laozi  Beginner  c. 400 BCE  Read a translation alongside scholarship; interpretations vary. 
+ 11  The Righteous Mind  Jonathan Haidt  Intermediate  2012  Consider psychological explanations of moral and political disagreement. 
+
+Stage checkpoint: Summarise the strongest argument, the best counterargument, and what evidence could change your view.
+
+ After Stage 5
+
+Continue through specialist paths in the full catalogue. Compare primary texts, insider accounts, ex-member testimony, investigative reporting and scholarly work. A source can be valuable without being neutral.

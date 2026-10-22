@@ -4,7 +4,6 @@ Full feature inventory, audio/video links, critical religious-source guide and c
 
 - Catalogue records: 672
 - Subject categories: 119
-- Sorting: default order, title A–Z, author surname A–Z/Z–A, publication year oldest/newest, subject A–Z and reading level. Sorting works with search, subject/level filters and CSV export.
 - Creator: Sora Izumi Dao (空 泉 道)
 - Motto: “No theory is sacred enough to override reality.”
 
