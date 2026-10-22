@@ -1,0 +1,4170 @@
+{
+  "title": "The Temple of Knowledge",
+  "creator": "Sora Izumi Dao (空 泉 道)",
+  "catalogue_records": 580,
+  "subjects": [
+    "Anarchism",
+    "Anarchism, Religion and Spirituality",
+    "Anarchist Organising and Direct Democracy",
+    "Animal Ethics and Multispecies Justice",
+    "Anthropology",
+    "Apatheism",
+    "Apistevism and Epistemic Criticism",
+    "Astrobiology and Planetary Science",
+    "Astronomy and Astrophysics",
+    "Aztec and Mexica Traditions",
+    "Biodiversity and Conservation Biology",
+    "Biology and evolution",
+    "Buddhism",
+    "Buddhist Socialism and Engaged Buddhism",
+    "Canaanite and Pre-Abrahamic Traditions",
+    "Case Studies of High-Control Groups",
+    "Celtic Traditions",
+    "Christian Socialism, Anarchism and Liberation",
+    "Climate Science and Energy Transition",
+    "Colonialism and internationalism",
+    "Communalism",
+    "Communism",
+    "Community practice",
+    "Comparative Religion and Historical Criticism",
+    "Confucian Social Ethics and Socialist Debates",
+    "Confucianism",
+    "Cooperative and Solidarity Economics",
+    "Cosmology and the Universe",
+    "Cosmopolitanism and Global Justice",
+    "Cultic Studies, Coercive Control and Recovery",
+    "Daoism",
+    "Daoism, Anarchism and Social Thought",
+    "Decolonial Thought and Anti-Colonialism",
+    "Digital commons and privacy",
+    "Digital Commons, Privacy and Surveillance",
+    "Earth Systems and Geoscience",
+    "Eclectic Paganism",
+    "Ecocentrism and Deep Ecology",
+    "Ecofeminism and Feminist Ecology",
+    "Ecological Economics and Degrowth",
+    "Ecology and climate",
+    "Economics",
+    "Education",
+    "Environmental Ethics and Ecological Philosophy",
+    "Environmental Justice and Political Ecology",
+    "Environmentalism and Conservation",
+    "Ethics and metaethics",
+    "Feminism and gender",
+    "Genetics and Molecular Biology",
+    "Geography and cities",
+    "Germanic and Norse Traditions",
+    "Hellenism and Roman Religion",
+    "Hindu Traditions, Anti-Caste Thought and Social Equality",
+    "History",
+    "Humanism",
+    "Ignosticism and Theological Noncognitivism",
+    "Inca and Andean Traditions",
+    "Indigenous Knowledge and Decolonisation",
+    "Islamic Socialism, Liberation and Social Justice",
+    "Jewish Labour, Socialism and Anarchism",
+    "Kemetism",
+    "Law and justice",
+    "LGBTQ+ studies",
+    "Literature and utopias",
+    "Mathematics and statistics",
+    "Maya Traditions",
+    "Media and communication",
+    "Metaethics",
+    "Moral Anti-Realism and Error Theory",
+    "Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil",
+    "New Atheism and Its Critics",
+    "Origins of Life and Evolution",
+    "Philosophy of Mind and Cognitive Science",
+    "Philosophy of Science",
+    "Physics and astronomy",
+    "Physics and the Nature of Reality",
+    "Political Economy and Institutions",
+    "Political philosophy",
+    "Political Philosophy and Authoritarianism",
+    "Politics and institutions",
+    "Polynesian Traditions",
+    "Psychology",
+    "Punic and Carthaginian Religion",
+    "Religion, Socialism and Liberation Theology",
+    "Research Methods and Information Literacy",
+    "Sceptical Scripture Guides and Apocrypha",
+    "Science and critical thinking",
+    "Science and Scientific Method",
+    "Secularism",
+    "Secularism and religion",
+    "Shinto",
+    "Skepticism, Scripture and Biblical Criticism",
+    "Slavic Traditions",
+    "Social Ecology and Environmental Anarchism",
+    "Socialism",
+    "Socialist Critiques of Religion",
+    "Sociology",
+    "Systems and technology",
+    "Systems Thinking and Complexity",
+    "Wicca",
+    "Zoroastrianism"
+  ],
+  "books": [
+    {
+      "title": "The Conquest of Bread",
+      "author": "Peter Kropotkin",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 1892
+    },
+    {
+      "title": "Mutual Aid: A Factor of Evolution",
+      "author": "Peter Kropotkin",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 1902
+    },
+    {
+      "title": "Anarchism and Other Essays",
+      "author": "Emma Goldman",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 1910
+    },
+    {
+      "title": "What Is Property?",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1840
+    },
+    {
+      "title": "The General Idea of the Revolution in the Nineteenth Century",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1851
+    },
+    {
+      "title": "The Federative Principle",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1863
+    },
+    {
+      "title": "God and the State",
+      "author": "Mikhail Bakunin",
+      "subject": "Anarchism, Religion and Spirituality",
+      "level": "Beginner",
+      "year": 1882
+    },
+    {
+      "title": "Statism and Anarchy",
+      "author": "Mikhail Bakunin",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1873
+    },
+    {
+      "title": "Anarcho-Syndicalism",
+      "author": "Rudolf Rocker",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1938
+    },
+    {
+      "title": "Workers' Councils",
+      "author": "Anton Pannekoek",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1946
+    },
+    {
+      "title": "The Ecology of Freedom",
+      "author": "Murray Bookchin",
+      "subject": "Communalism",
+      "level": "Advanced",
+      "year": 1982
+    },
+    {
+      "title": "Post-Scarcity Anarchism",
+      "author": "Murray Bookchin",
+      "subject": "Communalism",
+      "level": "Intermediate",
+      "year": 1971
+    },
+    {
+      "title": "The Next Revolution",
+      "author": "Murray Bookchin",
+      "subject": "Communalism",
+      "level": "Intermediate",
+      "year": 2015
+    },
+    {
+      "title": "Fragments of an Anarchist Anthropology",
+      "author": "David Graeber",
+      "subject": "Anthropology",
+      "level": "Beginner",
+      "year": 2004
+    },
+    {
+      "title": "The Dawn of Everything",
+      "author": "David Graeber and David Wengrow",
+      "subject": "Anthropology",
+      "level": "Intermediate",
+      "year": 2021
+    },
+    {
+      "title": "The Art of Not Being Governed",
+      "author": "James C. Scott",
+      "subject": "Anthropology",
+      "level": "Advanced",
+      "year": 2009
+    },
+    {
+      "title": "Seeing Like a State",
+      "author": "James C. Scott",
+      "subject": "Politics and institutions",
+      "level": "Intermediate",
+      "year": 1998
+    },
+    {
+      "title": "The Sociological Imagination",
+      "author": "C. Wright Mills",
+      "subject": "Sociology",
+      "level": "Beginner",
+      "year": 1959
+    },
+    {
+      "title": "The Presentation of Self in Everyday Life",
+      "author": "Erving Goffman",
+      "subject": "Sociology",
+      "level": "Intermediate",
+      "year": 1956
+    },
+    {
+      "title": "The Social Construction of Reality",
+      "author": "Peter L. Berger and Thomas Luckmann",
+      "subject": "Sociology",
+      "level": "Advanced",
+      "year": 1966
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "subject": "Psychology",
+      "level": "Intermediate",
+      "year": 2011
+    },
+    {
+      "title": "Influence",
+      "author": "Robert B. Cialdini",
+      "subject": "Psychology",
+      "level": "Beginner",
+      "year": 1984
+    },
+    {
+      "title": "Behave",
+      "author": "Robert M. Sapolsky",
+      "subject": "Psychology",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "The Righteous Mind",
+      "author": "Jonathan Haidt",
+      "subject": "Psychology",
+      "level": "Intermediate",
+      "year": 2012
+    },
+    {
+      "title": "A People's History of the World",
+      "author": "Chris Harman",
+      "subject": "History",
+      "level": "Intermediate",
+      "year": 1999
+    },
+    {
+      "title": "The Making of the English Working Class",
+      "author": "E. P. Thompson",
+      "subject": "History",
+      "level": "Advanced",
+      "year": 1963
+    },
+    {
+      "title": "The Black Jacobins",
+      "author": "C. L. R. James",
+      "subject": "History",
+      "level": "Intermediate",
+      "year": 1938
+    },
+    {
+      "title": "Homage to Catalonia",
+      "author": "George Orwell",
+      "subject": "History",
+      "level": "Beginner",
+      "year": 1938
+    },
+    {
+      "title": "The Wealth of Nations",
+      "author": "Adam Smith",
+      "subject": "Economics",
+      "level": "Advanced",
+      "year": 1776
+    },
+    {
+      "title": "Capital, Volume I",
+      "author": "Karl Marx",
+      "subject": "Economics",
+      "level": "Advanced",
+      "year": 1867
+    },
+    {
+      "title": "Capital, Volume II: The Process of Circulation of Capital",
+      "author": "Karl Marx; edited by Friedrich Engels",
+      "subject": "Economics",
+      "level": "Advanced",
+      "year": 1885
+    },
+    {
+      "title": "Capital, Volume III: The Process of Capitalist Production as a Whole",
+      "author": "Karl Marx; edited by Friedrich Engels",
+      "subject": "Economics",
+      "level": "Advanced",
+      "year": 1894
+    },
+    {
+      "title": "Theories of Surplus Value (sometimes called Capital, Volume IV)",
+      "author": "Karl Marx; edited by Karl Kautsky",
+      "subject": "Economics",
+      "level": "Advanced",
+      "year": 1905
+    },
+    {
+      "title": "The General Theory of Employment, Interest and Money",
+      "author": "John Maynard Keynes",
+      "subject": "Economics",
+      "level": "Advanced",
+      "year": 1936
+    },
+    {
+      "title": "Doughnut Economics",
+      "author": "Kate Raworth",
+      "subject": "Economics",
+      "level": "Beginner",
+      "year": 2017
+    },
+    {
+      "title": "Governing the Commons",
+      "author": "Elinor Ostrom",
+      "subject": "Economics",
+      "level": "Advanced",
+      "year": 1990
+    },
+    {
+      "title": "How to Lie with Statistics",
+      "author": "Darrell Huff",
+      "subject": "Mathematics and statistics",
+      "level": "Beginner",
+      "year": 1954
+    },
+    {
+      "title": "The Art of Statistics",
+      "author": "David Spiegelhalter",
+      "subject": "Mathematics and statistics",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "How to Prove It",
+      "author": "Daniel J. Velleman",
+      "subject": "Mathematics and statistics",
+      "level": "Intermediate",
+      "year": 1994
+    },
+    {
+      "title": "The Demon-Haunted World",
+      "author": "Carl Sagan",
+      "subject": "Science and critical thinking",
+      "level": "Beginner",
+      "year": 1995
+    },
+    {
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas S. Kuhn",
+      "subject": "Science and critical thinking",
+      "level": "Intermediate",
+      "year": 1962
+    },
+    {
+      "title": "Calling Bullshit",
+      "author": "Carl T. Bergstrom and Jevin D. West",
+      "subject": "Science and critical thinking",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "subject": "Physics and astronomy",
+      "level": "Beginner",
+      "year": 1980
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "subject": "Physics and astronomy",
+      "level": "Beginner",
+      "year": 1988
+    },
+    {
+      "title": "Six Easy Pieces",
+      "author": "Richard P. Feynman",
+      "subject": "Physics and astronomy",
+      "level": "Intermediate",
+      "year": 1963
+    },
+    {
+      "title": "On the Origin of Species",
+      "author": "Charles Darwin",
+      "subject": "Biology and evolution",
+      "level": "Advanced",
+      "year": 1859
+    },
+    {
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "subject": "Biology and evolution",
+      "level": "Intermediate",
+      "year": 1976
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "subject": "Ecology and climate",
+      "level": "Beginner",
+      "year": 1962
+    },
+    {
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "subject": "Ecology and climate",
+      "level": "Beginner",
+      "year": 2014
+    },
+    {
+      "title": "A Sand County Almanac",
+      "author": "Aldo Leopold",
+      "subject": "Ecology and climate",
+      "level": "Beginner",
+      "year": 1949
+    },
+    {
+      "title": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "subject": "Systems and technology",
+      "level": "Beginner",
+      "year": 2008
+    },
+    {
+      "title": "General System Theory",
+      "author": "Ludwig von Bertalanffy",
+      "subject": "Systems and technology",
+      "level": "Advanced",
+      "year": 1968
+    },
+    {
+      "title": "Weapons of Math Destruction",
+      "author": "Cathy O'Neil",
+      "subject": "Systems and technology",
+      "level": "Beginner",
+      "year": 2016
+    },
+    {
+      "title": "The Death and Life of Great American Cities",
+      "author": "Jane Jacobs",
+      "subject": "Geography and cities",
+      "level": "Intermediate",
+      "year": 1961
+    },
+    {
+      "title": "Cities for People",
+      "author": "Jan Gehl",
+      "subject": "Geography and cities",
+      "level": "Beginner",
+      "year": 2010
+    },
+    {
+      "title": "Pedagogy of the Oppressed",
+      "author": "Paulo Freire",
+      "subject": "Education",
+      "level": "Intermediate",
+      "year": 1968
+    },
+    {
+      "title": "Deschooling Society",
+      "author": "Ivan Illich",
+      "subject": "Education",
+      "level": "Intermediate",
+      "year": 1971
+    },
+    {
+      "title": "Manufacturing Consent",
+      "author": "Edward S. Herman and Noam Chomsky",
+      "subject": "Media and communication",
+      "level": "Advanced",
+      "year": 1988
+    },
+    {
+      "title": "Amusing Ourselves to Death",
+      "author": "Neil Postman",
+      "subject": "Media and communication",
+      "level": "Beginner",
+      "year": 1985
+    },
+    {
+      "title": "The Republic",
+      "author": "Plato",
+      "subject": "Political philosophy",
+      "level": "Advanced",
+      "year": -380
+    },
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "subject": "Political philosophy",
+      "level": "Intermediate",
+      "year": 1859
+    },
+    {
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "subject": "Political philosophy",
+      "level": "Advanced",
+      "year": 1951
+    },
+    {
+      "title": "Are Prisons Obsolete?",
+      "author": "Angela Y. Davis",
+      "subject": "Law and justice",
+      "level": "Beginner",
+      "year": 2003
+    },
+    {
+      "title": "Changing Lenses",
+      "author": "Howard Zehr",
+      "subject": "Law and justice",
+      "level": "Intermediate",
+      "year": 1990
+    },
+    {
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "subject": "Colonialism and internationalism",
+      "level": "Advanced",
+      "year": 1961
+    },
+    {
+      "title": "Orientalism",
+      "author": "Edward W. Said",
+      "subject": "Colonialism and internationalism",
+      "level": "Advanced",
+      "year": 1978
+    },
+    {
+      "title": "The Elements of Moral Philosophy",
+      "author": "James Rachels and Stuart Rachels",
+      "subject": "Ethics and metaethics",
+      "level": "Beginner",
+      "year": 1986
+    },
+    {
+      "title": "The Second Sex",
+      "author": "Simone de Beauvoir",
+      "subject": "Feminism and gender",
+      "level": "Advanced",
+      "year": 1949
+    },
+    {
+      "title": "Feminism Is for Everybody",
+      "author": "bell hooks",
+      "subject": "Feminism and gender",
+      "level": "Beginner",
+      "year": 2000
+    },
+    {
+      "title": "Transgender History",
+      "author": "Susan Stryker",
+      "subject": "LGBTQ+ studies",
+      "level": "Intermediate",
+      "year": 2008
+    },
+    {
+      "title": "What the Buddha Taught",
+      "author": "Walpola Rahula",
+      "subject": "Buddhism",
+      "level": "Beginner",
+      "year": 1959
+    },
+    {
+      "title": "Tao Te Ching",
+      "author": "Laozi",
+      "subject": "Daoism",
+      "level": "Beginner",
+      "year": -400
+    },
+    {
+      "title": "Zhuangzi: The Essential Writings",
+      "author": "Zhuangzi; translated by Brook Ziporyn",
+      "subject": "Daoism",
+      "level": "Intermediate",
+      "year": -300
+    },
+    {
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx and Friedrich Engels",
+      "subject": "Communism",
+      "level": "Beginner",
+      "year": 1848
+    },
+    {
+      "title": "Principles of Communism",
+      "author": "Friedrich Engels",
+      "subject": "Communism",
+      "level": "Beginner",
+      "year": 1847
+    },
+    {
+      "title": "The German Ideology",
+      "author": "Karl Marx and Friedrich Engels",
+      "subject": "Communism",
+      "level": "Advanced",
+      "year": 1846
+    },
+    {
+      "title": "Critique of the Gotha Programme",
+      "author": "Karl Marx",
+      "subject": "Communism",
+      "level": "Intermediate",
+      "year": 1875
+    },
+    {
+      "title": "The Civil War in France",
+      "author": "Karl Marx",
+      "subject": "Communism",
+      "level": "Intermediate",
+      "year": 1871
+    },
+    {
+      "title": "The State and Revolution",
+      "author": "Vladimir Lenin",
+      "subject": "Communism",
+      "level": "Advanced",
+      "year": 1917
+    },
+    {
+      "title": "Left-Wing Communism: An Infantile Disorder",
+      "author": "Vladimir Lenin",
+      "subject": "Communism",
+      "level": "Advanced",
+      "year": 1920
+    },
+    {
+      "title": "The Origin of the Family, Private Property and the State",
+      "author": "Friedrich Engels",
+      "subject": "Communism",
+      "level": "Intermediate",
+      "year": 1884
+    },
+    {
+      "title": "Communism and Anarchy",
+      "author": "Peter Kropotkin",
+      "subject": "Communism",
+      "level": "Beginner",
+      "year": 1901
+    },
+    {
+      "title": "Communism and the Wage System",
+      "author": "Peter Kropotkin",
+      "subject": "Communism",
+      "level": "Beginner",
+      "year": 1920
+    },
+    {
+      "title": "The ABC of Communist Anarchism",
+      "author": "Alexander Berkman",
+      "subject": "Communism",
+      "level": "Beginner",
+      "year": 1929
+    },
+    {
+      "title": "Anarchy",
+      "author": "Errico Malatesta",
+      "subject": "Communism",
+      "level": "Beginner",
+      "year": 1891
+    },
+    {
+      "title": "The Bolshevik Myth",
+      "author": "Alexander Berkman",
+      "subject": "Communism",
+      "level": "Advanced",
+      "year": 1925
+    },
+    {
+      "title": "Workers' Councils",
+      "author": "Anton Pannekoek",
+      "subject": "Communism",
+      "level": "Advanced",
+      "year": 1946
+    },
+    {
+      "title": "The Russian Revolution",
+      "author": "Rosa Luxemburg",
+      "subject": "Communism",
+      "level": "Intermediate",
+      "year": 1922
+    },
+    {
+      "title": "The Two Souls of Socialism",
+      "author": "Hal Draper",
+      "subject": "Communism",
+      "level": "Intermediate",
+      "year": 1966
+    },
+    {
+      "title": "The Red Flag: Communism and the Making of the Modern World",
+      "author": "David Priestland",
+      "subject": "Communism",
+      "level": "Advanced",
+      "year": 2009
+    },
+    {
+      "title": "Socialism: Utopian and Scientific",
+      "author": "Friedrich Engels",
+      "subject": "Socialism",
+      "level": "Beginner",
+      "year": 1880
+    },
+    {
+      "title": "The Soul of Man Under Socialism",
+      "author": "Oscar Wilde",
+      "subject": "Socialism",
+      "level": "Beginner",
+      "year": 1891
+    },
+    {
+      "title": "Looking Backward: 2000–1887",
+      "author": "Edward Bellamy",
+      "subject": "Socialism",
+      "level": "Beginner",
+      "year": 1888
+    },
+    {
+      "title": "News from Nowhere",
+      "author": "William Morris",
+      "subject": "Socialism",
+      "level": "Beginner",
+      "year": 1890
+    },
+    {
+      "title": "The Cooperative Commonwealth",
+      "author": "Laurence Gronlund",
+      "subject": "Socialism",
+      "level": "Intermediate",
+      "year": 1884
+    },
+    {
+      "title": "Reform or Revolution",
+      "author": "Rosa Luxemburg",
+      "subject": "Socialism",
+      "level": "Intermediate",
+      "year": 1900
+    },
+    {
+      "title": "Socialism: An Economic and Sociological Analysis",
+      "author": "Ludwig von Mises",
+      "subject": "Socialism",
+      "level": "Advanced",
+      "year": 1922
+    },
+    {
+      "title": "Socialism Made Easy",
+      "author": "James Connolly",
+      "subject": "Socialism",
+      "level": "Beginner",
+      "year": 1909
+    },
+    {
+      "title": "The Transition from Capitalism to Socialism",
+      "author": "Paul M. Sweezy and Charles Bettelheim",
+      "subject": "Socialism",
+      "level": "Advanced",
+      "year": 1971
+    },
+    {
+      "title": "The Political Economy of Socialism",
+      "author": "Oskar Lange",
+      "subject": "Socialism",
+      "level": "Advanced",
+      "year": 1938
+    },
+    {
+      "title": "A Theory of Socialism and Capitalism",
+      "author": "Hans-Hermann Hoppe",
+      "subject": "Socialism",
+      "level": "Advanced",
+      "year": 1989
+    },
+    {
+      "title": "The People's Republic of Walmart",
+      "author": "Leigh Phillips and Michal Rozworski",
+      "subject": "Socialism",
+      "level": "Intermediate",
+      "year": 2019
+    },
+    {
+      "title": "Another Now",
+      "author": "Yanis Varoufakis",
+      "subject": "Socialism",
+      "level": "Intermediate",
+      "year": 2020
+    },
+    {
+      "title": "The Dhammapada",
+      "author": "Traditional Buddhist text; multiple translators",
+      "subject": "Buddhism",
+      "level": "Beginner",
+      "year": 0
+    },
+    {
+      "title": "The Sutta Nipata",
+      "author": "Early Buddhist discourses",
+      "subject": "Buddhism",
+      "level": "Intermediate",
+      "year": 0
+    },
+    {
+      "title": "The Majjhima Nikaya: The Middle-Length Discourses",
+      "author": "Early Buddhist canon",
+      "subject": "Buddhism",
+      "level": "Advanced",
+      "year": 0
+    },
+    {
+      "title": "The Heart of the Buddha's Teaching",
+      "author": "Thich Nhat Hanh",
+      "subject": "Buddhism",
+      "level": "Beginner",
+      "year": 1998
+    },
+    {
+      "title": "In the Buddha's Words: An Anthology of Discourses from the Pali Canon",
+      "author": "Bhikkhu Bodhi",
+      "subject": "Buddhism",
+      "level": "Intermediate",
+      "year": 2005
+    },
+    {
+      "title": "The Foundations of Buddhism",
+      "author": "Rupert Gethin",
+      "subject": "Buddhism",
+      "level": "Intermediate",
+      "year": 1998
+    },
+    {
+      "title": "Buddhism: A Very Short Introduction",
+      "author": "Damien Keown",
+      "subject": "Buddhism",
+      "level": "Beginner",
+      "year": 1996
+    },
+    {
+      "title": "The Tibetan Book of the Dead",
+      "author": "Traditional Tibetan Buddhist text; translated by Gyurme Dorje et al.",
+      "subject": "Buddhism",
+      "level": "Advanced",
+      "year": 2005
+    },
+    {
+      "title": "The Way of the Bodhisattva",
+      "author": "Shantideva; translated by Padmakara Translation Group",
+      "subject": "Buddhism",
+      "level": "Intermediate",
+      "year": 1997
+    },
+    {
+      "title": "The Platform Sutra",
+      "author": "Attributed to Huineng; translated by Philip B. Yampolsky",
+      "subject": "Buddhism",
+      "level": "Advanced",
+      "year": 1967
+    },
+    {
+      "title": "The Threefold Lotus Sutra",
+      "author": "Mahayana Buddhist scripture; translated by Bunno Kato et al.",
+      "subject": "Buddhism",
+      "level": "Advanced",
+      "year": 1975
+    },
+    {
+      "title": "Zen Mind, Beginner's Mind",
+      "author": "Shunryu Suzuki",
+      "subject": "Buddhism",
+      "level": "Beginner",
+      "year": 1970
+    },
+    {
+      "title": "Why Buddhism Is True",
+      "author": "Robert Wright",
+      "subject": "Buddhism",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "Secular Buddhism",
+      "author": "Stephen Batchelor",
+      "subject": "Buddhism",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "Buddhism Without Beliefs",
+      "author": "Stephen Batchelor",
+      "subject": "Buddhism",
+      "level": "Beginner",
+      "year": 1997
+    },
+    {
+      "title": "The Dao De Jing (Tao Te Ching)",
+      "author": "Laozi; multiple translations",
+      "subject": "Daoism",
+      "level": "Beginner",
+      "year": -400
+    },
+    {
+      "title": "Zhuangzi: The Complete Writings",
+      "author": "Zhuangzi; translated by Brook Ziporyn",
+      "subject": "Daoism",
+      "level": "Intermediate",
+      "year": -300
+    },
+    {
+      "title": "The Book of Lieh-tzu",
+      "author": "Liezi; translated by A. C. Graham",
+      "subject": "Daoism",
+      "level": "Intermediate",
+      "year": 300
+    },
+    {
+      "title": "The Huainanzi",
+      "author": "Liu An and court scholars; translated by John S. Major et al.",
+      "subject": "Daoism",
+      "level": "Advanced",
+      "year": -139
+    },
+    {
+      "title": "The Way of Chuang Tzu",
+      "author": "Thomas Merton",
+      "subject": "Daoism",
+      "level": "Beginner",
+      "year": 1965
+    },
+    {
+      "title": "Daoism: A Beginner's Guide",
+      "author": "James Miller",
+      "subject": "Daoism",
+      "level": "Beginner",
+      "year": 2003
+    },
+    {
+      "title": "The Taoist Body",
+      "author": "Kristofer Schipper",
+      "subject": "Daoism",
+      "level": "Advanced",
+      "year": 1993
+    },
+    {
+      "title": "The Tao of Pooh",
+      "author": "Benjamin Hoff",
+      "subject": "Daoism",
+      "level": "Beginner",
+      "year": 1982
+    },
+    {
+      "title": "The Tao of Physics",
+      "author": "Fritjof Capra",
+      "subject": "Daoism",
+      "level": "Intermediate",
+      "year": 1975
+    },
+    {
+      "title": "The Taoist Experience: An Anthology",
+      "author": "Livia Kohn, editor",
+      "subject": "Daoism",
+      "level": "Advanced",
+      "year": 1993
+    },
+    {
+      "title": "The Analects",
+      "author": "Confucius; multiple translations",
+      "subject": "Confucianism",
+      "level": "Beginner",
+      "year": -400
+    },
+    {
+      "title": "Mencius",
+      "author": "Mengzi (Mencius); multiple translations",
+      "subject": "Confucianism",
+      "level": "Intermediate",
+      "year": -300
+    },
+    {
+      "title": "Xunzi: The Complete Text",
+      "author": "Xunzi; translated by Eric L. Hutton",
+      "subject": "Confucianism",
+      "level": "Advanced",
+      "year": -300
+    },
+    {
+      "title": "The Great Learning",
+      "author": "Confucian classic; traditionally attributed to Zengzi",
+      "subject": "Confucianism",
+      "level": "Beginner",
+      "year": -400
+    },
+    {
+      "title": "The Doctrine of the Mean",
+      "author": "Confucian classic; traditionally associated with Zisi",
+      "subject": "Confucianism",
+      "level": "Intermediate",
+      "year": -300
+    },
+    {
+      "title": "The Book of Documents",
+      "author": "One of the Five Classics of Confucianism",
+      "subject": "Confucianism",
+      "level": "Advanced",
+      "year": -500
+    },
+    {
+      "title": "The Book of Rites",
+      "author": "Confucian classic; multiple translators",
+      "subject": "Confucianism",
+      "level": "Advanced",
+      "year": -100
+    },
+    {
+      "title": "The Spring and Autumn Annals",
+      "author": "Confucian classic, traditionally associated with Confucius",
+      "subject": "Confucianism",
+      "level": "Advanced",
+      "year": -500
+    },
+    {
+      "title": "The Classic of Poetry",
+      "author": "Shijing; one of the Five Classics",
+      "subject": "Confucianism",
+      "level": "Intermediate",
+      "year": -600
+    },
+    {
+      "title": "The Classic of Changes (I Ching / Yijing)",
+      "author": "Ancient Chinese classic interpreted in Confucian and other traditions",
+      "subject": "Confucianism",
+      "level": "Advanced",
+      "year": -800
+    },
+    {
+      "title": "Neo-Confucianism: A Philosophical Introduction",
+      "author": "Stephen C. Angle",
+      "subject": "Confucianism",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "Confucianism: A Very Short Introduction",
+      "author": "Daniel K. Gardner",
+      "subject": "Confucianism",
+      "level": "Beginner",
+      "year": 2014
+    },
+    {
+      "title": "A Short History of Chinese Philosophy",
+      "author": "Fung Yu-lan; translated by Derk Bodde",
+      "subject": "Confucianism",
+      "level": "Intermediate",
+      "year": 1948
+    },
+    {
+      "title": "A Source Book in Chinese Philosophy",
+      "author": "Wing-tsit Chan, translator and editor",
+      "subject": "Confucianism",
+      "level": "Advanced",
+      "year": 1963
+    },
+    {
+      "title": "Theogony",
+      "author": "Hesiod",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Intermediate",
+      "year": -700
+    },
+    {
+      "title": "The Iliad",
+      "author": "Homer",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Intermediate",
+      "year": -750
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Beginner",
+      "year": -700
+    },
+    {
+      "title": "Greek Religion",
+      "author": "Walter Burkert",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Advanced",
+      "year": 1985
+    },
+    {
+      "title": "Religions of Rome: A History",
+      "author": "Mary Beard, John North and Simon Price",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Advanced",
+      "year": 1998
+    },
+    {
+      "title": "The Mabinogion",
+      "author": "Translated by Sioned Davies",
+      "subject": "Celtic Traditions",
+      "level": "Intermediate",
+      "year": 2007
+    },
+    {
+      "title": "Early Irish Myths and Sagas",
+      "author": "Translated by Jeffrey Gantz",
+      "subject": "Celtic Traditions",
+      "level": "Intermediate",
+      "year": 1981
+    },
+    {
+      "title": "The Druids",
+      "author": "Ronald Hutton",
+      "subject": "Celtic Traditions",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "Blood and Mistletoe: The History of the Druids in Britain",
+      "author": "Ronald Hutton",
+      "subject": "Celtic Traditions",
+      "level": "Advanced",
+      "year": 2009
+    },
+    {
+      "title": "Celtic Mythology",
+      "author": "Proinsias Mac Cana",
+      "subject": "Celtic Traditions",
+      "level": "Beginner",
+      "year": 1970
+    },
+    {
+      "title": "The Egyptian Book of the Dead",
+      "author": "Translated by Raymond O. Faulkner",
+      "subject": "Kemetism",
+      "level": "Intermediate",
+      "year": 1972
+    },
+    {
+      "title": "The Ancient Egyptian Pyramid Texts",
+      "author": "Translated by James P. Allen",
+      "subject": "Kemetism",
+      "level": "Advanced",
+      "year": 2005
+    },
+    {
+      "title": "Religion in Ancient Egypt: Gods, Myths, and Personal Practice",
+      "author": "Edited by Byron E. Shafer",
+      "subject": "Kemetism",
+      "level": "Intermediate",
+      "year": 1991
+    },
+    {
+      "title": "The Search for God in Ancient Egypt",
+      "author": "Jan Assmann",
+      "subject": "Kemetism",
+      "level": "Advanced",
+      "year": 2001
+    },
+    {
+      "title": "Ancient Egyptian Religion",
+      "author": "Stephen Quirke",
+      "subject": "Kemetism",
+      "level": "Beginner",
+      "year": 1992
+    },
+    {
+      "title": "The Prose Edda",
+      "author": "Snorri Sturluson",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Intermediate",
+      "year": 1220
+    },
+    {
+      "title": "The Poetic Edda",
+      "author": "Traditional Old Norse poems",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Intermediate",
+      "year": 1270
+    },
+    {
+      "title": "The Children of Ash and Elm: A History of the Vikings",
+      "author": "Neil Price",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Intermediate",
+      "year": 2020
+    },
+    {
+      "title": "Gods and Myths of Northern Europe",
+      "author": "H. R. Ellis Davidson",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Intermediate",
+      "year": 1964
+    },
+    {
+      "title": "The Viking Way: Magic and Mind in Late Iron Age Scandinavia",
+      "author": "Neil Price",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Advanced",
+      "year": 2002
+    },
+    {
+      "title": "Slavic Mythology",
+      "author": "Aleksander Gieysztor",
+      "subject": "Slavic Traditions",
+      "level": "Intermediate",
+      "year": 1982
+    },
+    {
+      "title": "The Oxford Handbook of Slavic and East European Folklore",
+      "author": "Edited by Margaret Hiebert Beissinger",
+      "subject": "Slavic Traditions",
+      "level": "Advanced",
+      "year": 2022
+    },
+    {
+      "title": "The History of Slavic Mythology in the 20th Century",
+      "author": "Nikolaj Mihajlov",
+      "subject": "Slavic Traditions",
+      "level": "Advanced",
+      "year": 2021
+    },
+    {
+      "title": "Slavic Myths",
+      "author": "Ivan Hudec and Jeff Schmitz",
+      "subject": "Slavic Traditions",
+      "level": "Beginner",
+      "year": 2001
+    },
+    {
+      "title": "The Mythology of All Races, Volume III: Celtic and Slavic",
+      "author": "John Arnott MacCulloch and Jan Máchal",
+      "subject": "Slavic Traditions",
+      "level": "Advanced",
+      "year": 1918
+    },
+    {
+      "title": "Witchcraft Today",
+      "author": "Gerald B. Gardner",
+      "subject": "Wicca",
+      "level": "Intermediate",
+      "year": 1954
+    },
+    {
+      "title": "The Meaning of Witchcraft",
+      "author": "Gerald B. Gardner",
+      "subject": "Wicca",
+      "level": "Intermediate",
+      "year": 1959
+    },
+    {
+      "title": "The Triumph of the Moon: A History of Modern Pagan Witchcraft",
+      "author": "Ronald Hutton",
+      "subject": "Wicca",
+      "level": "Advanced",
+      "year": 1999
+    },
+    {
+      "title": "The Spiral Dance",
+      "author": "Starhawk",
+      "subject": "Wicca",
+      "level": "Intermediate",
+      "year": 1979
+    },
+    {
+      "title": "Wicca: A Guide for the Solitary Practitioner",
+      "author": "Scott Cunningham",
+      "subject": "Wicca",
+      "level": "Beginner",
+      "year": 1988
+    },
+    {
+      "title": "Polynesian Mythology",
+      "author": "W. D. Westervelt",
+      "subject": "Polynesian Traditions",
+      "level": "Beginner",
+      "year": 1910
+    },
+    {
+      "title": "Hawaiian Mythology",
+      "author": "Martha Warren Beckwith",
+      "subject": "Polynesian Traditions",
+      "level": "Intermediate",
+      "year": 1940
+    },
+    {
+      "title": "Māori Myth and Legend",
+      "author": "A. W. Reed",
+      "subject": "Polynesian Traditions",
+      "level": "Beginner",
+      "year": 1988
+    },
+    {
+      "title": "The Lore of the Whare-wānanga",
+      "author": "S. Percy Smith",
+      "subject": "Polynesian Traditions",
+      "level": "Advanced",
+      "year": 1913
+    },
+    {
+      "title": "Oceanic Mythology",
+      "author": "Roland B. Dixon",
+      "subject": "Polynesian Traditions",
+      "level": "Advanced",
+      "year": 1916
+    },
+    {
+      "title": "Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind",
+      "author": "Miguel León-Portilla; translated by Jack Emory Davis",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Intermediate",
+      "year": 1990
+    },
+    {
+      "title": "The Aztecs",
+      "author": "Michael E. Smith",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Beginner",
+      "year": 2012
+    },
+    {
+      "title": "Fifth Sun: A New History of the Aztecs",
+      "author": "Camilla Townsend",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Intermediate",
+      "year": 2019
+    },
+    {
+      "title": "Florentine Codex",
+      "author": "Bernardino de Sahagún; translated by Arthur J. O. Anderson and Charles E. Dibble",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Advanced",
+      "year": 1950
+    },
+    {
+      "title": "The Aztec World",
+      "author": "Edited by Elizabeth M. Brumfiel and Gary M. Feinman",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Advanced",
+      "year": 2008
+    },
+    {
+      "title": "The Huarochirí Manuscript: A Testament of Ancient and Colonial Andean Religion",
+      "author": "Translated by Frank Salomon and George L. Urioste",
+      "subject": "Inca and Andean Traditions",
+      "level": "Advanced",
+      "year": 1991
+    },
+    {
+      "title": "Royal Commentaries of the Incas",
+      "author": "Inca Garcilaso de la Vega",
+      "subject": "Inca and Andean Traditions",
+      "level": "Advanced",
+      "year": 1609
+    },
+    {
+      "title": "The Incas",
+      "author": "Terence N. D'Altroy",
+      "subject": "Inca and Andean Traditions",
+      "level": "Intermediate",
+      "year": 2002
+    },
+    {
+      "title": "Inca Religion and Customs",
+      "author": "Bernabé Cobo; translated by Roland Hamilton",
+      "subject": "Inca and Andean Traditions",
+      "level": "Advanced",
+      "year": 1990
+    },
+    {
+      "title": "The Incas: New Perspectives",
+      "author": "Gordon F. McEwan",
+      "subject": "Inca and Andean Traditions",
+      "level": "Beginner",
+      "year": 2006
+    },
+    {
+      "title": "Popol Vuh",
+      "author": "Translated by Allen J. Christenson",
+      "subject": "Maya Traditions",
+      "level": "Intermediate",
+      "year": 2003
+    },
+    {
+      "title": "The Maya",
+      "author": "Michael D. Coe and Stephen Houston",
+      "subject": "Maya Traditions",
+      "level": "Beginner",
+      "year": 2022
+    },
+    {
+      "title": "Maya Cosmos: Three Thousand Years on the Shaman's Path",
+      "author": "David Freidel, Linda Schele and Joy Parker",
+      "subject": "Maya Traditions",
+      "level": "Intermediate",
+      "year": 1993
+    },
+    {
+      "title": "Breaking the Maya Code",
+      "author": "Michael D. Coe",
+      "subject": "Maya Traditions",
+      "level": "Intermediate",
+      "year": 1992
+    },
+    {
+      "title": "The Ancient Maya",
+      "author": "Sylvanus G. Morley",
+      "subject": "Maya Traditions",
+      "level": "Advanced",
+      "year": 1946
+    },
+    {
+      "title": "The Oxford Handbook of the Phoenician and Punic Mediterranean",
+      "author": "Edited by Brian R. Doak and Carolina López-Ruiz",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Advanced",
+      "year": 2019
+    },
+    {
+      "title": "In Search of the Phoenicians",
+      "author": "Josephine Quinn",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Intermediate",
+      "year": 2022
+    },
+    {
+      "title": "The Phoenicians",
+      "author": "Glenn E. Markoe",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Beginner",
+      "year": 2000
+    },
+    {
+      "title": "Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization",
+      "author": "Richard Miles",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Intermediate",
+      "year": 2010
+    },
+    {
+      "title": "The Carthaginians",
+      "author": "Dexter Hoyos",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Intermediate",
+      "year": 2010
+    },
+    {
+      "title": "Zoroastrians: Their Religious Beliefs and Practices",
+      "author": "Mary Boyce",
+      "subject": "Zoroastrianism",
+      "level": "Intermediate",
+      "year": 2001
+    },
+    {
+      "title": "Zoroastrianism: An Introduction",
+      "author": "Jenny Rose",
+      "subject": "Zoroastrianism",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "The Teachings of Zoroaster and the Philosophy of the Parsi Religion",
+      "author": "S. A. Kapadia",
+      "subject": "Zoroastrianism",
+      "level": "Intermediate",
+      "year": 1905
+    },
+    {
+      "title": "The Zend-Avesta",
+      "author": "Traditional Zoroastrian texts; translations vary",
+      "subject": "Zoroastrianism",
+      "level": "Advanced",
+      "year": 1880
+    },
+    {
+      "title": "The Gāthās of Zarathushtra",
+      "author": "Translated by Stanley Insler",
+      "subject": "Zoroastrianism",
+      "level": "Advanced",
+      "year": 1975
+    },
+    {
+      "title": "Ugaritic Narrative Poetry",
+      "author": "Edited by Simon B. Parker; translated by Mark S. Smith and others",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Advanced",
+      "year": 1997
+    },
+    {
+      "title": "Stories from Ancient Canaan",
+      "author": "Michael D. Coogan",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Intermediate",
+      "year": 1978
+    },
+    {
+      "title": "Canaanite Myth and Hebrew Epic",
+      "author": "Frank Moore Cross",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Advanced",
+      "year": 1973
+    },
+    {
+      "title": "The Early History of God: Yahweh and the Other Deities in Ancient Israel",
+      "author": "Mark S. Smith",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Advanced",
+      "year": 1990
+    },
+    {
+      "title": "The Origins of Biblical Monotheism",
+      "author": "Mark S. Smith",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Advanced",
+      "year": 2001
+    },
+    {
+      "title": "Paganism: An Introduction to Earth-Centred Religions",
+      "author": "Joyce and River Higginbotham",
+      "subject": "Eclectic Paganism",
+      "level": "Beginner",
+      "year": 2002
+    },
+    {
+      "title": "The Path of Paganism: An Experience-Based Guide to Modern Pagan Practice",
+      "author": "John Beckett",
+      "subject": "Eclectic Paganism",
+      "level": "Beginner",
+      "year": 2017
+    },
+    {
+      "title": "A Book of Pagan Prayer",
+      "author": "Ceisiwr Serith",
+      "subject": "Eclectic Paganism",
+      "level": "Intermediate",
+      "year": 2002
+    },
+    {
+      "title": "Modern Paganism in World Cultures: Comparative Perspectives",
+      "author": "Edited by Michael F. Strmiska",
+      "subject": "Eclectic Paganism",
+      "level": "Advanced",
+      "year": 2005
+    },
+    {
+      "title": "The Pagan Book of Living and Dying",
+      "author": "Edited by Starhawk, M. Macha Nightmare and others",
+      "subject": "Eclectic Paganism",
+      "level": "Intermediate",
+      "year": 1997
+    },
+    {
+      "title": "Shinto: The Kami Way",
+      "author": "Sokyo Ono; edited by William P. Woodard",
+      "subject": "Shinto",
+      "level": "Beginner",
+      "year": 1960
+    },
+    {
+      "title": "Shinto: A History",
+      "author": "Helen Hardacre",
+      "subject": "Shinto",
+      "level": "Advanced",
+      "year": 2017
+    },
+    {
+      "title": "Shinto in History: Ways of the Kami",
+      "author": "Edited by John Breen and Mark Teeuwen",
+      "subject": "Shinto",
+      "level": "Advanced",
+      "year": 2000
+    },
+    {
+      "title": "A Year in the Life of a Shinto Shrine",
+      "author": "John K. Nelson",
+      "subject": "Shinto",
+      "level": "Intermediate",
+      "year": 1996
+    },
+    {
+      "title": "Shinto: A Short History",
+      "author": "Edited by Inoue Nobutaka",
+      "subject": "Shinto",
+      "level": "Beginner",
+      "year": 2003
+    },
+    {
+      "title": "Why I Am Not a Christian",
+      "author": "Bertrand Russell",
+      "subject": "Secularism and religion",
+      "level": "Beginner",
+      "year": 1927
+    },
+    {
+      "title": "The God Delusion",
+      "author": "Richard Dawkins",
+      "subject": "Secularism and religion",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "subject": "Literature and utopias",
+      "level": "Intermediate",
+      "year": 1974
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "subject": "Literature and utopias",
+      "level": "Beginner",
+      "year": 1949
+    },
+    {
+      "title": "The Little Book of Conflict Transformation",
+      "author": "John Paul Lederach",
+      "subject": "Community practice",
+      "level": "Beginner",
+      "year": 2003
+    },
+    {
+      "title": "Mutual Aid",
+      "author": "Dean Spade",
+      "subject": "Community practice",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "Free Software, Free Society",
+      "author": "Richard M. Stallman",
+      "subject": "Digital commons and privacy",
+      "level": "Intermediate",
+      "year": 2002
+    },
+    {
+      "title": "The Cathedral and the Bazaar",
+      "author": "Eric S. Raymond",
+      "subject": "Digital commons and privacy",
+      "level": "Intermediate",
+      "year": 1999
+    },
+    {
+      "title": "The Greek Myths",
+      "author": "Robert Graves",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Intermediate",
+      "year": 1955
+    },
+    {
+      "title": "Ancient Greek Religion",
+      "author": "Jon D. Mikalson",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Intermediate",
+      "year": 2005
+    },
+    {
+      "title": "Roman Religion",
+      "author": "Jörg Rüpke",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Advanced",
+      "year": 2007
+    },
+    {
+      "title": "The Roman Festivals of the Period of the Republic",
+      "author": "W. Warde Fowler",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Advanced",
+      "year": 1899
+    },
+    {
+      "title": "The Oxford Handbook of Ancient Greek Religion",
+      "author": "Edited by Esther Eidinow and Julia Kindt",
+      "subject": "Hellenism and Roman Religion",
+      "level": "Advanced",
+      "year": 2015
+    },
+    {
+      "title": "The Gods of the Celts",
+      "author": "Miranda J. Green",
+      "subject": "Celtic Traditions",
+      "level": "Intermediate",
+      "year": 1986
+    },
+    {
+      "title": "The Celtic Myths: A Guide to the Ancient Gods and Legends",
+      "author": "Miranda Aldhouse-Green",
+      "subject": "Celtic Traditions",
+      "level": "Beginner",
+      "year": 2015
+    },
+    {
+      "title": "Pagan Celtic Britain",
+      "author": "Anne Ross",
+      "subject": "Celtic Traditions",
+      "level": "Advanced",
+      "year": 1967
+    },
+    {
+      "title": "The Celtic World",
+      "author": "Edited by Barry Cunliffe",
+      "subject": "Celtic Traditions",
+      "level": "Advanced",
+      "year": 1995
+    },
+    {
+      "title": "The Complete Gods and Goddesses of Ancient Egypt",
+      "author": "Richard H. Wilkinson",
+      "subject": "Kemetism",
+      "level": "Beginner",
+      "year": 2003
+    },
+    {
+      "title": "Religion and Ritual in Ancient Egypt",
+      "author": "Emily Teeter",
+      "subject": "Kemetism",
+      "level": "Intermediate",
+      "year": 2011
+    },
+    {
+      "title": "Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms",
+      "author": "Miriam Lichtheim",
+      "subject": "Kemetism",
+      "level": "Advanced",
+      "year": 1973
+    },
+    {
+      "title": "Ancient Egyptian Literature, Volume II: The New Kingdom",
+      "author": "Miriam Lichtheim",
+      "subject": "Kemetism",
+      "level": "Advanced",
+      "year": 1976
+    },
+    {
+      "title": "The Road to Hel: A Study of the Conception of the Dead in Old Norse Literature",
+      "author": "H. R. Ellis Davidson",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Advanced",
+      "year": 1943
+    },
+    {
+      "title": "Dictionary of Northern Mythology",
+      "author": "Rudolf Simek; translated by Angela Hall",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Advanced",
+      "year": 1993
+    },
+    {
+      "title": "Norse Mythology",
+      "author": "John Lindow",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Intermediate",
+      "year": 2001
+    },
+    {
+      "title": "The Viking World",
+      "author": "Edited by Stefan Brink and Neil Price",
+      "subject": "Germanic and Norse Traditions",
+      "level": "Advanced",
+      "year": 2008
+    },
+    {
+      "title": "The Slavic Myths",
+      "author": "Noah Charney and Svetlana Slapšak",
+      "subject": "Slavic Traditions",
+      "level": "Beginner",
+      "year": 2023
+    },
+    {
+      "title": "The Slavs in European History and Civilization",
+      "author": "Francis Dvornik",
+      "subject": "Slavic Traditions",
+      "level": "Advanced",
+      "year": 1962
+    },
+    {
+      "title": "Religious Beliefs of the Slavs",
+      "author": "Andrzej Szyjewski",
+      "subject": "Slavic Traditions",
+      "level": "Intermediate",
+      "year": 2003
+    },
+    {
+      "title": "The Witches’ Bible: The Complete Witches’ Handbook",
+      "author": "Janet and Stewart Farrar",
+      "subject": "Wicca",
+      "level": "Intermediate",
+      "year": 1981
+    },
+    {
+      "title": "Buckland’s Complete Book of Witchcraft",
+      "author": "Raymond Buckland",
+      "subject": "Wicca",
+      "level": "Beginner",
+      "year": 1986
+    },
+    {
+      "title": "Living Wicca: A Further Guide for the Solitary Practitioner",
+      "author": "Scott Cunningham",
+      "subject": "Wicca",
+      "level": "Beginner",
+      "year": 1993
+    },
+    {
+      "title": "The Wiccan Mysteries: Ancient Origins and Teachings",
+      "author": "Raven Grimassi",
+      "subject": "Wicca",
+      "level": "Intermediate",
+      "year": 1997
+    },
+    {
+      "title": "Myths and Legends of the Polynesians",
+      "author": "Johannes C. Andersen",
+      "subject": "Polynesian Traditions",
+      "level": "Intermediate",
+      "year": 1928
+    },
+    {
+      "title": "Māori Religion and Mythology",
+      "author": "Elsdon Best",
+      "subject": "Polynesian Traditions",
+      "level": "Advanced",
+      "year": 1924
+    },
+    {
+      "title": "Hawaiian Antiquities (Moolelo Hawaii)",
+      "author": "David Malo; translated by Nathaniel B. Emerson",
+      "subject": "Polynesian Traditions",
+      "level": "Advanced",
+      "year": 1903
+    },
+    {
+      "title": "Polynesian Mythology and Ancient Traditional History of the New Zealand Race",
+      "author": "George Grey",
+      "subject": "Polynesian Traditions",
+      "level": "Advanced",
+      "year": 1855
+    },
+    {
+      "title": "Aztecs: An Interpretation",
+      "author": "Inga Clendinnen",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Advanced",
+      "year": 1991
+    },
+    {
+      "title": "Handbook to Life in the Aztec World",
+      "author": "Manuel Aguilar-Moreno",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "The Aztecs of Mexico: An Introduction to the History and Culture of the Mexica People",
+      "author": "Michael E. Smith",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Intermediate",
+      "year": 1984
+    },
+    {
+      "title": "The Essential Codex Mendoza",
+      "author": "Frances F. Berdan and Patricia Rieff Anawalt",
+      "subject": "Aztec and Mexica Traditions",
+      "level": "Advanced",
+      "year": 1997
+    },
+    {
+      "title": "The Incas",
+      "author": "Craig Morris and Adriana von Hagen",
+      "subject": "Inca and Andean Traditions",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "The Incas and Their Ancestors: The Archaeology of Peru",
+      "author": "Michael E. Moseley",
+      "subject": "Inca and Andean Traditions",
+      "level": "Advanced",
+      "year": 1992
+    },
+    {
+      "title": "The Ancient Maya",
+      "author": "Robert J. Sharer and Loa P. Traxler",
+      "subject": "Maya Traditions",
+      "level": "Advanced",
+      "year": 2006
+    },
+    {
+      "title": "Maya History and Religion",
+      "author": "J. Eric S. Thompson",
+      "subject": "Maya Traditions",
+      "level": "Intermediate",
+      "year": 1970
+    },
+    {
+      "title": "The Maya: A Very Short Introduction",
+      "author": "Matthew Restall and Amara Solari",
+      "subject": "Maya Traditions",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "Reading the Maya Glyphs",
+      "author": "Michael D. Coe and Mark Van Stone",
+      "subject": "Maya Traditions",
+      "level": "Intermediate",
+      "year": 2001
+    },
+    {
+      "title": "Carthage: A History",
+      "author": "Serge Lancel; translated by Antonia Nevill",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Intermediate",
+      "year": 1995
+    },
+    {
+      "title": "The Tophet in the Punic Mediterranean",
+      "author": "Edited by Paolo Xella",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Advanced",
+      "year": 2013
+    },
+    {
+      "title": "The Phoenicians and the West: Politics, Colonies and Trade",
+      "author": "Maria Eugenia Aubet; translated by Mary Turton",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Advanced",
+      "year": 2001
+    },
+    {
+      "title": "Carthage and the Carthaginians",
+      "author": "R. Bosworth Smith",
+      "subject": "Punic and Carthaginian Religion",
+      "level": "Intermediate",
+      "year": 1878
+    },
+    {
+      "title": "The Zoroastrian Tradition: An Introduction to the Ancient Wisdom of Zarathushtra",
+      "author": "Farhang Mehr",
+      "subject": "Zoroastrianism",
+      "level": "Beginner",
+      "year": 1991
+    },
+    {
+      "title": "Zoroastrianism: A Guide for the Perplexed",
+      "author": "Jenny Rose",
+      "subject": "Zoroastrianism",
+      "level": "Intermediate",
+      "year": 2011
+    },
+    {
+      "title": "The Gathas of Zarathushtra",
+      "author": "Translated by Stanley Insler",
+      "subject": "Zoroastrianism",
+      "level": "Advanced",
+      "year": 1975
+    },
+    {
+      "title": "Zoroastrianism: Its Antiquity and Constant Vigour",
+      "author": "Maneckji Nusservanji Dhalla",
+      "subject": "Zoroastrianism",
+      "level": "Advanced",
+      "year": 1914
+    },
+    {
+      "title": "The Canaanites",
+      "author": "Jonathan N. Tubb",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Beginner",
+      "year": 1998
+    },
+    {
+      "title": "The Ugaritic Baal Cycle, Volume I",
+      "author": "Mark S. Smith and Wayne T. Pitard",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Advanced",
+      "year": 1994
+    },
+    {
+      "title": "The Ugaritic Baal Cycle, Volume II",
+      "author": "Mark S. Smith and Wayne T. Pitard",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Advanced",
+      "year": 2009
+    },
+    {
+      "title": "The Religion of Ancient Israel",
+      "author": "Ziony Zevit",
+      "subject": "Canaanite and Pre-Abrahamic Traditions",
+      "level": "Advanced",
+      "year": 2001
+    },
+    {
+      "title": "Drawing Down the Moon: Witches, Druids, Goddess-Worshippers, and Other Pagans in America",
+      "author": "Margot Adler",
+      "subject": "Eclectic Paganism",
+      "level": "Intermediate",
+      "year": 1979
+    },
+    {
+      "title": "A World Full of Gods: An Inquiry into Polytheism",
+      "author": "John Michael Greer",
+      "subject": "Eclectic Paganism",
+      "level": "Intermediate",
+      "year": 2005
+    },
+    {
+      "title": "The Druidry Handbook: Spiritual Practice Rooted in the Living Earth",
+      "author": "John Michael Greer",
+      "subject": "Eclectic Paganism",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "The Book of Pagan Prayer",
+      "author": "Ceisiwr Serith",
+      "subject": "Eclectic Paganism",
+      "level": "Intermediate",
+      "year": 2002
+    },
+    {
+      "title": "Shinto: The Way Home",
+      "author": "Thomas P. Kasulis",
+      "subject": "Shinto",
+      "level": "Intermediate",
+      "year": 2004
+    },
+    {
+      "title": "A New History of Shinto",
+      "author": "John Breen and Mark Teeuwen",
+      "subject": "Shinto",
+      "level": "Advanced",
+      "year": 2010
+    },
+    {
+      "title": "The Daoist Tradition",
+      "author": "Livia Kohn",
+      "subject": "Daoism",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "Daoism: A Guide for the Perplexed",
+      "author": "Louis Komjathy",
+      "subject": "Daoism",
+      "level": "Intermediate",
+      "year": 2014
+    },
+    {
+      "title": "The Taoist Classics, Volume 1",
+      "author": "Thomas Cleary, translator",
+      "subject": "Daoism",
+      "level": "Intermediate",
+      "year": 1999
+    },
+    {
+      "title": "Introduction to Classical Chinese Philosophy",
+      "author": "Bryan W. Van Norden",
+      "subject": "Confucianism",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "Confucianism: A Short Introduction",
+      "author": "Ronnie Littlejohn",
+      "subject": "Confucianism",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "Confucianism and the Family",
+      "author": "Edited by Walter H. Slote and George A. De Vos",
+      "subject": "Confucianism",
+      "level": "Advanced",
+      "year": 1998
+    },
+    {
+      "title": "Humanism: A Beginner's Guide",
+      "author": "Stephen Law",
+      "subject": "Humanism",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "What Is Humanism?",
+      "author": "Andrew Copson",
+      "subject": "Humanism",
+      "level": "Beginner",
+      "year": 2015
+    },
+    {
+      "title": "The Humanist Tradition in the West",
+      "author": "Alan Bullock",
+      "subject": "Humanism",
+      "level": "Intermediate",
+      "year": 1985
+    },
+    {
+      "title": "The God Argument: The Case against Religion and for Humanism",
+      "author": "A. C. Grayling",
+      "subject": "Humanism",
+      "level": "Intermediate",
+      "year": 2013
+    },
+    {
+      "title": "The Little Book of Humanism",
+      "author": "Andrew Copson and Alice Roberts",
+      "subject": "Humanism",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "Humanism: A Beginner's Guide",
+      "author": "Peter Cave",
+      "subject": "Humanism",
+      "level": "Beginner",
+      "year": 2009
+    },
+    {
+      "title": "The Humanist Manifesto III",
+      "author": "American Humanist Association",
+      "subject": "Humanism",
+      "level": "Beginner",
+      "year": 2003
+    },
+    {
+      "title": "The Meaning of Humanism",
+      "author": "Corliss Lamont",
+      "subject": "Humanism",
+      "level": "Intermediate",
+      "year": 1997
+    },
+    {
+      "title": "Secularism: A Very Short Introduction",
+      "author": "Andrew Copson",
+      "subject": "Secularism",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "A Secular Age",
+      "author": "Charles Taylor",
+      "subject": "Secularism",
+      "level": "Advanced",
+      "year": 2007
+    },
+    {
+      "title": "The Secular Outlook: In Defense of Moral and Political Secularism",
+      "author": "Paul Cliteur",
+      "subject": "Secularism",
+      "level": "Advanced",
+      "year": 2010
+    },
+    {
+      "title": "Living the Secular Life: New Answers to Old Questions",
+      "author": "Phil Zuckerman",
+      "subject": "Secularism",
+      "level": "Beginner",
+      "year": 2014
+    },
+    {
+      "title": "Secularism and Freedom of Conscience",
+      "author": "Cécile Laborde",
+      "subject": "Secularism",
+      "level": "Advanced",
+      "year": 2017
+    },
+    {
+      "title": "The Politics of Secularism in International Relations",
+      "author": "Elizabeth Shakman Hurd",
+      "subject": "Secularism",
+      "level": "Advanced",
+      "year": 2008
+    },
+    {
+      "title": "The Nonreligious: Understanding Secular People and Societies",
+      "author": "Lois Lee",
+      "subject": "Secularism",
+      "level": "Intermediate",
+      "year": 2015
+    },
+    {
+      "title": "The Oxford Handbook of Secularism",
+      "author": "Edited by Phil Zuckerman and John R. Shook",
+      "subject": "Secularism",
+      "level": "Advanced",
+      "year": 2017
+    },
+    {
+      "title": "The Little Book of Atheist Spirituality",
+      "author": "André Comte-Sponville",
+      "subject": "Apatheism",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "The Nonreligious: Understanding Secular People and Societies",
+      "author": "Lois Lee",
+      "subject": "Apatheism",
+      "level": "Intermediate",
+      "year": 2015
+    },
+    {
+      "title": "The Varieties of Nonreligious Experience: Atheism in American Culture",
+      "author": "Phil Zuckerman",
+      "subject": "Apatheism",
+      "level": "Intermediate",
+      "year": 2010
+    },
+    {
+      "title": "Religion for Atheists: A Non-believer's Guide to the Uses of Religion",
+      "author": "Alain de Botton",
+      "subject": "Apatheism",
+      "level": "Beginner",
+      "year": 2012
+    },
+    {
+      "title": "The Oxford Handbook of Atheism",
+      "author": "Edited by Stephen Bullivant and Michael Ruse",
+      "subject": "Apatheism",
+      "level": "Advanced",
+      "year": 2013
+    },
+    {
+      "title": "Atheism: A Very Short Introduction",
+      "author": "Julian Baggini",
+      "subject": "Apatheism",
+      "level": "Beginner",
+      "year": 2003
+    },
+    {
+      "title": "The Joy of Secularism: 11 Essays for How We Live Now",
+      "author": "Edited by George Levine",
+      "subject": "Apatheism",
+      "level": "Intermediate",
+      "year": 2011
+    },
+    {
+      "title": "The Miracle of Theism: Arguments for and against the Existence of God",
+      "author": "J. L. Mackie",
+      "subject": "Ignosticism and Theological Noncognitivism",
+      "level": "Advanced",
+      "year": 1982
+    },
+    {
+      "title": "Theology and Falsification",
+      "author": "Antony Flew",
+      "subject": "Ignosticism and Theological Noncognitivism",
+      "level": "Advanced",
+      "year": 1950
+    },
+    {
+      "title": "The God of the Philosophers",
+      "author": "Antony Flew",
+      "subject": "Ignosticism and Theological Noncognitivism",
+      "level": "Intermediate",
+      "year": 1966
+    },
+    {
+      "title": "The Existence of God",
+      "author": "Richard Swinburne",
+      "subject": "Ignosticism and Theological Noncognitivism",
+      "level": "Advanced",
+      "year": 1979
+    },
+    {
+      "title": "Philosophy of Religion: A Very Short Introduction",
+      "author": "Tim Bayne",
+      "subject": "Ignosticism and Theological Noncognitivism",
+      "level": "Beginner",
+      "year": 2018
+    },
+    {
+      "title": "The Impossibility of God",
+      "author": "Edited by Michael Martin and Ricki Monnier",
+      "subject": "Ignosticism and Theological Noncognitivism",
+      "level": "Advanced",
+      "year": 2003
+    },
+    {
+      "title": "The Nonexistence of God",
+      "author": "Nicholas Everitt",
+      "subject": "Ignosticism and Theological Noncognitivism",
+      "level": "Advanced",
+      "year": 2004
+    },
+    {
+      "title": "Epistemology: A Contemporary Introduction to the Theory of Knowledge",
+      "author": "Robert Audi",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Advanced",
+      "year": 2010
+    },
+    {
+      "title": "The Ethics of Belief",
+      "author": "William K. Clifford",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Intermediate",
+      "year": 1877
+    },
+    {
+      "title": "The Will to Believe",
+      "author": "William James",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Intermediate",
+      "year": 1897
+    },
+    {
+      "title": "Knowledge and Its Limits",
+      "author": "Timothy Williamson",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Advanced",
+      "year": 2000
+    },
+    {
+      "title": "The Problem of Knowledge",
+      "author": "A. J. Ayer",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Advanced",
+      "year": 1956
+    },
+    {
+      "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+      "author": "Carl Sagan",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Beginner",
+      "year": 1995
+    },
+    {
+      "title": "The Scout Mindset: Why Some People See Things Clearly and Others Don't",
+      "author": "Julia Galef",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Beginner",
+      "year": 2021
+    },
+    {
+      "title": "How to Think About Weird Things: Critical Thinking for a New Age",
+      "author": "Theodore Schick Jr. and Lewis Vaughn",
+      "subject": "Apistevism and Epistemic Criticism",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "Metaethics: An Introduction",
+      "author": "Andrew Fisher",
+      "subject": "Metaethics",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "Metaethics: A Contemporary Introduction",
+      "author": "Alexis Burgess and David Plunkett",
+      "subject": "Metaethics",
+      "level": "Advanced",
+      "year": 2020
+    },
+    {
+      "title": "The Fundamentals of Ethics",
+      "author": "Russ Shafer-Landau",
+      "subject": "Metaethics",
+      "level": "Beginner",
+      "year": 2018
+    },
+    {
+      "title": "The Moral Problem",
+      "author": "Michael Smith",
+      "subject": "Metaethics",
+      "level": "Advanced",
+      "year": 1994
+    },
+    {
+      "title": "Essays on Moral Realism",
+      "author": "Edited by Geoffrey Sayre-McCord",
+      "subject": "Metaethics",
+      "level": "Advanced",
+      "year": 1988
+    },
+    {
+      "title": "Being Good: A Short Introduction to Ethics",
+      "author": "Simon Blackburn",
+      "subject": "Metaethics",
+      "level": "Beginner",
+      "year": 2001
+    },
+    {
+      "title": "Moral Fiction",
+      "author": "Mark Eli Kalderon",
+      "subject": "Moral Anti-Realism and Error Theory",
+      "level": "Advanced",
+      "year": 2005
+    },
+    {
+      "title": "Moral Relativism and Moral Objectivity",
+      "author": "Gilbert Harman and Judith Jarvis Thomson",
+      "subject": "Moral Anti-Realism and Error Theory",
+      "level": "Advanced",
+      "year": 1996
+    },
+    {
+      "title": "The Oxford Handbook of Ethical Theory",
+      "author": "Edited by David Copp",
+      "subject": "Moral Anti-Realism and Error Theory",
+      "level": "Advanced",
+      "year": 2006
+    },
+    {
+      "title": "Taking Morality Seriously: A Defense of Robust Realism",
+      "author": "David Enoch",
+      "subject": "Moral Anti-Realism and Error Theory",
+      "level": "Advanced",
+      "year": 2011
+    },
+    {
+      "title": "The Evolution of Morality",
+      "author": "Richard Joyce",
+      "subject": "Moral Anti-Realism and Error Theory",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "What Is This Thing Called Science?",
+      "author": "Alan F. Chalmers",
+      "subject": "Philosophy of Science",
+      "level": "Beginner",
+      "year": 1976
+    },
+    {
+      "title": "Theory and Reality: An Introduction to the Philosophy of Science",
+      "author": "Peter Godfrey-Smith",
+      "subject": "Philosophy of Science",
+      "level": "Intermediate",
+      "year": 2003
+    },
+    {
+      "title": "Philosophy of Science: A Very Short Introduction",
+      "author": "Samir Okasha",
+      "subject": "Philosophy of Science",
+      "level": "Beginner",
+      "year": 2002
+    },
+    {
+      "title": "The Logic of Scientific Discovery",
+      "author": "Karl Popper",
+      "subject": "Philosophy of Science",
+      "level": "Advanced",
+      "year": 1959
+    },
+    {
+      "title": "Conjectures and Refutations: The Growth of Scientific Knowledge",
+      "author": "Karl Popper",
+      "subject": "Philosophy of Science",
+      "level": "Advanced",
+      "year": 1963
+    },
+    {
+      "title": "Against Method",
+      "author": "Paul Feyerabend",
+      "subject": "Philosophy of Science",
+      "level": "Advanced",
+      "year": 1975
+    },
+    {
+      "title": "The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience",
+      "author": "Lee McIntyre",
+      "subject": "Philosophy of Science",
+      "level": "Intermediate",
+      "year": 2019
+    },
+    {
+      "title": "The Knowledge Machine: How Irrationality Created Modern Science",
+      "author": "Michael Strevens",
+      "subject": "Philosophy of Science",
+      "level": "Intermediate",
+      "year": 2020
+    },
+    {
+      "title": "Scientific Method in Practice",
+      "author": "Hugh G. Gauch Jr.",
+      "subject": "Science and Scientific Method",
+      "level": "Advanced",
+      "year": 2003
+    },
+    {
+      "title": "The Beginning of Infinity: Explanations That Transform the World",
+      "author": "David Deutsch",
+      "subject": "Science and Scientific Method",
+      "level": "Advanced",
+      "year": 2011
+    },
+    {
+      "title": "The Craft of Scientific Writing",
+      "author": "Michael Alley",
+      "subject": "Science and Scientific Method",
+      "level": "Intermediate",
+      "year": 1996
+    },
+    {
+      "title": "Calling Bullshit: The Art of Skepticism in a Data-Driven World",
+      "author": "Carl T. Bergstrom and Jevin D. West",
+      "subject": "Science and Scientific Method",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "The Scientific Revolution",
+      "author": "Steven Shapin",
+      "subject": "Science and Scientific Method",
+      "level": "Intermediate",
+      "year": 1996
+    },
+    {
+      "title": "The Art of Statistics: Learning from Data",
+      "author": "David Spiegelhalter",
+      "subject": "Science and Scientific Method",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas S. Kuhn",
+      "subject": "Science and Scientific Method",
+      "level": "Intermediate",
+      "year": 1962
+    },
+    {
+      "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+      "author": "Carl Sagan",
+      "subject": "Science and Scientific Method",
+      "level": "Beginner",
+      "year": 1995
+    },
+    {
+      "title": "The God Delusion",
+      "author": "Richard Dawkins",
+      "subject": "New Atheism and Its Critics",
+      "level": "Beginner",
+      "year": 2006
+    },
+    {
+      "title": "The Blind Watchmaker",
+      "author": "Richard Dawkins",
+      "subject": "New Atheism and Its Critics",
+      "level": "Intermediate",
+      "year": 1986
+    },
+    {
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "subject": "New Atheism and Its Critics",
+      "level": "Intermediate",
+      "year": 1976
+    },
+    {
+      "title": "God Is Not Great: How Religion Poisons Everything",
+      "author": "Christopher Hitchens",
+      "subject": "New Atheism and Its Critics",
+      "level": "Beginner",
+      "year": 2007
+    },
+    {
+      "title": "The Missionary Position: Mother Teresa in Theory and Practice",
+      "author": "Christopher Hitchens",
+      "subject": "New Atheism and Its Critics",
+      "level": "Intermediate",
+      "year": 1995
+    },
+    {
+      "title": "Letters to a Young Contrarian",
+      "author": "Christopher Hitchens",
+      "subject": "New Atheism and Its Critics",
+      "level": "Beginner",
+      "year": 2001
+    },
+    {
+      "title": "Breaking the Spell: Religion as a Natural Phenomenon",
+      "author": "Daniel C. Dennett",
+      "subject": "New Atheism and Its Critics",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "Darwin's Dangerous Idea: Evolution and the Meanings of Life",
+      "author": "Daniel C. Dennett",
+      "subject": "New Atheism and Its Critics",
+      "level": "Advanced",
+      "year": 1995
+    },
+    {
+      "title": "The End of Faith: Religion, Terror, and the Future of Reason",
+      "author": "Sam Harris",
+      "subject": "New Atheism and Its Critics",
+      "level": "Beginner",
+      "year": 2004
+    },
+    {
+      "title": "Letter to a Christian Nation",
+      "author": "Sam Harris",
+      "subject": "New Atheism and Its Critics",
+      "level": "Beginner",
+      "year": 2006
+    },
+    {
+      "title": "The Four Horsemen: The Conversation That Sparked an Atheist Revolution",
+      "author": "Richard Dawkins, Daniel C. Dennett, Sam Harris and Christopher Hitchens; moderated by Stephen Fry",
+      "subject": "New Atheism and Its Critics",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "Atheism: The Case Against God",
+      "author": "George H. Smith",
+      "subject": "New Atheism and Its Critics",
+      "level": "Intermediate",
+      "year": 1979
+    },
+    {
+      "title": "The Evolution of Atheism: The Politics of a Modern Movement",
+      "author": "Stephen LeDrew",
+      "subject": "New Atheism and Its Critics",
+      "level": "Advanced",
+      "year": 2016
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "subject": "Environmentalism and Conservation",
+      "level": "Beginner",
+      "year": 1962
+    },
+    {
+      "title": "A Sand County Almanac",
+      "author": "Aldo Leopold",
+      "subject": "Environmentalism and Conservation",
+      "level": "Beginner",
+      "year": 1949
+    },
+    {
+      "title": "The Sixth Extinction: An Unnatural History",
+      "author": "Elizabeth Kolbert",
+      "subject": "Environmentalism and Conservation",
+      "level": "Beginner",
+      "year": 2014
+    },
+    {
+      "title": "The Uninhabitable Earth: Life After Warming",
+      "author": "David Wallace-Wells",
+      "subject": "Environmentalism and Conservation",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "This Changes Everything: Capitalism vs. the Climate",
+      "author": "Naomi Klein",
+      "subject": "Environmentalism and Conservation",
+      "level": "Intermediate",
+      "year": 2014
+    },
+    {
+      "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+      "author": "Robin Wall Kimmerer",
+      "subject": "Environmentalism and Conservation",
+      "level": "Beginner",
+      "year": 2013
+    },
+    {
+      "title": "The End of Nature",
+      "author": "Bill McKibben",
+      "subject": "Environmentalism and Conservation",
+      "level": "Beginner",
+      "year": 1989
+    },
+    {
+      "title": "The Future of Life",
+      "author": "Edward O. Wilson",
+      "subject": "Environmentalism and Conservation",
+      "level": "Beginner",
+      "year": 2002
+    },
+    {
+      "title": "The Economics of Biodiversity: The Dasgupta Review",
+      "author": "Partha Dasgupta",
+      "subject": "Environmentalism and Conservation",
+      "level": "Advanced",
+      "year": 2021
+    },
+    {
+      "title": "The Ecocentrists: A History of Radical Environmentalism",
+      "author": "Keith Makoto Woodhouse",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Advanced",
+      "year": 2018
+    },
+    {
+      "title": "Deep Ecology: Living as if Nature Mattered",
+      "author": "Bill Devall and George Sessions",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Intermediate",
+      "year": 1985
+    },
+    {
+      "title": "The Ecological Self",
+      "author": "Freya Mathews",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Advanced",
+      "year": 1991
+    },
+    {
+      "title": "Environmental Ethics: An Introduction to Environmental Philosophy",
+      "author": "Joseph R. DesJardins",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Intermediate",
+      "year": 2012
+    },
+    {
+      "title": "The Ecological Thought",
+      "author": "Timothy Morton",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Advanced",
+      "year": 2010
+    },
+    {
+      "title": "The Green State: Rethinking Democracy and Sovereignty",
+      "author": "Robyn Eckersley",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Advanced",
+      "year": 2004
+    },
+    {
+      "title": "Ecological Economics: Principles and Applications",
+      "author": "Herman E. Daly and Joshua Farley",
+      "subject": "Ecological Economics and Degrowth",
+      "level": "Advanced",
+      "year": 2004
+    },
+    {
+      "title": "Prosperity Without Growth: Foundations for the Economy of Tomorrow",
+      "author": "Tim Jackson",
+      "subject": "Ecological Economics and Degrowth",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "Less Is More: How Degrowth Will Save the World",
+      "author": "Jason Hickel",
+      "subject": "Ecological Economics and Degrowth",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "The Limits to Growth",
+      "author": "Donella H. Meadows, Dennis L. Meadows, Jørgen Randers and William W. Behrens III",
+      "subject": "Ecological Economics and Degrowth",
+      "level": "Intermediate",
+      "year": 1972
+    },
+    {
+      "title": "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist",
+      "author": "Kate Raworth",
+      "subject": "Ecological Economics and Degrowth",
+      "level": "Beginner",
+      "year": 2017
+    },
+    {
+      "title": "Environmental Justice: Concepts, Evidence and Politics",
+      "author": "Gordon Walker",
+      "subject": "Environmental Justice and Political Ecology",
+      "level": "Intermediate",
+      "year": 2012
+    },
+    {
+      "title": "The Environmentalism of the Poor",
+      "author": "Joan Martinez-Alier",
+      "subject": "Environmental Justice and Political Ecology",
+      "level": "Advanced",
+      "year": 2002
+    },
+    {
+      "title": "A Political Ecology of the Modern World-System",
+      "author": "Alf Hornborg, J. R. McNeill and Joan Martinez-Alier (editors)",
+      "subject": "Environmental Justice and Political Ecology",
+      "level": "Advanced",
+      "year": 2007
+    },
+    {
+      "title": "The Politics of the Earth: Environmental Discourses",
+      "author": "John S. Dryzek",
+      "subject": "Environmental Justice and Political Ecology",
+      "level": "Advanced",
+      "year": 1997
+    },
+    {
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "subject": "Cosmology and the Universe",
+      "level": "Beginner",
+      "year": 1980
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "subject": "Cosmology and the Universe",
+      "level": "Beginner",
+      "year": 1988
+    },
+    {
+      "title": "The First Three Minutes: A Modern View of the Origin of the Universe",
+      "author": "Steven Weinberg",
+      "subject": "Cosmology and the Universe",
+      "level": "Intermediate",
+      "year": 1977
+    },
+    {
+      "title": "The Inflationary Universe",
+      "author": "Alan H. Guth",
+      "subject": "Cosmology and the Universe",
+      "level": "Intermediate",
+      "year": 1997
+    },
+    {
+      "title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+      "author": "Brian Greene",
+      "subject": "Cosmology and the Universe",
+      "level": "Intermediate",
+      "year": 2004
+    },
+    {
+      "title": "The Big Picture: On the Origins of Life, Meaning, and the Universe Itself",
+      "author": "Sean Carroll",
+      "subject": "Cosmology and the Universe",
+      "level": "Intermediate",
+      "year": 2016
+    },
+    {
+      "title": "Astrophysics for People in a Hurry",
+      "author": "Neil deGrasse Tyson",
+      "subject": "Cosmology and the Universe",
+      "level": "Beginner",
+      "year": 2017
+    },
+    {
+      "title": "The Universe in a Nutshell",
+      "author": "Stephen Hawking",
+      "subject": "Cosmology and the Universe",
+      "level": "Intermediate",
+      "year": 2001
+    },
+    {
+      "title": "The Elegant Universe",
+      "author": "Brian Greene",
+      "subject": "Cosmology and the Universe",
+      "level": "Intermediate",
+      "year": 1999
+    },
+    {
+      "title": "The Road to Reality: A Complete Guide to the Laws of the Universe",
+      "author": "Roger Penrose",
+      "subject": "Cosmology and the Universe",
+      "level": "Advanced",
+      "year": 2004
+    },
+    {
+      "title": "An Introduction to Modern Astrophysics",
+      "author": "Bradley W. Carroll and Dale A. Ostlie",
+      "subject": "Astronomy and Astrophysics",
+      "level": "Advanced",
+      "year": 1996
+    },
+    {
+      "title": "The Cosmic Perspective",
+      "author": "Jeffrey Bennett, Megan Donahue, Nicholas Schneider and Mark Voit",
+      "subject": "Astronomy and Astrophysics",
+      "level": "Intermediate",
+      "year": 2000
+    },
+    {
+      "title": "Exoplanets",
+      "author": "Michael Perryman",
+      "subject": "Astronomy and Astrophysics",
+      "level": "Advanced",
+      "year": 2018
+    },
+    {
+      "title": "The Planet Factory: Exoplanets and the Search for a Second Earth",
+      "author": "Elizabeth Tasker",
+      "subject": "Astronomy and Astrophysics",
+      "level": "Beginner",
+      "year": 2017
+    },
+    {
+      "title": "Life in the Universe",
+      "author": "Jeffrey Bennett and Seth Shostak",
+      "subject": "Astrobiology and Planetary Science",
+      "level": "Intermediate",
+      "year": 2007
+    },
+    {
+      "title": "The Search for Life in the Universe",
+      "author": "Donald Goldsmith and Tobias Owen",
+      "subject": "Astrobiology and Planetary Science",
+      "level": "Intermediate",
+      "year": 1992
+    },
+    {
+      "title": "Rare Earth: Why Complex Life Is Uncommon in the Universe",
+      "author": "Peter D. Ward and Donald Brownlee",
+      "subject": "Astrobiology and Planetary Science",
+      "level": "Intermediate",
+      "year": 2000
+    },
+    {
+      "title": "The New World on Mars: What We Can Create on the Red Planet",
+      "author": "Robert Zubrin",
+      "subject": "Astrobiology and Planetary Science",
+      "level": "Intermediate",
+      "year": 2021
+    },
+    {
+      "title": "Gaia: A New Look at Life on Earth",
+      "author": "James Lovelock",
+      "subject": "Earth Systems and Geoscience",
+      "level": "Beginner",
+      "year": 1979
+    },
+    {
+      "title": "The Earth System",
+      "author": "Lee R. Kump, James F. Kasting and Robert G. Crane",
+      "subject": "Earth Systems and Geoscience",
+      "level": "Advanced",
+      "year": 1999
+    },
+    {
+      "title": "The Story of Earth: The First 4.5 Billion Years, from Stardust to Living Planet",
+      "author": "Robert M. Hazen",
+      "subject": "Earth Systems and Geoscience",
+      "level": "Beginner",
+      "year": 2012
+    },
+    {
+      "title": "Annals of the Former World",
+      "author": "John McPhee",
+      "subject": "Earth Systems and Geoscience",
+      "level": "Advanced",
+      "year": 1998
+    },
+    {
+      "title": "Thinking in Systems: A Primer",
+      "author": "Donella H. Meadows",
+      "subject": "Systems Thinking and Complexity",
+      "level": "Beginner",
+      "year": 2008
+    },
+    {
+      "title": "The Systems View of Life: A Unifying Vision",
+      "author": "Fritjof Capra and Pier Luigi Luisi",
+      "subject": "Systems Thinking and Complexity",
+      "level": "Advanced",
+      "year": 2014
+    },
+    {
+      "title": "Complexity: A Guided Tour",
+      "author": "Melanie Mitchell",
+      "subject": "Systems Thinking and Complexity",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies",
+      "author": "Geoffrey West",
+      "subject": "Systems Thinking and Complexity",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "Remaking Society: Pathways to a Green Future",
+      "author": "Murray Bookchin",
+      "subject": "Social Ecology and Environmental Anarchism",
+      "level": "Intermediate",
+      "year": 1990
+    },
+    {
+      "title": "The Philosophy of Social Ecology: Essays on Dialectical Naturalism",
+      "author": "Murray Bookchin",
+      "subject": "Social Ecology and Environmental Anarchism",
+      "level": "Advanced",
+      "year": 1990
+    },
+    {
+      "title": "Our Synthetic Environment",
+      "author": "Murray Bookchin",
+      "subject": "Social Ecology and Environmental Anarchism",
+      "level": "Intermediate",
+      "year": 1962
+    },
+    {
+      "title": "The Climate Book",
+      "author": "Edited by Greta Thunberg",
+      "subject": "Climate Science and Energy Transition",
+      "level": "Beginner",
+      "year": 2022
+    },
+    {
+      "title": "The New Climate War: The Fight to Take Back Our Planet",
+      "author": "Michael E. Mann",
+      "subject": "Climate Science and Energy Transition",
+      "level": "Intermediate",
+      "year": 2021
+    },
+    {
+      "title": "Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming",
+      "author": "Edited by Paul Hawken",
+      "subject": "Climate Science and Energy Transition",
+      "level": "Beginner",
+      "year": 2017
+    },
+    {
+      "title": "Under a White Sky: The Nature of the Future",
+      "author": "Elizabeth Kolbert",
+      "subject": "Climate Science and Energy Transition",
+      "level": "Intermediate",
+      "year": 2021
+    },
+    {
+      "title": "The Uninhabitable Earth: Life After Warming",
+      "author": "David Wallace-Wells",
+      "subject": "Climate Science and Energy Transition",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "Animal Liberation",
+      "author": "Peter Singer",
+      "subject": "Animal Ethics and Multispecies Justice",
+      "level": "Intermediate",
+      "year": 1975
+    },
+    {
+      "title": "Zoopolis: A Political Theory of Animal Rights",
+      "author": "Sue Donaldson and Will Kymlicka",
+      "subject": "Animal Ethics and Multispecies Justice",
+      "level": "Advanced",
+      "year": 2011
+    },
+    {
+      "title": "Are We Smart Enough to Know How Smart Animals Are?",
+      "author": "Frans de Waal",
+      "subject": "Animal Ethics and Multispecies Justice",
+      "level": "Beginner",
+      "year": 2016
+    },
+    {
+      "title": "The Order of Time",
+      "author": "Carlo Rovelli",
+      "subject": "Physics and the Nature of Reality",
+      "level": "Beginner",
+      "year": 2017
+    },
+    {
+      "title": "Reality Is Not What It Seems: The Journey to Quantum Gravity",
+      "author": "Carlo Rovelli",
+      "subject": "Physics and the Nature of Reality",
+      "level": "Intermediate",
+      "year": 2014
+    },
+    {
+      "title": "The Fabric of Reality",
+      "author": "David Deutsch",
+      "subject": "Physics and the Nature of Reality",
+      "level": "Advanced",
+      "year": 1997
+    },
+    {
+      "title": "The Big Bang: The Origin of the Universe",
+      "author": "Simon Singh",
+      "subject": "Cosmology and the Universe",
+      "level": "Beginner",
+      "year": 2004
+    },
+    {
+      "title": "The Origins of Life: From the Birth of Life to the Origin of Language",
+      "author": "John Maynard Smith and Eörs Szathmáry",
+      "subject": "Origins of Life and Evolution",
+      "level": "Advanced",
+      "year": 1999
+    },
+    {
+      "title": "The Vital Question: Energy, Evolution, and the Origins of Complex Life",
+      "author": "Nick Lane",
+      "subject": "Origins of Life and Evolution",
+      "level": "Intermediate",
+      "year": 2015
+    },
+    {
+      "title": "The Tangled Tree: A Radical New History of Life",
+      "author": "David Quammen",
+      "subject": "Origins of Life and Evolution",
+      "level": "Intermediate",
+      "year": 2018
+    },
+    {
+      "title": "Cosmopolitanism: Ethics in a World of Strangers",
+      "author": "Kwame Anthony Appiah",
+      "subject": "Cosmopolitanism and Global Justice",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "The Cosmopolitan Tradition: A Noble but Flawed Ideal",
+      "author": "Martha C. Nussbaum",
+      "subject": "Cosmopolitanism and Global Justice",
+      "level": "Advanced",
+      "year": 2019
+    },
+    {
+      "title": "Cosmopolitanism: Ideals and Realities",
+      "author": "David Held",
+      "subject": "Cosmopolitanism and Global Justice",
+      "level": "Advanced",
+      "year": 2010
+    },
+    {
+      "title": "World Poverty and Human Rights",
+      "author": "Thomas Pogge",
+      "subject": "Cosmopolitanism and Global Justice",
+      "level": "Advanced",
+      "year": 2002
+    },
+    {
+      "title": "The Cosmopolitan Vision",
+      "author": "Ulrich Beck",
+      "subject": "Cosmopolitanism and Global Justice",
+      "level": "Advanced",
+      "year": 2006
+    },
+    {
+      "title": "Anarchism: A Very Short Introduction",
+      "author": "Colin Ward",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 2004
+    },
+    {
+      "title": "Demanding the Impossible: A History of Anarchism",
+      "author": "Peter H. Marshall",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1992
+    },
+    {
+      "title": "The ABC of Anarchism",
+      "author": "Alexander Berkman",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 1929
+    },
+    {
+      "title": "Black Flame: The Revolutionary Class Politics of Anarchism and Syndicalism",
+      "author": "Lucien van der Walt and Michael Schmidt",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 2009
+    },
+    {
+      "title": "Anarchism: A Documentary History of Libertarian Ideas, Volume One",
+      "author": "Edited by Robert Graham",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 2005
+    },
+    {
+      "title": "The Politics of Social Ecology: Libertarian Municipalism",
+      "author": "Janet Biehl",
+      "subject": "Communalism",
+      "level": "Intermediate",
+      "year": 1998
+    },
+    {
+      "title": "The Tyranny of Structurelessness",
+      "author": "Jo Freeman",
+      "subject": "Anarchist Organising and Direct Democracy",
+      "level": "Intermediate",
+      "year": 1972
+    },
+    {
+      "title": "Direct Action: An Ethnography",
+      "author": "David Graeber",
+      "subject": "Anarchist Organising and Direct Democracy",
+      "level": "Advanced",
+      "year": 2009
+    },
+    {
+      "title": "The Democracy Project: A History, a Crisis, a Movement",
+      "author": "David Graeber",
+      "subject": "Anarchist Organising and Direct Democracy",
+      "level": "Intermediate",
+      "year": 2013
+    },
+    {
+      "title": "The People's Republic of Walmart",
+      "author": "Leigh Phillips and Michal Rozworski",
+      "subject": "Cooperative and Solidarity Economics",
+      "level": "Beginner",
+      "year": 2019
+    },
+    {
+      "title": "Collective Courage: A History of African American Cooperative Economic Thought and Practice",
+      "author": "Jessica Gordon Nembhard",
+      "subject": "Cooperative and Solidarity Economics",
+      "level": "Intermediate",
+      "year": 2014
+    },
+    {
+      "title": "Humanizing the Economy: Co-operatives in the Age of Capital",
+      "author": "John Restakis",
+      "subject": "Cooperative and Solidarity Economics",
+      "level": "Intermediate",
+      "year": 2010
+    },
+    {
+      "title": "Parecon: Life After Capitalism",
+      "author": "Michael Albert",
+      "subject": "Cooperative and Solidarity Economics",
+      "level": "Advanced",
+      "year": 2003
+    },
+    {
+      "title": "After Capitalism",
+      "author": "David Schweickart",
+      "subject": "Cooperative and Solidarity Economics",
+      "level": "Advanced",
+      "year": 2002
+    },
+    {
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "subject": "Decolonial Thought and Anti-Colonialism",
+      "level": "Advanced",
+      "year": 1961
+    },
+    {
+      "title": "Orientalism",
+      "author": "Edward W. Said",
+      "subject": "Decolonial Thought and Anti-Colonialism",
+      "level": "Advanced",
+      "year": 1978
+    },
+    {
+      "title": "Decolonising the Mind: The Politics of Language in African Literature",
+      "author": "Ngũgĩ wa Thiong'o",
+      "subject": "Decolonial Thought and Anti-Colonialism",
+      "level": "Intermediate",
+      "year": 1986
+    },
+    {
+      "title": "Decolonizing Methodologies: Research and Indigenous Peoples",
+      "author": "Linda Tuhiwai Smith",
+      "subject": "Indigenous Knowledge and Decolonisation",
+      "level": "Advanced",
+      "year": 1999
+    },
+    {
+      "title": "As We Have Always Done: Indigenous Freedom through Radical Resistance",
+      "author": "Leanne Betasamosake Simpson",
+      "subject": "Indigenous Knowledge and Decolonisation",
+      "level": "Advanced",
+      "year": 2017
+    },
+    {
+      "title": "The Inconvenient Indian: A Curious Account of Native People in North America",
+      "author": "Thomas King",
+      "subject": "Indigenous Knowledge and Decolonisation",
+      "level": "Intermediate",
+      "year": 2012
+    },
+    {
+      "title": "Feminism Is for Everybody: Passionate Politics",
+      "author": "bell hooks",
+      "subject": "Feminism and gender",
+      "level": "Beginner",
+      "year": 2000
+    },
+    {
+      "title": "Gender Trouble: Feminism and the Subversion of Identity",
+      "author": "Judith Butler",
+      "subject": "Feminism and gender",
+      "level": "Advanced",
+      "year": 1990
+    },
+    {
+      "title": "Caliban and the Witch: Women, the Body and Primitive Accumulation",
+      "author": "Silvia Federici",
+      "subject": "Feminism and gender",
+      "level": "Advanced",
+      "year": 2004
+    },
+    {
+      "title": "Ecofeminism",
+      "author": "Maria Mies and Vandana Shiva",
+      "subject": "Ecofeminism and Feminist Ecology",
+      "level": "Intermediate",
+      "year": 1993
+    },
+    {
+      "title": "Ecofeminism as Politics: Nature, Marx and the Postmodern",
+      "author": "Ariel Salleh",
+      "subject": "Ecofeminism and Feminist Ecology",
+      "level": "Advanced",
+      "year": 1997
+    },
+    {
+      "title": "Transgender History: The Roots of Today's Revolution",
+      "author": "Susan Stryker",
+      "subject": "LGBTQ+ studies",
+      "level": "Intermediate",
+      "year": 2008
+    },
+    {
+      "title": "Stone Butch Blues",
+      "author": "Leslie Feinberg",
+      "subject": "LGBTQ+ studies",
+      "level": "Advanced",
+      "year": 1993
+    },
+    {
+      "title": "The Diversity of Life",
+      "author": "Edward O. Wilson",
+      "subject": "Biodiversity and Conservation Biology",
+      "level": "Intermediate",
+      "year": 1992
+    },
+    {
+      "title": "The Future of Life",
+      "author": "Edward O. Wilson",
+      "subject": "Biodiversity and Conservation Biology",
+      "level": "Beginner",
+      "year": 2002
+    },
+    {
+      "title": "Silent Earth: Averting the Insect Apocalypse",
+      "author": "Dave Goulson",
+      "subject": "Biodiversity and Conservation Biology",
+      "level": "Beginner",
+      "year": 2021
+    },
+    {
+      "title": "The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation",
+      "author": "Joan Martinez-Alier",
+      "subject": "Environmental Justice and Political Ecology",
+      "level": "Advanced",
+      "year": 2002
+    },
+    {
+      "title": "Climate Leviathan: A Political Theory of Our Planetary Future",
+      "author": "Geoff Mann and Joel Wainwright",
+      "subject": "Environmental Justice and Political Ecology",
+      "level": "Advanced",
+      "year": 2018
+    },
+    {
+      "title": "This Changes Everything: Capitalism vs. the Climate",
+      "author": "Naomi Klein",
+      "subject": "Climate Science and Energy Transition",
+      "level": "Intermediate",
+      "year": 2014
+    },
+    {
+      "title": "The Progress of This Storm: Nature and Society in a Warming World",
+      "author": "Andreas Malm",
+      "subject": "Climate Science and Energy Transition",
+      "level": "Advanced",
+      "year": 2018
+    },
+    {
+      "title": "The Web of Life: A New Scientific Understanding of Living Systems",
+      "author": "Fritjof Capra",
+      "subject": "Systems Thinking and Complexity",
+      "level": "Intermediate",
+      "year": 1996
+    },
+    {
+      "title": "Ecology: The Economy of Nature",
+      "author": "Robert E. Ricklefs and Rick Relyea",
+      "subject": "Ecology and climate",
+      "level": "Advanced",
+      "year": 2013
+    },
+    {
+      "title": "The Rights of Nature: A History of Environmental Ethics",
+      "author": "Roderick Frazier Nash",
+      "subject": "Environmental Ethics and Ecological Philosophy",
+      "level": "Advanced",
+      "year": 1989
+    },
+    {
+      "title": "Ecology, Community and Lifestyle",
+      "author": "Arne Naess",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Advanced",
+      "year": 1989
+    },
+    {
+      "title": "For Love of Matter: A Contemporary Panpsychism",
+      "author": "Freya Mathews",
+      "subject": "Ecocentrism and Deep Ecology",
+      "level": "Advanced",
+      "year": 2003
+    },
+    {
+      "title": "The End of Everything: (Astrophysically Speaking)",
+      "author": "Katie Mack",
+      "subject": "Cosmology and the Universe",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+      "author": "Brian Greene",
+      "subject": "Physics and the Nature of Reality",
+      "level": "Intermediate",
+      "year": 1999
+    },
+    {
+      "title": "Introduction to Cosmology",
+      "author": "Barbara Ryden",
+      "subject": "Astronomy and Astrophysics",
+      "level": "Advanced",
+      "year": 2003
+    },
+    {
+      "title": "Life in the Universe",
+      "author": "Jeffrey Bennett, Seth Shostak, Nicholas Schneider and Meredith MacGregor",
+      "subject": "Astrobiology and Planetary Science",
+      "level": "Intermediate",
+      "year": 2022
+    },
+    {
+      "title": "The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design",
+      "author": "Richard Dawkins",
+      "subject": "Biology and evolution",
+      "level": "Intermediate",
+      "year": 1986
+    },
+    {
+      "title": "The Greatest Show on Earth: The Evidence for Evolution",
+      "author": "Richard Dawkins",
+      "subject": "Biology and evolution",
+      "level": "Beginner",
+      "year": 2009
+    },
+    {
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee",
+      "subject": "Genetics and Molecular Biology",
+      "level": "Intermediate",
+      "year": 2016
+    },
+    {
+      "title": "The Song of the Cell: An Exploration of Medicine and the New Human",
+      "author": "Siddhartha Mukherjee",
+      "subject": "Genetics and Molecular Biology",
+      "level": "Intermediate",
+      "year": 2022
+    },
+    {
+      "title": "Bad Science",
+      "author": "Ben Goldacre",
+      "subject": "Science and critical thinking",
+      "level": "Beginner",
+      "year": 2008
+    },
+    {
+      "title": "The Craft of Research",
+      "author": "Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup and William T. FitzGerald",
+      "subject": "Research Methods and Information Literacy",
+      "level": "Intermediate",
+      "year": 2016
+    },
+    {
+      "title": "Consciousness Explained",
+      "author": "Daniel C. Dennett",
+      "subject": "Philosophy of Mind and Cognitive Science",
+      "level": "Advanced",
+      "year": 1991
+    },
+    {
+      "title": "The Embodied Mind: Cognitive Science and Human Experience",
+      "author": "Francisco J. Varela, Evan Thompson and Eleanor Rosch",
+      "subject": "Philosophy of Mind and Cognitive Science",
+      "level": "Advanced",
+      "year": 1991
+    },
+    {
+      "title": "How Emotions Are Made: The Secret Life of the Brain",
+      "author": "Lisa Feldman Barrett",
+      "subject": "Philosophy of Mind and Cognitive Science",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "The Self Illusion: How the Social Brain Creates Identity",
+      "author": "Bruce Hood",
+      "subject": "Philosophy of Mind and Cognitive Science",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "The Age of Surveillance Capitalism",
+      "author": "Shoshana Zuboff",
+      "subject": "Digital Commons, Privacy and Surveillance",
+      "level": "Advanced",
+      "year": 2019
+    },
+    {
+      "title": "Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing",
+      "author": "Mar Hicks",
+      "subject": "Digital Commons, Privacy and Surveillance",
+      "level": "Advanced",
+      "year": 2017
+    },
+    {
+      "title": "Free Software, Free Society: Selected Essays of Richard M. Stallman",
+      "author": "Richard M. Stallman",
+      "subject": "Digital Commons, Privacy and Surveillance",
+      "level": "Intermediate",
+      "year": 2002
+    },
+    {
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "subject": "Political Philosophy and Authoritarianism",
+      "level": "Advanced",
+      "year": 1951
+    },
+    {
+      "title": "The Open Society and Its Enemies",
+      "author": "Karl Popper",
+      "subject": "Political Philosophy and Authoritarianism",
+      "level": "Advanced",
+      "year": 1945
+    },
+    {
+      "title": "The Road to Serfdom",
+      "author": "F. A. Hayek",
+      "subject": "Political Philosophy and Authoritarianism",
+      "level": "Intermediate",
+      "year": 1944
+    },
+    {
+      "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+      "author": "Daron Acemoglu and James A. Robinson",
+      "subject": "Political Economy and Institutions",
+      "level": "Intermediate",
+      "year": 2012
+    },
+    {
+      "title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
+      "author": "Jonathan Haidt",
+      "subject": "Psychology",
+      "level": "Intermediate",
+      "year": 2012
+    },
+    {
+      "title": "The Great Transformation: The Political and Economic Origins of Our Time",
+      "author": "Karl Polanyi",
+      "subject": "Political Economy and Institutions",
+      "level": "Advanced",
+      "year": 1944
+    },
+    {
+      "title": "The Solidarity Economy: An Introduction to the Theory and Practice of a New Economic Paradigm",
+      "author": "Edited by Emily Kawano, Thomas Neal Masterson and Jonathan Teller-Elsberg",
+      "subject": "Cooperative and Solidarity Economics",
+      "level": "Intermediate",
+      "year": 2010
+    },
+    {
+      "title": "The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program That Shaped Our World",
+      "author": "Vincent Bevins",
+      "subject": "History",
+      "level": "Intermediate",
+      "year": 2020
+    },
+    {
+      "title": "The Dispossessed: An Ambiguous Utopia",
+      "author": "Ursula K. Le Guin",
+      "subject": "Literature and utopias",
+      "level": "Intermediate",
+      "year": 1974
+    },
+    {
+      "title": "The Ministry for the Future",
+      "author": "Kim Stanley Robinson",
+      "subject": "Literature and utopias",
+      "level": "Intermediate",
+      "year": 2020
+    },
+    {
+      "title": "Dhammic Socialism",
+      "author": "Buddhadasa Bhikkhu",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Intermediate",
+      "year": 1993
+    },
+    {
+      "title": "Mindful Solidarity: A Secular Buddhist Democratic Socialist Dialogue",
+      "author": "Mike Slott",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Intermediate",
+      "year": 2024
+    },
+    {
+      "title": "Why the Dalai Lama Is a Socialist: Buddhism and the Compassionate Society",
+      "author": "Terry Gibbs",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "Socially Engaged Buddhism",
+      "author": "Sallie B. King",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "The Dharma and Socially Engaged Buddhist Economics",
+      "author": "Joel Magnuson",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Advanced",
+      "year": 2022
+    },
+    {
+      "title": "A Theology of Liberation: History, Politics, and Salvation",
+      "author": "Gustavo Gutiérrez",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Advanced",
+      "year": 1971
+    },
+    {
+      "title": "The Gospel in Solentiname",
+      "author": "Ernesto Cardenal",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Intermediate",
+      "year": 1975
+    },
+    {
+      "title": "Christian Anarchism: A Political Commentary on the Gospel",
+      "author": "Alexandre Christoyannopoulos",
+      "subject": "Religion, Socialism and Liberation Theology",
+      "level": "Advanced",
+      "year": 2010
+    },
+    {
+      "title": "The Skeptic's Annotated Bible",
+      "author": "Steve Wells",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Beginner",
+      "year": 2013
+    },
+    {
+      "title": "Who Wrote the Bible?",
+      "author": "Richard Elliott Friedman",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Intermediate",
+      "year": 1987
+    },
+    {
+      "title": "The Bible with Sources Revealed",
+      "author": "Richard Elliott Friedman",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Advanced",
+      "year": 2003
+    },
+    {
+      "title": "The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts",
+      "author": "Israel Finkelstein and Neil Asher Silberman",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Intermediate",
+      "year": 2001
+    },
+    {
+      "title": "Misquoting Jesus: The Story Behind Who Changed the Bible and Why",
+      "author": "Bart D. Ehrman",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Beginner",
+      "year": 2005
+    },
+    {
+      "title": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible",
+      "author": "Bart D. Ehrman",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "The Historical Figure of Jesus",
+      "author": "E. P. Sanders",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Advanced",
+      "year": 1993
+    },
+    {
+      "title": "The Gnostic Gospels",
+      "author": "Elaine Pagels",
+      "subject": "Skepticism, Scripture and Biblical Criticism",
+      "level": "Intermediate",
+      "year": 1979
+    },
+    {
+      "title": "The Evolution of God",
+      "author": "Robert Wright",
+      "subject": "Comparative Religion and Historical Criticism",
+      "level": "Intermediate",
+      "year": 2009
+    },
+    {
+      "title": "The Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims",
+      "author": "Mustafa Akyol",
+      "subject": "Comparative Religion and Historical Criticism",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "Why I Am Not a Muslim",
+      "author": "Ibn Warraq",
+      "subject": "Comparative Religion and Historical Criticism",
+      "level": "Advanced",
+      "year": 1995
+    },
+    {
+      "title": "The Skeptic's Annotated Quran (online critical reference)",
+      "author": "Steve Wells",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Beginner",
+      "year": 2013
+    },
+    {
+      "title": "The Quran in Fewer Words (online critical reference)",
+      "author": "Steve Wells",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Beginner",
+      "year": 2026
+    },
+    {
+      "title": "The Mormon Scriptures in Fewer Words (online critical reference)",
+      "author": "Steve Wells",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Beginner",
+      "year": 2025
+    },
+    {
+      "title": "This Is My Doctrine: The Development of Mormon Theology",
+      "author": "Charles R. Harrell",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Advanced",
+      "year": 2011
+    },
+    {
+      "title": "The Bhagavad Gita in Fewer Words (online critical reference)",
+      "author": "Steve Wells",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Beginner",
+      "year": 2026
+    },
+    {
+      "title": "The Bhagavad Gita: A New Translation",
+      "author": "Stephen Mitchell",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Beginner",
+      "year": 2000
+    },
+    {
+      "title": "The Apocryphal Gospels: Texts and Translations",
+      "author": "Bart D. Ehrman",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Intermediate",
+      "year": 2003
+    },
+    {
+      "title": "Lost Christianities: The Battles for Scripture and the Faiths We Never Knew",
+      "author": "Bart D. Ehrman",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Intermediate",
+      "year": 2003
+    },
+    {
+      "title": "The Other Bible",
+      "author": "Willis Barnstone, editor",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Advanced",
+      "year": 1984
+    },
+    {
+      "title": "The Nag Hammadi Library in English",
+      "author": "James M. Robinson, editor",
+      "subject": "Sceptical Scripture Guides and Apocrypha",
+      "level": "Advanced",
+      "year": 1977
+    },
+    {
+      "title": "Combating Cult Mind Control",
+      "author": "Steven Hassan",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Intermediate",
+      "year": 2015
+    },
+    {
+      "title": "Take Back Your Life: Recovering from Cults and Abusive Relationships",
+      "author": "Janja Lalich and Madeleine Tobias",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Intermediate",
+      "year": 2006
+    },
+    {
+      "title": "Thought Reform and the Psychology of Totalism",
+      "author": "Robert Jay Lifton",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Advanced",
+      "year": 1961
+    },
+    {
+      "title": "Cults in Our Midst",
+      "author": "Margaret Thaler Singer with Janja Lalich",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Intermediate",
+      "year": 1995
+    },
+    {
+      "title": "The Guru Papers: Masks of Authoritarian Power",
+      "author": "Joel Kramer and Diana Alstad",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Advanced",
+      "year": 1993
+    },
+    {
+      "title": "Terror, Love and Brainwashing: Attachment in Cults and Totalitarian Systems",
+      "author": "Alexandra Stein",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Advanced",
+      "year": 2017
+    },
+    {
+      "title": "The Cult of Trump",
+      "author": "Steven Hassan",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Intermediate",
+      "year": 2019
+    },
+    {
+      "title": "ICSA Research Library and Educational Resources",
+      "author": "International Cultic Studies Association",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Beginner",
+      "year": 2026
+    },
+    {
+      "title": "The BITE Model of Authoritarian Control (online framework)",
+      "author": "Steven Hassan",
+      "subject": "Cultic Studies, Coercive Control and Recovery",
+      "level": "Beginner",
+      "year": 2018
+    },
+    {
+      "title": "Going Clear: Scientology, Hollywood, and the Prison of Belief",
+      "author": "Lawrence Wright",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Intermediate",
+      "year": 2013
+    },
+    {
+      "title": "Raven: The Untold Story of the Rev. Jim Jones and His People",
+      "author": "Tim Reiterman with John Jacobs",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Advanced",
+      "year": 1982
+    },
+    {
+      "title": "Seductive Poison: A Jonestown Survivor's Story of Life and Death in the Peoples Temple",
+      "author": "Deborah Layton",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Intermediate",
+      "year": 1998
+    },
+    {
+      "title": "Under the Banner of Heaven: A Story of Violent Faith",
+      "author": "Jon Krakauer",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Intermediate",
+      "year": 2003
+    },
+    {
+      "title": "The Road to Jonestown: Jim Jones and Peoples Temple",
+      "author": "Jeff Guinn",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "Destroying the World to Save It: Aum Shinrikyo, Apocalyptic Violence, and the New Global Terrorism",
+      "author": "Robert Jay Lifton",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Advanced",
+      "year": 1999
+    },
+    {
+      "title": "The Family: The Secret Fundamentalism at the Heart of American Power",
+      "author": "Jeff Sharlet",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Intermediate",
+      "year": 2008
+    },
+    {
+      "title": "The Vow: NXIVM and the Culture of Coercive Control (documentary companion resource)",
+      "author": "HBO documentary series",
+      "subject": "Case Studies of High-Control Groups",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "Contribution to the Critique of Hegel's Philosophy of Right: Introduction",
+      "author": "Karl Marx",
+      "subject": "Socialist Critiques of Religion",
+      "level": "Advanced",
+      "year": 1844
+    },
+    {
+      "title": "On the History of Early Christianity",
+      "author": "Friedrich Engels",
+      "subject": "Socialist Critiques of Religion",
+      "level": "Advanced",
+      "year": 1894
+    },
+    {
+      "title": "Foundations of Christianity",
+      "author": "Karl Kautsky",
+      "subject": "Socialist Critiques of Religion",
+      "level": "Advanced",
+      "year": 1908
+    },
+    {
+      "title": "Socialism and the Churches",
+      "author": "Rosa Luxemburg",
+      "subject": "Socialist Critiques of Religion",
+      "level": "Intermediate",
+      "year": 1905
+    },
+    {
+      "title": "Atheism in Christianity: The Religion of the Exodus and the Kingdom",
+      "author": "Ernst Bloch",
+      "subject": "Socialist Critiques of Religion",
+      "level": "Advanced",
+      "year": 1968
+    },
+    {
+      "title": "The Essence of Christianity",
+      "author": "Ludwig Feuerbach",
+      "subject": "Socialist Critiques of Religion",
+      "level": "Advanced",
+      "year": 1841
+    },
+    {
+      "title": "The Philosophy of Atheism",
+      "author": "Emma Goldman",
+      "subject": "Anarchism, Religion and Spirituality",
+      "level": "Intermediate",
+      "year": 1916
+    },
+    {
+      "title": "The Kingdom of God Is Within You",
+      "author": "Leo Tolstoy",
+      "subject": "Christian Socialism, Anarchism and Liberation",
+      "level": "Advanced",
+      "year": 1894
+    },
+    {
+      "title": "Anarchy and Christianity",
+      "author": "Jacques Ellul",
+      "subject": "Christian Socialism, Anarchism and Liberation",
+      "level": "Intermediate",
+      "year": 1988
+    },
+    {
+      "title": "The Long Loneliness",
+      "author": "Dorothy Day",
+      "subject": "Anarchism, Religion and Spirituality",
+      "level": "Intermediate",
+      "year": 1952
+    },
+    {
+      "title": "The Gospel in Solentiname",
+      "author": "Ernesto Cardenal",
+      "subject": "Anarchism, Religion and Spirituality",
+      "level": "Intermediate",
+      "year": 1975
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "subject": "Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil",
+      "level": "Advanced",
+      "year": 1886
+    },
+    {
+      "title": "On the Genealogy of Morality",
+      "author": "Friedrich Nietzsche",
+      "subject": "Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil",
+      "level": "Advanced",
+      "year": 1887
+    },
+    {
+      "title": "Morality: An Introduction to Ethics",
+      "author": "Bernard Williams",
+      "subject": "Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil",
+      "level": "Intermediate",
+      "year": 1972
+    },
+    {
+      "title": "The Illusion of Moral Responsibility",
+      "author": "Saul Smilansky",
+      "subject": "Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil",
+      "level": "Advanced",
+      "year": 2000
+    },
+    {
+      "title": "The Buddha and His Dhamma",
+      "author": "B. R. Ambedkar",
+      "subject": "Buddhist Socialism and Engaged Buddhism",
+      "level": "Intermediate",
+      "year": 1957
+    },
+    {
+      "title": "Engaged Buddhism: Buddhist Liberation Movements in Asia",
+      "author": "Christopher S. Queen and Sallie B. King, editors",
+      "subject": "Buddhist Socialism and Engaged Buddhism",
+      "level": "Advanced",
+      "year": 1996
+    },
+    {
+      "title": "Buddhist Economics: An Enlightened Approach to the Dismal Science",
+      "author": "Clair Brown",
+      "subject": "Buddhist Socialism and Engaged Buddhism",
+      "level": "Intermediate",
+      "year": 2017
+    },
+    {
+      "title": "Ambedkar: Towards an Enlightened India",
+      "author": "Gail Omvedt",
+      "subject": "Buddhist Socialism and Engaged Buddhism",
+      "level": "Intermediate",
+      "year": 2004
+    },
+    {
+      "title": "Daoism and Anarchism: Critiques of State Autonomy in Ancient China",
+      "author": "John A. Rapp",
+      "subject": "Daoism, Anarchism and Social Thought",
+      "level": "Advanced",
+      "year": 2012
+    },
+    {
+      "title": "Daoism and Ecology: Ways within a Cosmic Landscape",
+      "author": "Edited by N. J. Girardot, James Miller and Liu Xiaogan",
+      "subject": "Daoism, Anarchism and Social Thought",
+      "level": "Advanced",
+      "year": 2001
+    },
+    {
+      "title": "Confucian Political Ethics: The Analects as a Basis for Political Philosophy",
+      "author": "Daniel A. Bell",
+      "subject": "Confucian Social Ethics and Socialist Debates",
+      "level": "Advanced",
+      "year": 2008
+    },
+    {
+      "title": "Beyond Liberal Democracy: Political Thinking for an East Asian Context",
+      "author": "Daniel A. Bell",
+      "subject": "Confucian Social Ethics and Socialist Debates",
+      "level": "Advanced",
+      "year": 2006
+    },
+    {
+      "title": "Confucianism and Human Rights",
+      "author": "Edited by Wm. Theodore de Bary and Tu Weiming",
+      "subject": "Confucian Social Ethics and Socialist Debates",
+      "level": "Advanced",
+      "year": 1998
+    },
+    {
+      "title": "Annihilation of Caste",
+      "author": "B. R. Ambedkar",
+      "subject": "Hindu Traditions, Anti-Caste Thought and Social Equality",
+      "level": "Intermediate",
+      "year": 1936
+    },
+    {
+      "title": "Who Were the Shudras?",
+      "author": "B. R. Ambedkar",
+      "subject": "Hindu Traditions, Anti-Caste Thought and Social Equality",
+      "level": "Advanced",
+      "year": 1946
+    },
+    {
+      "title": "The Bhagavad Gita According to Gandhi",
+      "author": "M. K. Gandhi; translated by Mahadev Desai",
+      "subject": "Hindu Traditions, Anti-Caste Thought and Social Equality",
+      "level": "Intermediate",
+      "year": 1946
+    },
+    {
+      "title": "On the Sociology of Islam",
+      "author": "Ali Shariati",
+      "subject": "Islamic Socialism, Liberation and Social Justice",
+      "level": "Advanced",
+      "year": 1979
+    },
+    {
+      "title": "Islam and the Economic Challenge",
+      "author": "M. Umer Chapra",
+      "subject": "Islamic Socialism, Liberation and Social Justice",
+      "level": "Advanced",
+      "year": 1992
+    },
+    {
+      "title": "The Jewish Anarchist Movement in America",
+      "author": "Kenyon Zimmer",
+      "subject": "Jewish Labour, Socialism and Anarchism",
+      "level": "Advanced",
+      "year": 2015
+    }
+  ]
+}
