@@ -1,20 +1,25 @@
 {
   "title": "The Temple of Knowledge",
   "creator": "Sora Izumi Dao (空 泉 道)",
-  "catalogue_records": 580,
+  "catalogue_records": 672,
   "subjects": [
     "Anarchism",
     "Anarchism, Religion and Spirituality",
+    "Anarchist History and Biography",
+    "Anarchist History and Political Thought",
     "Anarchist Organising and Direct Democracy",
+    "Anarcho-Syndicalism and Labour",
     "Animal Ethics and Multispecies Justice",
     "Anthropology",
     "Apatheism",
     "Apistevism and Epistemic Criticism",
+    "Asexuality and Aromantic Studies",
     "Astrobiology and Planetary Science",
     "Astronomy and Astrophysics",
     "Aztec and Mexica Traditions",
     "Biodiversity and Conservation Biology",
     "Biology and evolution",
+    "Black Feminism and Intersectionality",
     "Buddhism",
     "Buddhist Socialism and Engaged Buddhism",
     "Canaanite and Pre-Abrahamic Traditions",
@@ -35,6 +40,7 @@
     "Cultic Studies, Coercive Control and Recovery",
     "Daoism",
     "Daoism, Anarchism and Social Thought",
+    "Decolonial and Transnational Feminism",
     "Decolonial Thought and Anti-Colonialism",
     "Digital commons and privacy",
     "Digital Commons, Privacy and Surveillance",
@@ -51,6 +57,10 @@
     "Environmentalism and Conservation",
     "Ethics and metaethics",
     "Feminism and gender",
+    "Feminist and Lesbian Theory",
+    "Feminist Critiques and Contemporary Debates",
+    "Feminist History and Political Theory",
+    "Feminist Socialism and Working-Class History",
     "Genetics and Molecular Biology",
     "Geography and cities",
     "Germanic and Norse Traditions",
@@ -61,12 +71,14 @@
     "Ignosticism and Theological Noncognitivism",
     "Inca and Andean Traditions",
     "Indigenous Knowledge and Decolonisation",
+    "Individualist Anarchism and Egoism",
     "Islamic Socialism, Liberation and Social Justice",
     "Jewish Labour, Socialism and Anarchism",
     "Kemetism",
     "Law and justice",
     "LGBTQ+ studies",
     "Literature and utopias",
+    "Marxism and Socialist History",
     "Mathematics and statistics",
     "Maya Traditions",
     "Media and communication",
@@ -86,8 +98,12 @@
     "Polynesian Traditions",
     "Psychology",
     "Punic and Carthaginian Religion",
+    "Queer Justice, Abolition and Social Movements",
+    "Queer Life Writing and Cultural History",
+    "Queer Theory and Sexual Politics",
     "Religion, Socialism and Liberation Theology",
     "Research Methods and Information Literacy",
+    "Revolutionary Socialism and Labour",
     "Sceptical Scripture Guides and Apocrypha",
     "Science and critical thinking",
     "Science and Scientific Method",
@@ -99,9 +115,11 @@
     "Social Ecology and Environmental Anarchism",
     "Socialism",
     "Socialist Critiques of Religion",
+    "Socialist, Materialist and Reproductive Feminism",
     "Sociology",
     "Systems and technology",
     "Systems Thinking and Complexity",
+    "Trans and Gender Studies",
     "Wicca",
     "Zoroastrianism"
   ],
@@ -4165,6 +4183,650 @@
       "subject": "Jewish Labour, Socialism and Anarchism",
       "level": "Advanced",
       "year": 2015
+    },
+    {
+      "title": "A Vindication of the Rights of Woman",
+      "author": "Mary Wollstonecraft",
+      "subject": "Feminist History and Political Theory",
+      "level": "Intermediate",
+      "year": 1792
+    },
+    {
+      "title": "The Feminine Mystique",
+      "author": "Betty Friedan",
+      "subject": "Feminist History and Political Theory",
+      "level": "Intermediate",
+      "year": 1963
+    },
+    {
+      "title": "Sexual Politics",
+      "author": "Kate Millett",
+      "subject": "Feminist History and Political Theory",
+      "level": "Advanced",
+      "year": 1970
+    },
+    {
+      "title": "The Dialectic of Sex: The Case for Feminist Revolution",
+      "author": "Shulamith Firestone",
+      "subject": "Feminist History and Political Theory",
+      "level": "Advanced",
+      "year": 1970
+    },
+    {
+      "title": "Ain’t I a Woman: Black Women and Feminism",
+      "author": "bell hooks",
+      "subject": "Black Feminism and Intersectionality",
+      "level": "Intermediate",
+      "year": 1981
+    },
+    {
+      "title": "Feminist Theory: From Margin to Center",
+      "author": "bell hooks",
+      "subject": "Black Feminism and Intersectionality",
+      "level": "Intermediate",
+      "year": 1984
+    },
+    {
+      "title": "Sister Outsider: Essays and Speeches",
+      "author": "Audre Lorde",
+      "subject": "Black Feminism and Intersectionality",
+      "level": "Intermediate",
+      "year": 1984
+    },
+    {
+      "title": "Women, Race & Class",
+      "author": "Angela Y. Davis",
+      "subject": "Black Feminism and Intersectionality",
+      "level": "Intermediate",
+      "year": 1981
+    },
+    {
+      "title": "Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment",
+      "author": "Patricia Hill Collins",
+      "subject": "Black Feminism and Intersectionality",
+      "level": "Advanced",
+      "year": 1990
+    },
+    {
+      "title": "Demarginalizing the Intersection of Race and Sex",
+      "author": "Kimberlé Crenshaw",
+      "subject": "Black Feminism and Intersectionality",
+      "level": "Advanced",
+      "year": 1989
+    },
+    {
+      "title": "Feminism Without Borders: Decolonizing Theory, Practicing Solidarity",
+      "author": "Chandra Talpade Mohanty",
+      "subject": "Decolonial and Transnational Feminism",
+      "level": "Advanced",
+      "year": 2003
+    },
+    {
+      "title": "Under Western Eyes: Feminist Scholarship and Colonial Discourses",
+      "author": "Chandra Talpade Mohanty",
+      "subject": "Decolonial and Transnational Feminism",
+      "level": "Advanced",
+      "year": 1984
+    },
+    {
+      "title": "The Creation of Patriarchy",
+      "author": "Gerda Lerner",
+      "subject": "Feminist History and Political Theory",
+      "level": "Advanced",
+      "year": 1986
+    },
+    {
+      "title": "The Straight Mind and Other Essays",
+      "author": "Monique Wittig",
+      "subject": "Feminist and Lesbian Theory",
+      "level": "Advanced",
+      "year": 1992
+    },
+    {
+      "title": "The Politics of Reality: Essays in Feminist Theory",
+      "author": "Marilyn Frye",
+      "subject": "Feminist and Lesbian Theory",
+      "level": "Advanced",
+      "year": 1983
+    },
+    {
+      "title": "The Traffic in Women: Notes on the “Political Economy” of Sex",
+      "author": "Gayle Rubin",
+      "subject": "Feminist and Lesbian Theory",
+      "level": "Advanced",
+      "year": 1975
+    },
+    {
+      "title": "Thinking Sex: Notes for a Radical Theory of the Politics of Sexuality",
+      "author": "Gayle Rubin",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 1984
+    },
+    {
+      "title": "Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle",
+      "author": "Silvia Federici",
+      "subject": "Socialist, Materialist and Reproductive Feminism",
+      "level": "Advanced",
+      "year": 2012
+    },
+    {
+      "title": "Wages Against Housework",
+      "author": "Silvia Federici",
+      "subject": "Socialist, Materialist and Reproductive Feminism",
+      "level": "Intermediate",
+      "year": 1975
+    },
+    {
+      "title": "Feminism for the 99%: A Manifesto",
+      "author": "Cinzia Arruzza, Tithi Bhattacharya and Nancy Fraser",
+      "subject": "Socialist, Materialist and Reproductive Feminism",
+      "level": "Intermediate",
+      "year": 2019
+    },
+    {
+      "title": "The Care Manifesto: The Politics of Interdependence",
+      "author": "The Care Collective",
+      "subject": "Socialist, Materialist and Reproductive Feminism",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "Bad Feminist: Essays",
+      "author": "Roxane Gay",
+      "subject": "Feminist Critiques and Contemporary Debates",
+      "level": "Beginner",
+      "year": 2014
+    },
+    {
+      "title": "The Beauty Myth: How Images of Beauty Are Used Against Women",
+      "author": "Naomi Wolf",
+      "subject": "Feminist Critiques and Contemporary Debates",
+      "level": "Intermediate",
+      "year": 1990
+    },
+    {
+      "title": "The History of Sexuality, Volume 1: An Introduction",
+      "author": "Michel Foucault",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 1976
+    },
+    {
+      "title": "Epistemology of the Closet",
+      "author": "Eve Kosofsky Sedgwick",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 1990
+    },
+    {
+      "title": "Queer Theory: An Introduction",
+      "author": "Annamarie Jagose",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Beginner",
+      "year": 1996
+    },
+    {
+      "title": "Queer Phenomenology: Orientations, Objects, Others",
+      "author": "Sara Ahmed",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 2006
+    },
+    {
+      "title": "Cruising Utopia: The Then and There of Queer Futurity",
+      "author": "José Esteban Muñoz",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 2009
+    },
+    {
+      "title": "No Future: Queer Theory and the Death Drive",
+      "author": "Lee Edelman",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 2004
+    },
+    {
+      "title": "Fear of a Queer Planet: Queer Politics and Social Theory",
+      "author": "Edited by Michael Warner",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 1993
+    },
+    {
+      "title": "The Queer Art of Failure",
+      "author": "Jack Halberstam",
+      "subject": "Queer Theory and Sexual Politics",
+      "level": "Advanced",
+      "year": 2011
+    },
+    {
+      "title": "Female Masculinity",
+      "author": "Jack Halberstam",
+      "subject": "Trans and Gender Studies",
+      "level": "Advanced",
+      "year": 1998
+    },
+    {
+      "title": "Transgender Warriors: Making History from Joan of Arc to Dennis Rodman and Beyond",
+      "author": "Leslie Feinberg",
+      "subject": "Trans and Gender Studies",
+      "level": "Intermediate",
+      "year": 1996
+    },
+    {
+      "title": "Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity",
+      "author": "Julia Serano",
+      "subject": "Trans and Gender Studies",
+      "level": "Intermediate",
+      "year": 2007
+    },
+    {
+      "title": "Black on Both Sides: A Racial History of Trans Identity",
+      "author": "C. Riley Snorton",
+      "subject": "Trans and Gender Studies",
+      "level": "Advanced",
+      "year": 2017
+    },
+    {
+      "title": "The Transgender Studies Reader",
+      "author": "Edited by Susan Stryker and Stephen Whittle",
+      "subject": "Trans and Gender Studies",
+      "level": "Advanced",
+      "year": 2006
+    },
+    {
+      "title": "Undoing Gender",
+      "author": "Judith Butler",
+      "subject": "Trans and Gender Studies",
+      "level": "Advanced",
+      "year": 2004
+    },
+    {
+      "title": "Zami: A New Spelling of My Name",
+      "author": "Audre Lorde",
+      "subject": "Queer Life Writing and Cultural History",
+      "level": "Intermediate",
+      "year": 1982
+    },
+    {
+      "title": "Borderlands/La Frontera: The New Mestiza",
+      "author": "Gloria Anzaldúa",
+      "subject": "Queer Life Writing and Cultural History",
+      "level": "Advanced",
+      "year": 1987
+    },
+    {
+      "title": "A Queer History of the United States",
+      "author": "Michael Bronski",
+      "subject": "Queer Life Writing and Cultural History",
+      "level": "Beginner",
+      "year": 2011
+    },
+    {
+      "title": "Queer (In)Justice: The Criminalization of LGBT People in the United States",
+      "author": "Joey L. Mogul, Andrea J. Ritchie and Kay Whitlock",
+      "subject": "Queer Justice, Abolition and Social Movements",
+      "level": "Advanced",
+      "year": 2011
+    },
+    {
+      "title": "Abolition. Feminism. Now.",
+      "author": "Angela Y. Davis, Gina Dent, Erica R. Meiners and Beth E. Richie",
+      "subject": "Queer Justice, Abolition and Social Movements",
+      "level": "Intermediate",
+      "year": 2022
+    },
+    {
+      "title": "Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex",
+      "author": "Angela Chen",
+      "subject": "Asexuality and Aromantic Studies",
+      "level": "Beginner",
+      "year": 2020
+    },
+    {
+      "title": "The Ego and Its Own",
+      "author": "Max Stirner",
+      "subject": "Individualist Anarchism and Egoism",
+      "level": "Advanced",
+      "year": 1844
+    },
+    {
+      "title": "Stirner’s Critics",
+      "author": "Max Stirner",
+      "subject": "Individualist Anarchism and Egoism",
+      "level": "Advanced",
+      "year": 1845
+    },
+    {
+      "title": "The System of Economic Contradictions: or, The Philosophy of Misery",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1846
+    },
+    {
+      "title": "Confessions of a Revolutionary",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1849
+    },
+    {
+      "title": "The Philosophy of Progress",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1853
+    },
+    {
+      "title": "On the Political Capacity of the Working Classes",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1865
+    },
+    {
+      "title": "Justice in the Revolution and in the Church",
+      "author": "Pierre-Joseph Proudhon",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1858
+    },
+    {
+      "title": "The Knouto-Germanic Empire and the Social Revolution",
+      "author": "Mikhail Bakunin",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1871
+    },
+    {
+      "title": "Marxism, Freedom and the State",
+      "author": "Mikhail Bakunin",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1950
+    },
+    {
+      "title": "The Paris Commune and the Idea of the State",
+      "author": "Mikhail Bakunin",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1871
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Mikhail Bakunin",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1973
+    },
+    {
+      "title": "Fields, Factories and Workshops",
+      "author": "Peter Kropotkin",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1899
+    },
+    {
+      "title": "Modern Science and Anarchy",
+      "author": "Peter Kropotkin",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1903
+    },
+    {
+      "title": "The Great French Revolution, 1789–1793",
+      "author": "Peter Kropotkin",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1909
+    },
+    {
+      "title": "Ethics: Origin and Development",
+      "author": "Peter Kropotkin",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1922
+    },
+    {
+      "title": "Memoirs of a Revolutionist",
+      "author": "Peter Kropotkin",
+      "subject": "Anarchist History and Biography",
+      "level": "Intermediate",
+      "year": 1899
+    },
+    {
+      "title": "Anarchy",
+      "author": "Errico Malatesta",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 1891
+    },
+    {
+      "title": "At the Café: Conversations on Anarchism",
+      "author": "Errico Malatesta",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 1922
+    },
+    {
+      "title": "Errico Malatesta: His Life and Ideas",
+      "author": "Errico Malatesta; edited by Vernon Richards",
+      "subject": "Anarchist History and Biography",
+      "level": "Intermediate",
+      "year": 1965
+    },
+    {
+      "title": "Prison Memoirs of an Anarchist",
+      "author": "Alexander Berkman",
+      "subject": "Anarchist History and Biography",
+      "level": "Intermediate",
+      "year": 1912
+    },
+    {
+      "title": "Living My Life",
+      "author": "Emma Goldman",
+      "subject": "Anarchist History and Biography",
+      "level": "Intermediate",
+      "year": 1931
+    },
+    {
+      "title": "My Disillusionment in Russia",
+      "author": "Emma Goldman",
+      "subject": "Anarchist History and Biography",
+      "level": "Intermediate",
+      "year": 1923
+    },
+    {
+      "title": "Marriage and Love",
+      "author": "Emma Goldman",
+      "subject": "Feminism and gender",
+      "level": "Beginner",
+      "year": 1911
+    },
+    {
+      "title": "Anarchism and American Traditions",
+      "author": "Voltairine de Cleyre",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1908
+    },
+    {
+      "title": "Selected Works of Voltairine de Cleyre",
+      "author": "Voltairine de Cleyre",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 2004
+    },
+    {
+      "title": "The Anarchist Revolution: Polemical Articles 1886–1917",
+      "author": "Lucy Parsons",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 2004
+    },
+    {
+      "title": "Anarcho-Syndicalism: Theory and Practice",
+      "author": "Rudolf Rocker",
+      "subject": "Anarcho-Syndicalism and Labour",
+      "level": "Intermediate",
+      "year": 1938
+    },
+    {
+      "title": "Nationalism and Culture",
+      "author": "Rudolf Rocker",
+      "subject": "Anarchist History and Political Thought",
+      "level": "Advanced",
+      "year": 1937
+    },
+    {
+      "title": "Anarchy in Action",
+      "author": "Colin Ward",
+      "subject": "Anarchism",
+      "level": "Beginner",
+      "year": 1973
+    },
+    {
+      "title": "Post-Scarcity Anarchism",
+      "author": "Murray Bookchin",
+      "subject": "Social Ecology and Environmental Anarchism",
+      "level": "Intermediate",
+      "year": 1971
+    },
+    {
+      "title": "The Ecology of Freedom: The Emergence and Dissolution of Hierarchy",
+      "author": "Murray Bookchin",
+      "subject": "Social Ecology and Environmental Anarchism",
+      "level": "Advanced",
+      "year": 1982
+    },
+    {
+      "title": "Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm",
+      "author": "Murray Bookchin",
+      "subject": "Social Ecology and Environmental Anarchism",
+      "level": "Intermediate",
+      "year": 1995
+    },
+    {
+      "title": "Anarchist Anthropology",
+      "author": "David Graeber",
+      "subject": "Anarchist Organising and Direct Democracy",
+      "level": "Intermediate",
+      "year": 2004
+    },
+    {
+      "title": "The Political Philosophy of Poststructuralist Anarchism",
+      "author": "Todd May",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1994
+    },
+    {
+      "title": "Anarchism: A History of Libertarian Ideas and Movements",
+      "author": "George Woodcock",
+      "subject": "Anarchist History and Biography",
+      "level": "Intermediate",
+      "year": 1962
+    },
+    {
+      "title": "The Spanish Anarchists: The Heroic Years 1868–1936",
+      "author": "Murray Bookchin",
+      "subject": "Anarchist History and Biography",
+      "level": "Advanced",
+      "year": 1977
+    },
+    {
+      "title": "The Russian Revolution in Ukraine (March 1917–April 1918)",
+      "author": "Nestor Makhno",
+      "subject": "Anarchist History and Biography",
+      "level": "Advanced",
+      "year": 1926
+    },
+    {
+      "title": "The Unknown Revolution, 1917–1921",
+      "author": "Voline",
+      "subject": "Anarchist History and Biography",
+      "level": "Advanced",
+      "year": 1947
+    },
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "subject": "Anarchism",
+      "level": "Intermediate",
+      "year": 1974
+    },
+    {
+      "title": "Enquiry Concerning Political Justice",
+      "author": "William Godwin",
+      "subject": "Anarchism",
+      "level": "Advanced",
+      "year": 1793
+    },
+    {
+      "title": "The Woman Question: A Socialist Point of View",
+      "author": "Eleanor Marx and Edward Aveling",
+      "subject": "Feminist Socialism and Working-Class History",
+      "level": "Intermediate",
+      "year": 1886
+    },
+    {
+      "title": "Shelley’s Socialism: Two Lectures",
+      "author": "Eleanor Marx",
+      "subject": "Feminist Socialism and Working-Class History",
+      "level": "Intermediate",
+      "year": 1888
+    },
+    {
+      "title": "Karl Marx: A Biographical Memoir",
+      "author": "Eleanor Marx and Edward Aveling",
+      "subject": "Marxism and Socialist History",
+      "level": "Intermediate",
+      "year": 1892
+    },
+    {
+      "title": "The Working-Class Movement in America",
+      "author": "Eleanor Marx and Edward Aveling",
+      "subject": "Feminist Socialism and Working-Class History",
+      "level": "Advanced",
+      "year": 1888
+    },
+    {
+      "title": "The Origin of the Family, Private Property and the State",
+      "author": "Friedrich Engels",
+      "subject": "Feminist Socialism and Working-Class History",
+      "level": "Advanced",
+      "year": 1884
+    },
+    {
+      "title": "The Condition of the Working Class in England",
+      "author": "Friedrich Engels",
+      "subject": "Marxism and Socialist History",
+      "level": "Intermediate",
+      "year": 1845
+    },
+    {
+      "title": "The Mass Strike, the Political Party and the Trade Unions",
+      "author": "Rosa Luxemburg",
+      "subject": "Revolutionary Socialism and Labour",
+      "level": "Advanced",
+      "year": 1906
+    },
+    {
+      "title": "Reform or Revolution",
+      "author": "Rosa Luxemburg",
+      "subject": "Revolutionary Socialism and Labour",
+      "level": "Intermediate",
+      "year": 1899
+    },
+    {
+      "title": "The Accumulation of Capital",
+      "author": "Rosa Luxemburg",
+      "subject": "Revolutionary Socialism and Labour",
+      "level": "Advanced",
+      "year": 1913
     }
   ]
 }
