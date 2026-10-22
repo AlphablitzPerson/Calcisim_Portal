@@ -32,7 +32,7 @@ h1 { font-size:clamp(2.4rem,6vw,5.5rem); max-width:850px; margin:.45rem 0 1rem; 
 .hero p { max-width:730px; font-size:clamp(1rem,2vw,1.2rem); line-height:1.7; color:#e4e9e2; }
 .motto { border-left:3px solid var(--site-secondary); padding:.6rem 1rem; margin-top:1.4rem; font-family:var(--site-font-heading); font-size:1.2rem; }
 .wrap { width:min(1200px,100% - 2rem); margin:0 auto; }
-.stats { display:grid; grid-template-columns:repeat(3,1fr); gap:.75rem; margin-top:-1.1rem; position:relative; }
+.stats { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:.75rem; margin-top:-1.1rem; position:relative; }
 .stat { background:light-dark(#fffdf8,#1b2421); border:1px solid light-dark(#ded8c9,#38433e); border-radius:calc(14px * var(--site-radius-scale)); padding:1rem; box-shadow:0 8px 24px #0000000a; }
 .stat strong { display:block; font-family:var(--site-font-heading); font-size:1.5rem; }
 .stat span { font-size:.8rem; opacity:.8; }
@@ -268,20 +268,22 @@ footer a { color: #f0d28c; }
 <body>
 <div id="app">
 <header class="hero">
-  <div class="kicker">The official CALCism reading portal · Edition 1.0</div>
+  <div class="kicker">The official CALCism reading portal · Expanded edition · 22 October 2026</div>
   <h1>The Temple of Knowledge</h1>
   <p>The Ultimate CALCism Reading Portal: a multidisciplinary path through anarchism, communalism, philosophy, science, history, economics, ecology and the study of human societies.</p>
   <div class="motto">“No theory is sacred enough to override reality.”</div>
 </header>
 <main class="wrap">
   <div class="stats">
-    <div class="stat"><strong id="bookCount">0</strong><span>starter catalogue titles</span></div>
+    <div class="stat"><strong id="bookCount">0</strong><span>catalogue titles</span></div>
+    <div class="stat"><strong id="subjectCount">0</strong><span>subject categories</span></div>
     <div class="stat"><strong>Free first</strong><span>lawful online editions prioritised</span></div>
     <div class="stat"><strong>Print only</strong><span>Amazon links search physical books</span></div>
   </div>
   <div class="note"><strong>European copyright safeguards:</strong> The Temple of Knowledge links to legitimate sources rather than hosting book files. Across the EU, the general term for literary works is the author's life plus 70 years, but exceptions and national rules apply. A book being public domain in the United States does <em>not</em> automatically mean it is public domain in Europe. Translations, introductions, annotations, illustrations, scholarly editions and modern covers may have separate rights. We will label a title “verified public domain” only after checking the relevant edition and jurisdiction; otherwise we will say “licence/status to check”. <a href="https://europa.eu/youreurope/business/growing/protecting-intellectual-property/copyright/index_en.htm" target="_blank" rel="noopener noreferrer">EU copyright overview ↗</a> · <a href="https://euipo.europa.eu/en/copyright-knowledge-centre" target="_blank" rel="noopener noreferrer">EUIPO Copyright Knowledge Centre ↗</a></div>
   <div class="note"><strong>How links work:</strong> Startpage is the default search engine for free-edition discovery; you can switch to Ecosia, DuckDuckGo or Mojeek. Google and Bing are hidden by default and can be unlocked after a warning. They are proprietary services; use them at your own risk. These search services are not all fully FOSS. Each book also links directly to relevant catalogues and repositories where you can check for an edition. A search result or catalogue record does not guarantee free access or permission to redistribute. Amazon links are restricted to the physical Books catalogue, not Kindle. Always check the edition, availability, licence and national copyright status.</div>
   <div class="note"><strong>Paganism, ancient religions and living traditions:</strong> The catalogue includes 15 dedicated Pagan, ancient-religion and living-tradition subjects, alongside expanded Humanism, Secularism, Apatheism, Ignosticism and Theological Noncognitivism, Apistevism and Epistemic Criticism, Metaethics, Moral Anti-Realism and Error Theory, Philosophy of Science, and Science and Scientific Method. These are distinct fields and positions, not interchangeable labels. “Apistevism” is used here as a specialised term for the project’s critique of faith as a sufficient basis for knowledge, not as a universally standard academic category. Pagan and Indigenous traditions are not one historically uniform religion: the catalogue distinguishes primary sources, modern practice, and historical or academic scholarship. Titles are bibliographic leads; free access and edition licences still need checking.</div>
+  <div class="note"><strong>Scope and editorial standard:</strong> This expanded edition includes additional reading on religious socialism, liberation theology, sceptical biblical annotation, historical criticism and comparative religion. Catalogue and recommendation counts are displayed dynamically. It is a growing, critical discovery catalogue rather than an exhaustive or final canon. It aims to represent CALCism-related foundations, scientific disciplines, practical organising, global and Indigenous perspectives, and serious critics or alternative schools. Reading levels are editorial estimates, not formal academic prerequisites. Bibliographic records and lawful access must be checked title by title; a search link does not imply a book is public domain or freely redistributable.</div>
   <div class="section-head"><div><div class="kicker">Explore the collection</div><h2>Find your next book</h2></div><div class="small" id="resultCount" aria-live="polite"></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Search title, author or topic…" aria-label="Search books">
@@ -313,7 +315,7 @@ footer a { color: #f0d28c; }
     </div>
   </section>
 </main>
-<footer><div class="wrap"><strong>The Temple of Knowledge · CALCism Reading Portal</strong><p>Book requests and questions: <a href="mailto:secularperspective@outlook.com?subject=The%20Temple%20of%20Knowledge%20question">secularperspective@outlook.com</a>.</p><p>This prototype is a curated discovery tool, not a book-hosting service. It links outward rather than copying book files. “Free to read” is not the same as “free to redistribute”. EU copyright law is harmonised in important areas but national laws still matter; the general EU term for authors' works is life plus 70 years, subject to specific rules and exceptions. Check the law applicable where you are accessing the work. <a href="https://europa.eu/youreurope/business/growing/protecting-intellectual-property/copyright/index_en.htm" target="_blank" rel="noopener noreferrer">Your Europe: Copyright</a> · <a href="https://euipo.europa.eu/en/copyright-knowledge-centre" target="_blank" rel="noopener noreferrer">EUIPO Copyright Knowledge Centre</a> · <a href="https://www.gutenberg.org/policy/terms_of_use" target="_blank" rel="noopener noreferrer">Gutenberg terms</a> · <a href="https://www.doabooks.org/en/researchers/full-faq" target="_blank" rel="noopener noreferrer">DOAB FAQ</a>.</p><p>Starter catalogue only. Free-edition links are searches across legitimate sources, not individually verified edition claims. The Amazon link is a physical-book search for the selected marketplace, not an endorsement or price guarantee. This is general information, not legal advice.</p></div></footer>
+<footer><div class="wrap"><strong>The Temple of Knowledge · CALCism Reading Portal</strong><p>Book requests and questions: <a href="mailto:secularperspective@outlook.com?subject=The%20Temple%20of%20Knowledge%20question">secularperspective@outlook.com</a>.</p><p>This prototype is a curated discovery tool, not a book-hosting service. It links outward rather than copying book files. “Free to read” is not the same as “free to redistribute”. EU copyright law is harmonised in important areas but national laws still matter; the general EU term for authors' works is life plus 70 years, subject to specific rules and exceptions. Check the law applicable where you are accessing the work. <a href="https://europa.eu/youreurope/business/growing/protecting-intellectual-property/copyright/index_en.htm" target="_blank" rel="noopener noreferrer">Your Europe: Copyright</a> · <a href="https://euipo.europa.eu/en/copyright-knowledge-centre" target="_blank" rel="noopener noreferrer">EUIPO Copyright Knowledge Centre</a> · <a href="https://www.gutenberg.org/policy/terms_of_use" target="_blank" rel="noopener noreferrer">Gutenberg terms</a> · <a href="https://www.doabooks.org/en/researchers/full-faq" target="_blank" rel="noopener noreferrer">DOAB FAQ</a>.</p><p>Curated, non-exhaustive catalogue. Free-edition links are searches across legitimate sources, not individually verified edition claims. The Amazon link is a physical-book search for the selected marketplace, not an endorsement or price guarantee. This is general information, not legal advice. The BITE Model is a heuristic proposed by Steven Hassan, not a universally accepted diagnostic instrument; assess specific, evidenced behaviours and context rather than labelling a religion or its members wholesale. “Cult” is a contested term, so this portal also uses “high-control group” and “coercive influence” where more precise. ICSA provides research and educational resources; inclusion here is not an endorsement of every source or claim.</p></div></footer>
 </div>
 <script>
 const books = [
@@ -769,6 +771,123 @@ const books = [
 {t:"World Poverty and Human Rights",a:"Thomas Pogge",s:"Cosmopolitanism and Global Justice",l:"Advanced",y:2002},
 {t:"The Cosmopolitan Vision",a:"Ulrich Beck",s:"Cosmopolitanism and Global Justice",l:"Advanced",y:2006},
 
+
+/* Ultimate update: anarchist theory, organising, cooperative economics, decolonial thought, ecology, science, mind and critical counterpoints */
+{t:"Anarchism: A Very Short Introduction",a:"Colin Ward",s:"Anarchism",l:"Beginner",y:2004},
+{t:"Demanding the Impossible: A History of Anarchism",a:"Peter H. Marshall",s:"Anarchism",l:"Intermediate",y:1992},
+{t:"The ABC of Anarchism",a:"Alexander Berkman",s:"Anarchism",l:"Beginner",y:1929},
+{t:"Black Flame: The Revolutionary Class Politics of Anarchism and Syndicalism",a:"Lucien van der Walt and Michael Schmidt",s:"Anarchism",l:"Advanced",y:2009},
+{t:"Anarchism: A Documentary History of Libertarian Ideas, Volume One",a:"Edited by Robert Graham",s:"Anarchism",l:"Intermediate",y:2005},
+{t:"The Politics of Social Ecology: Libertarian Municipalism",a:"Janet Biehl",s:"Communalism",l:"Intermediate",y:1998},
+{t:"The Tyranny of Structurelessness",a:"Jo Freeman",s:"Anarchist Organising and Direct Democracy",l:"Intermediate",y:1972},
+{t:"Direct Action: An Ethnography",a:"David Graeber",s:"Anarchist Organising and Direct Democracy",l:"Advanced",y:2009},
+{t:"The Democracy Project: A History, a Crisis, a Movement",a:"David Graeber",s:"Anarchist Organising and Direct Democracy",l:"Intermediate",y:2013},
+{t:"The People's Republic of Walmart",a:"Leigh Phillips and Michal Rozworski",s:"Cooperative and Solidarity Economics",l:"Beginner",y:2019},
+{t:"Collective Courage: A History of African American Cooperative Economic Thought and Practice",a:"Jessica Gordon Nembhard",s:"Cooperative and Solidarity Economics",l:"Intermediate",y:2014},
+{t:"Humanizing the Economy: Co-operatives in the Age of Capital",a:"John Restakis",s:"Cooperative and Solidarity Economics",l:"Intermediate",y:2010},
+{t:"Parecon: Life After Capitalism",a:"Michael Albert",s:"Cooperative and Solidarity Economics",l:"Advanced",y:2003},
+{t:"After Capitalism",a:"David Schweickart",s:"Cooperative and Solidarity Economics",l:"Advanced",y:2002},
+{t:"The Wretched of the Earth",a:"Frantz Fanon",s:"Decolonial Thought and Anti-Colonialism",l:"Advanced",y:1961},
+{t:"Orientalism",a:"Edward W. Said",s:"Decolonial Thought and Anti-Colonialism",l:"Advanced",y:1978},
+{t:"Decolonising the Mind: The Politics of Language in African Literature",a:"Ngũgĩ wa Thiong'o",s:"Decolonial Thought and Anti-Colonialism",l:"Intermediate",y:1986},
+{t:"Decolonizing Methodologies: Research and Indigenous Peoples",a:"Linda Tuhiwai Smith",s:"Indigenous Knowledge and Decolonisation",l:"Advanced",y:1999},
+{t:"As We Have Always Done: Indigenous Freedom through Radical Resistance",a:"Leanne Betasamosake Simpson",s:"Indigenous Knowledge and Decolonisation",l:"Advanced",y:2017},
+{t:"The Inconvenient Indian: A Curious Account of Native People in North America",a:"Thomas King",s:"Indigenous Knowledge and Decolonisation",l:"Intermediate",y:2012},
+{t:"Feminism Is for Everybody: Passionate Politics",a:"bell hooks",s:"Feminism and gender",l:"Beginner",y:2000},
+{t:"Gender Trouble: Feminism and the Subversion of Identity",a:"Judith Butler",s:"Feminism and gender",l:"Advanced",y:1990},
+{t:"Caliban and the Witch: Women, the Body and Primitive Accumulation",a:"Silvia Federici",s:"Feminism and gender",l:"Advanced",y:2004},
+{t:"Ecofeminism",a:"Maria Mies and Vandana Shiva",s:"Ecofeminism and Feminist Ecology",l:"Intermediate",y:1993},
+{t:"Ecofeminism as Politics: Nature, Marx and the Postmodern",a:"Ariel Salleh",s:"Ecofeminism and Feminist Ecology",l:"Advanced",y:1997},
+{t:"Transgender History: The Roots of Today's Revolution",a:"Susan Stryker",s:"LGBTQ+ studies",l:"Intermediate",y:2008},
+{t:"Stone Butch Blues",a:"Leslie Feinberg",s:"LGBTQ+ studies",l:"Advanced",y:1993},
+{t:"The Diversity of Life",a:"Edward O. Wilson",s:"Biodiversity and Conservation Biology",l:"Intermediate",y:1992},
+{t:"The Future of Life",a:"Edward O. Wilson",s:"Biodiversity and Conservation Biology",l:"Beginner",y:2002},
+{t:"Silent Earth: Averting the Insect Apocalypse",a:"Dave Goulson",s:"Biodiversity and Conservation Biology",l:"Beginner",y:2021},
+{t:"The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation",a:"Joan Martinez-Alier",s:"Environmental Justice and Political Ecology",l:"Advanced",y:2002},
+{t:"Climate Leviathan: A Political Theory of Our Planetary Future",a:"Geoff Mann and Joel Wainwright",s:"Environmental Justice and Political Ecology",l:"Advanced",y:2018},
+{t:"This Changes Everything: Capitalism vs. the Climate",a:"Naomi Klein",s:"Climate Science and Energy Transition",l:"Intermediate",y:2014},
+{t:"The Progress of This Storm: Nature and Society in a Warming World",a:"Andreas Malm",s:"Climate Science and Energy Transition",l:"Advanced",y:2018},
+{t:"The Web of Life: A New Scientific Understanding of Living Systems",a:"Fritjof Capra",s:"Systems Thinking and Complexity",l:"Intermediate",y:1996},
+{t:"Ecology: The Economy of Nature",a:"Robert E. Ricklefs and Rick Relyea",s:"Ecology and climate",l:"Advanced",y:2013},
+{t:"The Rights of Nature: A History of Environmental Ethics",a:"Roderick Frazier Nash",s:"Environmental Ethics and Ecological Philosophy",l:"Advanced",y:1989},
+{t:"Ecology, Community and Lifestyle",a:"Arne Naess",s:"Ecocentrism and Deep Ecology",l:"Advanced",y:1989},
+{t:"For Love of Matter: A Contemporary Panpsychism",a:"Freya Mathews",s:"Ecocentrism and Deep Ecology",l:"Advanced",y:2003},
+{t:"The End of Everything: (Astrophysically Speaking)",a:"Katie Mack",s:"Cosmology and the Universe",l:"Beginner",y:2020},
+{t:"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",a:"Brian Greene",s:"Physics and the Nature of Reality",l:"Intermediate",y:1999},
+{t:"Introduction to Cosmology",a:"Barbara Ryden",s:"Astronomy and Astrophysics",l:"Advanced",y:2003},
+{t:"Life in the Universe",a:"Jeffrey Bennett, Seth Shostak, Nicholas Schneider and Meredith MacGregor",s:"Astrobiology and Planetary Science",l:"Intermediate",y:2022},
+{t:"The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design",a:"Richard Dawkins",s:"Biology and evolution",l:"Intermediate",y:1986},
+{t:"The Greatest Show on Earth: The Evidence for Evolution",a:"Richard Dawkins",s:"Biology and evolution",l:"Beginner",y:2009},
+{t:"The Gene: An Intimate History",a:"Siddhartha Mukherjee",s:"Genetics and Molecular Biology",l:"Intermediate",y:2016},
+{t:"The Song of the Cell: An Exploration of Medicine and the New Human",a:"Siddhartha Mukherjee",s:"Genetics and Molecular Biology",l:"Intermediate",y:2022},
+{t:"Bad Science",a:"Ben Goldacre",s:"Science and critical thinking",l:"Beginner",y:2008},
+{t:"The Craft of Research",a:"Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup and William T. FitzGerald",s:"Research Methods and Information Literacy",l:"Intermediate",y:2016},
+{t:"Consciousness Explained",a:"Daniel C. Dennett",s:"Philosophy of Mind and Cognitive Science",l:"Advanced",y:1991},
+{t:"The Embodied Mind: Cognitive Science and Human Experience",a:"Francisco J. Varela, Evan Thompson and Eleanor Rosch",s:"Philosophy of Mind and Cognitive Science",l:"Advanced",y:1991},
+{t:"How Emotions Are Made: The Secret Life of the Brain",a:"Lisa Feldman Barrett",s:"Philosophy of Mind and Cognitive Science",l:"Intermediate",y:2017},
+{t:"The Self Illusion: How the Social Brain Creates Identity",a:"Bruce Hood",s:"Philosophy of Mind and Cognitive Science",l:"Beginner",y:2011},
+{t:"The Age of Surveillance Capitalism",a:"Shoshana Zuboff",s:"Digital Commons, Privacy and Surveillance",l:"Advanced",y:2019},
+{t:"Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing",a:"Mar Hicks",s:"Digital Commons, Privacy and Surveillance",l:"Advanced",y:2017},
+{t:"Free Software, Free Society: Selected Essays of Richard M. Stallman",a:"Richard M. Stallman",s:"Digital Commons, Privacy and Surveillance",l:"Intermediate",y:2002},
+{t:"The Origins of Totalitarianism",a:"Hannah Arendt",s:"Political Philosophy and Authoritarianism",l:"Advanced",y:1951},
+{t:"The Open Society and Its Enemies",a:"Karl Popper",s:"Political Philosophy and Authoritarianism",l:"Advanced",y:1945},
+{t:"The Road to Serfdom",a:"F. A. Hayek",s:"Political Philosophy and Authoritarianism",l:"Intermediate",y:1944},
+{t:"Why Nations Fail: The Origins of Power, Prosperity, and Poverty",a:"Daron Acemoglu and James A. Robinson",s:"Political Economy and Institutions",l:"Intermediate",y:2012},
+{t:"The Moral Landscape: How Science Can Determine Human Values",a:"Sam Harris",s:"Moral Anti-Realism and Error Theory",l:"Intermediate",y:2010},
+{t:"The Righteous Mind: Why Good People Are Divided by Politics and Religion",a:"Jonathan Haidt",s:"Psychology",l:"Intermediate",y:2012},
+{t:"The Great Transformation: The Political and Economic Origins of Our Time",a:"Karl Polanyi",s:"Political Economy and Institutions",l:"Advanced",y:1944},
+{t:"The Solidarity Economy: An Introduction to the Theory and Practice of a New Economic Paradigm",a:"Edited by Emily Kawano, Thomas Neal Masterson and Jonathan Teller-Elsberg",s:"Cooperative and Solidarity Economics",l:"Intermediate",y:2010},
+{t:"The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program That Shaped Our World",a:"Vincent Bevins",s:"History",l:"Intermediate",y:2020},
+{t:"The Dispossessed: An Ambiguous Utopia",a:"Ursula K. Le Guin",s:"Literature and utopias",l:"Intermediate",y:1974},
+{t:"The Ministry for the Future",a:"Kim Stanley Robinson",s:"Literature and utopias",l:"Intermediate",y:2020},
+{t:"Dhammic Socialism",a:"Buddhadasa Bhikkhu",s:"Religion, Socialism and Liberation Theology",l:"Intermediate",y:1993},
+{t:"Mindful Solidarity: A Secular Buddhist Democratic Socialist Dialogue",a:"Mike Slott",s:"Religion, Socialism and Liberation Theology",l:"Intermediate",y:2024},
+{t:"Why the Dalai Lama Is a Socialist: Buddhism and the Compassionate Society",a:"Terry Gibbs",s:"Religion, Socialism and Liberation Theology",l:"Intermediate",y:2017},
+{t:"Socially Engaged Buddhism",a:"Sallie B. King",s:"Religion, Socialism and Liberation Theology",l:"Intermediate",y:2009},
+{t:"The Dharma and Socially Engaged Buddhist Economics",a:"Joel Magnuson",s:"Religion, Socialism and Liberation Theology",l:"Advanced",y:2022},
+{t:"A Theology of Liberation: History, Politics, and Salvation",a:"Gustavo Gutiérrez",s:"Religion, Socialism and Liberation Theology",l:"Advanced",y:1971},
+{t:"The Gospel in Solentiname",a:"Ernesto Cardenal",s:"Religion, Socialism and Liberation Theology",l:"Intermediate",y:1975},
+{t:"Christian Anarchism: A Political Commentary on the Gospel",a:"Alexandre Christoyannopoulos",s:"Religion, Socialism and Liberation Theology",l:"Advanced",y:2010},
+{t:"The Skeptic's Annotated Bible",a:"Steve Wells",s:"Skepticism, Scripture and Biblical Criticism",l:"Beginner",y:2013},
+{t:"Who Wrote the Bible?",a:"Richard Elliott Friedman",s:"Skepticism, Scripture and Biblical Criticism",l:"Intermediate",y:1987},
+{t:"The Bible with Sources Revealed",a:"Richard Elliott Friedman",s:"Skepticism, Scripture and Biblical Criticism",l:"Advanced",y:2003},
+{t:"The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts",a:"Israel Finkelstein and Neil Asher Silberman",s:"Skepticism, Scripture and Biblical Criticism",l:"Intermediate",y:2001},
+{t:"Misquoting Jesus: The Story Behind Who Changed the Bible and Why",a:"Bart D. Ehrman",s:"Skepticism, Scripture and Biblical Criticism",l:"Beginner",y:2005},
+{t:"Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible",a:"Bart D. Ehrman",s:"Skepticism, Scripture and Biblical Criticism",l:"Intermediate",y:2009},
+{t:"The Historical Figure of Jesus",a:"E. P. Sanders",s:"Skepticism, Scripture and Biblical Criticism",l:"Advanced",y:1993},
+{t:"The Gnostic Gospels",a:"Elaine Pagels",s:"Skepticism, Scripture and Biblical Criticism",l:"Intermediate",y:1979},
+{t:"The Evolution of God",a:"Robert Wright",s:"Comparative Religion and Historical Criticism",l:"Intermediate",y:2009},
+{t:"The Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims",a:"Mustafa Akyol",s:"Comparative Religion and Historical Criticism",l:"Intermediate",y:2017},
+{t:"Why I Am Not a Muslim",a:"Ibn Warraq",s:"Comparative Religion and Historical Criticism",l:"Advanced",y:1995},
+
+{t:"The Skeptic's Annotated Quran (online critical reference)",a:"Steve Wells",s:"Sceptical Scripture Guides and Apocrypha",l:"Beginner",y:2013},
+{t:"The Quran in Fewer Words (online critical reference)",a:"Steve Wells",s:"Sceptical Scripture Guides and Apocrypha",l:"Beginner",y:2026},
+{t:"The Mormon Scriptures in Fewer Words (online critical reference)",a:"Steve Wells",s:"Sceptical Scripture Guides and Apocrypha",l:"Beginner",y:2025},
+{t:"This Is My Doctrine: The Development of Mormon Theology",a:"Charles R. Harrell",s:"Sceptical Scripture Guides and Apocrypha",l:"Advanced",y:2011},
+{t:"The Bhagavad Gita in Fewer Words (online critical reference)",a:"Steve Wells",s:"Sceptical Scripture Guides and Apocrypha",l:"Beginner",y:2026},
+{t:"The Bhagavad Gita: A New Translation",a:"Stephen Mitchell",s:"Sceptical Scripture Guides and Apocrypha",l:"Beginner",y:2000},
+{t:"The Apocryphal Gospels: Texts and Translations",a:"Bart D. Ehrman",s:"Sceptical Scripture Guides and Apocrypha",l:"Intermediate",y:2003},
+{t:"Lost Christianities: The Battles for Scripture and the Faiths We Never Knew",a:"Bart D. Ehrman",s:"Sceptical Scripture Guides and Apocrypha",l:"Intermediate",y:2003},
+{t:"The Other Bible",a:"Willis Barnstone, editor",s:"Sceptical Scripture Guides and Apocrypha",l:"Advanced",y:1984},
+{t:"The Nag Hammadi Library in English",a:"James M. Robinson, editor",s:"Sceptical Scripture Guides and Apocrypha",l:"Advanced",y:1977},
+{t:"Combating Cult Mind Control",a:"Steven Hassan",s:"Cultic Studies, Coercive Control and Recovery",l:"Intermediate",y:2015},
+{t:"Take Back Your Life: Recovering from Cults and Abusive Relationships",a:"Janja Lalich and Madeleine Tobias",s:"Cultic Studies, Coercive Control and Recovery",l:"Intermediate",y:2006},
+{t:"Thought Reform and the Psychology of Totalism",a:"Robert Jay Lifton",s:"Cultic Studies, Coercive Control and Recovery",l:"Advanced",y:1961},
+{t:"Cults in Our Midst",a:"Margaret Thaler Singer with Janja Lalich",s:"Cultic Studies, Coercive Control and Recovery",l:"Intermediate",y:1995},
+{t:"The Guru Papers: Masks of Authoritarian Power",a:"Joel Kramer and Diana Alstad",s:"Cultic Studies, Coercive Control and Recovery",l:"Advanced",y:1993},
+{t:"Terror, Love and Brainwashing: Attachment in Cults and Totalitarian Systems",a:"Alexandra Stein",s:"Cultic Studies, Coercive Control and Recovery",l:"Advanced",y:2017},
+{t:"The Cult of Trump",a:"Steven Hassan",s:"Cultic Studies, Coercive Control and Recovery",l:"Intermediate",y:2019},
+{t:"ICSA Research Library and Educational Resources",a:"International Cultic Studies Association",s:"Cultic Studies, Coercive Control and Recovery",l:"Beginner",y:2026},
+{t:"The BITE Model of Authoritarian Control (online framework)",a:"Steven Hassan",s:"Cultic Studies, Coercive Control and Recovery",l:"Beginner",y:2018},
+{t:"Going Clear: Scientology, Hollywood, and the Prison of Belief",a:"Lawrence Wright",s:"Case Studies of High-Control Groups",l:"Intermediate",y:2013},
+{t:"Raven: The Untold Story of the Rev. Jim Jones and His People",a:"Tim Reiterman with John Jacobs",s:"Case Studies of High-Control Groups",l:"Advanced",y:1982},
+{t:"Seductive Poison: A Jonestown Survivor's Story of Life and Death in the Peoples Temple",a:"Deborah Layton",s:"Case Studies of High-Control Groups",l:"Intermediate",y:1998},
+{t:"Under the Banner of Heaven: A Story of Violent Faith",a:"Jon Krakauer",s:"Case Studies of High-Control Groups",l:"Intermediate",y:2003},
+{t:"The Road to Jonestown: Jim Jones and Peoples Temple",a:"Jeff Guinn",s:"Case Studies of High-Control Groups",l:"Intermediate",y:2017},
+{t:"Destroying the World to Save It: Aum Shinrikyo, Apocalyptic Violence, and the New Global Terrorism",a:"Robert Jay Lifton",s:"Case Studies of High-Control Groups",l:"Advanced",y:1999},
+{t:"The Family: The Secret Fundamentalism at the Heart of American Power",a:"Jeff Sharlet",s:"Case Studies of High-Control Groups",l:"Intermediate",y:2008},
+{t:"The Vow: NXIVM and the Culture of Coercive Control (documentary companion resource)",a:"HBO documentary series",s:"Case Studies of High-Control Groups",l:"Beginner",y:2020},
+
 ];
 const catalog = document.getElementById('catalog');
 const search = document.getElementById('search');
@@ -821,7 +940,38 @@ const calcismRecommended = new Set([
  'The Philosophy of Social Ecology: Essays on Dialectical Naturalism|Murray Bookchin|Social Ecology and Environmental Anarchism',
  'The Origins of Life: From the Birth of Life to the Origin of Language|John Maynard Smith and Eörs Szathmáry|Origins of Life and Evolution',
  'Cosmopolitanism: Ethics in a World of Strangers|Kwame Anthony Appiah|Cosmopolitanism and Global Justice',
- 'World Poverty and Human Rights|Thomas Pogge|Cosmopolitanism and Global Justice'
+ 'World Poverty and Human Rights|Thomas Pogge|Cosmopolitanism and Global Justice',
+ 'Anarchism: A Very Short Introduction|Colin Ward|Anarchism',
+ 'Demanding the Impossible: A History of Anarchism|Peter H. Marshall|Anarchism',
+ 'The ABC of Anarchism|Alexander Berkman|Anarchism',
+ 'The Politics of Social Ecology: Libertarian Municipalism|Janet Biehl|Communalism',
+ 'The Tyranny of Structurelessness|Jo Freeman|Anarchist Organising and Direct Democracy',
+ 'The Democracy Project: A History, a Crisis, a Movement|David Graeber|Anarchist Organising and Direct Democracy',
+ 'Collective Courage: A History of African American Cooperative Economic Thought and Practice|Jessica Gordon Nembhard|Cooperative and Solidarity Economics',
+ 'Parecon: Life After Capitalism|Michael Albert|Cooperative and Solidarity Economics',
+ 'The Wretched of the Earth|Frantz Fanon|Decolonial Thought and Anti-Colonialism',
+ 'Decolonizing Methodologies: Research and Indigenous Peoples|Linda Tuhiwai Smith|Indigenous Knowledge and Decolonisation',
+ 'Feminism Is for Everybody: Passionate Politics|bell hooks|Feminism and gender',
+ 'The Second Sex|Simone de Beauvoir|Feminism and gender',
+ 'Ecofeminism|Maria Mies and Vandana Shiva|Ecofeminism and Feminist Ecology',
+ 'The Diversity of Life|Edward O. Wilson|Biodiversity and Conservation Biology',
+ 'The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation|Joan Martinez-Alier|Environmental Justice and Political Ecology',
+ 'This Changes Everything: Capitalism vs. the Climate|Naomi Klein|Climate Science and Energy Transition',
+ 'Ecology, Community and Lifestyle|Arne Naess|Ecocentrism and Deep Ecology',
+ 'The First Three Minutes: A Modern View of the Origin of the Universe|Steven Weinberg|Cosmology and the Universe',
+ 'The End of Everything: (Astrophysically Speaking)|Katie Mack|Cosmology and the Universe',
+ 'The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design|Richard Dawkins|Biology and evolution',
+ 'Bad Science|Ben Goldacre|Science and critical thinking',
+ 'The Craft of Research|Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup and William T. FitzGerald|Research Methods and Information Literacy',
+ 'Consciousness Explained|Daniel C. Dennett|Philosophy of Mind and Cognitive Science',
+ 'The Age of Surveillance Capitalism|Shoshana Zuboff|Digital Commons, Privacy and Surveillance',
+ 'The Origins of Totalitarianism|Hannah Arendt|Political Philosophy and Authoritarianism',
+ 'The Great Transformation: The Political and Economic Origins of Our Time|Karl Polanyi|Political Economy and Institutions',
+ 'Dhammic Socialism|Buddhadasa Bhikkhu|Religion, Socialism and Liberation Theology',
+ 'Mindful Solidarity: A Secular Buddhist Democratic Socialist Dialogue|Mike Slott|Religion, Socialism and Liberation Theology',
+ "The Skeptic's Annotated Bible|Steve Wells|Skepticism, Scripture and Biblical Criticism",
+ 'Misquoting Jesus: The Story Behind Who Changed the Bible and Why|Bart D. Ehrman|Skepticism, Scripture and Biblical Criticism',
+ 'The Evolution of God|Robert Wright|Comparative Religion and Historical Criticism' 
 ]);
 function isCalcismRecommended(b){return calcismRecommended.has(`${b.t}|${b.a}|${b.s}`)}
 const recommendedOption=document.createElement('option');
@@ -830,6 +980,7 @@ recommendedOption.textContent='CALCism Recommended List';
 topic.appendChild(recommendedOption);
 const topics = [...new Set(books.map(b=>b.s))].sort((a,b)=>a.localeCompare(b));
 topics.forEach(s=>{const o=document.createElement('option');o.value=s;o.textContent=s;topic.appendChild(o)});
+document.getElementById('subjectCount').textContent=topics.length;
 function matchesTopic(b){return !topic.value||(topic.value==='__calcism_recommended__'?isCalcismRecommended(b):b.s===topic.value)}
 document.getElementById('bookCount').textContent=books.length;
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
@@ -868,7 +1019,9 @@ function directSources(b){const q=b.t+' '+b.a;return [
  ...(['Apistevism and Epistemic Criticism'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Epistemology','https://plato.stanford.edu/entries/epistemology/'],['Internet Encyclopedia of Philosophy: Skepticism','https://iep.utm.edu/skeptic/']]:[]),
  ...(['Metaethics','Moral Anti-Realism and Error Theory'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Metaethics','https://plato.stanford.edu/entries/metaethics/'],['Internet Encyclopedia of Philosophy: Moral Anti-Realism','https://iep.utm.edu/moralrea/']]:[]),
  ...(['Philosophy of Science','Science and Scientific Method'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Scientific Method','https://plato.stanford.edu/entries/scientific-method/'],['PhilPapers','https://philpapers.org/']]:[]),
- ...(['Cosmopolitanism and Global Justice','Internationalism and global politics','Colonialism and internationalism'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Cosmopolitanism','https://plato.stanford.edu/entries/cosmopolitanism/'],['United Nations Digital Library','https://digitallibrary.un.org/']]:[])
+ ...(['Cosmopolitanism and Global Justice','Internationalism and global politics','Colonialism and internationalism'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Cosmopolitanism','https://plato.stanford.edu/entries/cosmopolitanism/'],['United Nations Digital Library','https://digitallibrary.un.org/']]:[]),
+ ...(['Sceptical Scripture Guides and Apocrypha'].includes(b.s)?[["The Skeptic's Annotated Bible, Quran, Mormon Scriptures and Bhagavad Gita",'https://www.skepticsannotatedbible.com/'],['Bible and Apocrypha section','https://www.skepticsannotatedbible.com/bible/'],['Quran critical reference','https://www.skepticsannotatedbible.com/quran/'],['Mormon Scriptures critical reference','https://www.skepticsannotatedbible.com/'],['Bhagavad Gita in Fewer Words','https://www.skepticsannotatedbible.com/']]:[]),
+ ...(['Cultic Studies, Coercive Control and Recovery','Case Studies of High-Control Groups'].includes(b.s)?[['International Cultic Studies Association (ICSA)','https://internationalculticstudies.org/'],['ICSA research and academic resources','https://internationalculticstudies.org/resources-academics/'],['ICSA resources for professionals and families','https://internationalculticstudies.org/resources-professionals-service-providers/'],['Freedom of Mind: BITE Model overview','https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/']]:[])
  ];}
 function amazonPrint(b){const marketplace=document.getElementById('marketplace')?.value||'de';return 'https://www.amazon.'+marketplace+'/s?i=stripbooks&k='+encodeURIComponent(b.t+' '+b.a);}
 function draw(){
