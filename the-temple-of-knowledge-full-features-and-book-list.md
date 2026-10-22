@@ -1,47 +1,70 @@
-The Temple of Knowledge — CALCism Reading Portal
-Full feature inventory and complete book list
+# The Temple of Knowledge — CALCism Reading Portal
 
-Catalogue records: 672
-Subject categories: 119
-CALCism recommendations: dynamic curated pathway
-Creator: Sora Izumi Dao (空 泉 道)
-Motto: “No theory is sacred enough to override reality.”
+Full feature inventory, audio/video links, critical religious-source guide and complete book list
 
-## Feminism, queer theory, trans studies and liberation
-This edition substantially expands feminist history, Black and intersectional feminism, decolonial and transnational feminism, socialist/materialist feminism, lesbian theory, queer theory, transgender studies, asexuality, queer justice and abolitionist approaches, alongside a larger anarchist library covering Proudhon, Bakunin, Kropotkin, Goldman, Malatesta, Berkman, de Cleyre, Rocker, Bookchin, Ward, Makhno, Voline and Eleanor Marx. Max Stirner is included in the separate individualist-anarchist context, not labelled a feminist or queer theorist.
+- Catalogue records: 672
+- Subject categories: 119
+- Sorting: default order, title A–Z, author surname A–Z/Z–A, publication year oldest/newest, subject A–Z and reading level. Sorting works with search, subject/level filters and CSV export.
+- Creator: Sora Izumi Dao (空 泉 道)
+- Motto: “No theory is sacred enough to override reality.”
 
-### Pathways
-- Feminist foundations and history: Mary Wollstonecraft, Simone de Beauvoir, Kate Millett, Betty Friedan, Gerda Lerner.
-- Black, intersectional and decolonial feminism: bell hooks, Audre Lorde, Angela Y. Davis, Patricia Hill Collins, Kimberlé Crenshaw, Chandra Talpade Mohanty, Gloria Anzaldúa.
-- Socialist/materialist feminism and care: Silvia Federici, Cinzia Arruzza, Tithi Bhattacharya, Nancy Fraser, The Care Collective.
-- Lesbian theory, queer theory and sexual politics: Gayle Rubin, Monique Wittig, Michel Foucault, Judith Butler, Eve Kosofsky Sedgwick, Annamarie Jagose, Sara Ahmed, José Esteban Muñoz, Lee Edelman, Michael Warner.
-- Trans studies and asexuality: Susan Stryker, Leslie Feinberg, Julia Serano, Jack Halberstam, C. Riley Snorton, Angela Chen.
-- Queer justice and abolition: Joey L. Mogul, Andrea J. Ritchie, Kay Whitlock, Angela Y. Davis, Gina Dent, Erica R. Meiners, Beth E. Richie.
-- Individualist anarchism: Max Stirner, with contextual distinction from feminist and queer theory.
+## Audio and video discovery
 
-### Academic reading-list references
-- UCSB theories of genders and sexualities: https://english.ucsb.edu/graduate/academics/graduate-program-handbook/section-19-reading-lists-for-the-first-qualifying-exam/reading-list-10-theories-of-genders-and-sexualities/
-- UC Irvine queer theory and criticism: https://cta.lib.uci.edu/critical-theory-uc-irvine/schools-thought-reading-lists/queer-theory-criticism
-- Fordham University Libraries queer theory selections: https://fordham.libguides.com/LGBTQ/Theory
-- University of Washington Libraries queer and trans theory: https://guides.lib.uw.edu/research/literaryresearch/queer-theory
+Each catalogue card now includes targeted YouTube searches for audiobook/audio readings and video lectures, book discussions or author interviews. Searches are not verified editions: check the uploader, completeness, edition, translation and copyright status. Useful starting points:
 
-## Website features
-- Interactive search across title, author and subject.
-- Dynamic subject selector and CALCism Recommended List.
-- Beginner, Intermediate and Advanced reading levels.
-- Free-edition discovery using Startpage by default, plus Ecosia, DuckDuckGo and Mojeek; Google and Bing remain hidden until the user accepts a warning.
-- Direct discovery links to relevant open-access catalogues, archives and specialist libraries.
-- Physical-book search across Germany, UK, France, Italy, Spain, Netherlands, Sweden, Poland and Belgium Amazon marketplaces.
-- Browser-local saved titles; no account or cloud synchronisation.
-- Reset filters and CSV export of visible titles.
-- Accessible tabs for catalogue, full book list, CALCism, feminism and queer theory, religion and socialism, moral philosophy, free-book sources, and features/guide.
-- Print CSS reveals all tabs and supports browser Print / Save as PDF.
-- Copyright-aware discovery; the site links outward and does not host copyrighted books.
+- LibriVox: https://librivox.org/ — volunteer-recorded public-domain audiobooks; check local copyright status.
+- Project Gutenberg: https://www.gutenberg.org/ — open ebook catalogue with some audio options.
+- Internet Archive audio: https://archive.org/details/audio — item-specific access and rights conditions.
+- Open Yale Courses: https://oyc.yale.edu/ — university lectures.
+- MIT OpenCourseWare: https://ocw.mit.edu/ — free course materials and selected recordings.
 
-## Copyright and access
-This is a discovery catalogue, not a book-hosting service. Search results do not establish that a specific edition is free, public domain in your jurisdiction, or licensed for redistribution. Check edition-specific rights and local law. Bibliographic records are curated leads and have not all been independently verified.
+## Religious movements and critical source guide
+
+This guide distinguishes criticism of particular organisations, doctrines and practices from claims about whole religions or their members. “Cult” is contested; use precise concepts such as high-control group, coercive influence or new religious movement where appropriate. Compare advocacy sources, current-member perspectives, former-member testimony, primary documents, legal records and academic scholarship. Personal testimony matters but is not, by itself, independent verification of every claim.
+
+### Jehovah’s Witnesses
+- Owen Morgan — Telltale: https://www.youtube.com/@OwenMorganTelltale and https://owenmorgan.com/ — ex-Witness critical commentary.
+- JW Facts: https://jwfacts.com/ — critical reference; compare its citations with official publications and scholarship.
+- Cambridge scholarly overview: https://www.cambridge.org/core/elements/jehovahs-witnesses/605AED05C9FA13DC68BB74FE3D2C651D
+
+### Latter-day Saints / Mormonism
+- Mr Atheist (Snow) search: https://www.youtube.com/results?search_query=Mr+Atheist+Snow+Mormonism — critical ex-Mormon perspective; channel discovery link used because the exact current channel handle was not independently verified.
+- Mormon Stories Podcast: https://www.mormonstories.org/ — long-form current/former-member interviews and discussions.
+- LDS Discussions: https://www.ldsdiscussions.com/ — critical essays comparing truth claims with historical and church-published sources.
+
+### Scientology
+- Leah Remini: Scientology and the Aftermath: https://www.aetv.com/shows/leah-remini-scientology-and-the-aftermath — documentary series and former-member testimony.
+- The Underground Bunker: https://tonyortega.org/ — investigative reporting and commentary.
+- ICSA academic resources: https://internationalculticstudies.org/resources-academics/ — comparative high-control group resources.
+
+### Islam
+- Council of Ex-Muslims of Britain: https://ex-muslim.org.uk/ — openly critical ex-Muslim advocacy and publications.
+- Skeptic’s Annotated Quran: https://www.skepticsannotatedbible.com/quran/ — explicitly sceptical reading guide; compare translations and academic work.
+- Encyclopaedia Britannica overview: https://www.britannica.com/topic/Islam
+
+### Hindu traditions
+- B. R. Ambedkar, *Annihilation of Caste*: https://library.brambedkar.in/pdf/annihilation-of-caste/ — major anti-caste critique; read in context alongside Dalit, reformist and academic perspectives.
+- Ambedkar writings and speeches archive: https://baws.in/
+- Encyclopaedia Britannica overview: https://www.britannica.com/topic/Hinduism
+- Skeptic’s Annotated site: https://www.skepticsannotatedbible.com/ — locate its critical Bhagavad Gita guide; it is not a neutral scholarly edition.
+
+### Judaism and Hebrew Bible studies
+- Bible Odyssey (Society of Biblical Literature): https://www.bibleodyssey.org/ — academic essays on biblical texts and ancient contexts.
+- Oxford Academic: https://academic.oup.com/ — scholarly books and articles, some requiring access.
+- My Jewish Learning: https://www.myjewishlearning.com/ — accessible Jewish education and internal diversity; useful as a comparison source, not an anti-religious source.
+
+### Cross-cutting frameworks
+- International Cultic Studies Association: https://internationalculticstudies.org/
+- ICSA academic resources: https://internationalculticstudies.org/resources-academics/
+- Freedom of Mind BITE Model: https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/ — one heuristic, not a universally accepted diagnostic test.
+- Google Scholar: https://scholar.google.com/ — search academic literature and trace references.
+
+## Editorial and copyright standards
+
+The portal links outward rather than hosting copyrighted book files. Search results do not prove that a particular edition is free, public domain in your jurisdiction or licensed for redistribution. Verify the exact edition and applicable law. The guide should document specific claims, identify source perspective and uncertainty, and avoid stereotyping people because of religious identity.
 
 ## Complete book list
+
 ### Anarchism (36)
 
 - Anarchism and American Traditions — Voltairine de Cleyre [Intermediate · 1908]
@@ -208,12 +231,12 @@ This is a discovery catalogue, not a book-hosting service. Search results do not
 - Buddhism: A Very Short Introduction — Damien Keown [Beginner · 1996]
 - In the Buddha's Words: An Anthology of Discourses from the Pali Canon — Bhikkhu Bodhi [Intermediate · 2005]
 - Secular Buddhism — Stephen Batchelor [Intermediate · 2017]
-- The Dhammapada — Traditional Buddhist text; multiple translators [Beginner · year unknown]
+- The Dhammapada — Traditional Buddhist text; multiple translators [Beginner · year not recorded]
 - The Foundations of Buddhism — Rupert Gethin [Intermediate · 1998]
 - The Heart of the Buddha's Teaching — Thich Nhat Hanh [Beginner · 1998]
-- The Majjhima Nikaya: The Middle-Length Discourses — Early Buddhist canon [Advanced · year unknown]
+- The Majjhima Nikaya: The Middle-Length Discourses — Early Buddhist canon [Advanced · year not recorded]
 - The Platform Sutra — Attributed to Huineng; translated by Philip B. Yampolsky [Advanced · 1967]
-- The Sutta Nipata — Early Buddhist discourses [Intermediate · year unknown]
+- The Sutta Nipata — Early Buddhist discourses [Intermediate · year not recorded]
 - The Threefold Lotus Sutra — Mahayana Buddhist scripture; translated by Bunno Kato et al. [Advanced · 1975]
 - The Tibetan Book of the Dead — Traditional Tibetan Buddhist text; translated by Gyurme Dorje et al. [Advanced · 2005]
 - The Way of the Bodhisattva — Shantideva; translated by Padmakara Translation Group [Intermediate · 1997]
@@ -335,17 +358,17 @@ This is a discovery catalogue, not a book-hosting service. Search results do not
 - Confucianism: A Short Introduction — Ronnie Littlejohn [Beginner · 2011]
 - Confucianism: A Very Short Introduction — Daniel K. Gardner [Beginner · 2014]
 - Introduction to Classical Chinese Philosophy — Bryan W. Van Norden [Beginner · 2011]
-- Mencius — Mengzi (Mencius); multiple translations [Intermediate · -300]
+- Mencius — Mengzi (Mencius); multiple translations [Intermediate · 300 BCE]
 - Neo-Confucianism: A Philosophical Introduction — Stephen C. Angle [Intermediate · 2009]
-- The Analects — Confucius; multiple translations [Beginner · -400]
-- The Book of Documents — One of the Five Classics of Confucianism [Advanced · -500]
-- The Book of Rites — Confucian classic; multiple translators [Advanced · -100]
-- The Classic of Changes (I Ching / Yijing) — Ancient Chinese classic interpreted in Confucian and other traditions [Advanced · -800]
-- The Classic of Poetry — Shijing; one of the Five Classics [Intermediate · -600]
-- The Doctrine of the Mean — Confucian classic; traditionally associated with Zisi [Intermediate · -300]
-- The Great Learning — Confucian classic; traditionally attributed to Zengzi [Beginner · -400]
-- The Spring and Autumn Annals — Confucian classic, traditionally associated with Confucius [Advanced · -500]
-- Xunzi: The Complete Text — Xunzi; translated by Eric L. Hutton [Advanced · -300]
+- The Analects — Confucius; multiple translations [Beginner · 400 BCE]
+- The Book of Documents — One of the Five Classics of Confucianism [Advanced · 500 BCE]
+- The Book of Rites — Confucian classic; multiple translators [Advanced · 100 BCE]
+- The Classic of Changes (I Ching / Yijing) — Ancient Chinese classic interpreted in Confucian and other traditions [Advanced · 800 BCE]
+- The Classic of Poetry — Shijing; one of the Five Classics [Intermediate · 600 BCE]
+- The Doctrine of the Mean — Confucian classic; traditionally associated with Zisi [Intermediate · 300 BCE]
+- The Great Learning — Confucian classic; traditionally attributed to Zengzi [Beginner · 400 BCE]
+- The Spring and Autumn Annals — Confucian classic, traditionally associated with Confucius [Advanced · 500 BCE]
+- Xunzi: The Complete Text — Xunzi; translated by Eric L. Hutton [Advanced · 300 BCE]
 
 ### Cooperative and Solidarity Economics (6)
 
@@ -395,19 +418,19 @@ This is a discovery catalogue, not a book-hosting service. Search results do not
 
 - Daoism: A Beginner's Guide — James Miller [Beginner · 2003]
 - Daoism: A Guide for the Perplexed — Louis Komjathy [Intermediate · 2014]
-- Tao Te Ching — Laozi [Beginner · -400]
+- Tao Te Ching — Laozi [Beginner · 400 BCE]
 - The Book of Lieh-tzu — Liezi; translated by A. C. Graham [Intermediate · 300]
-- The Dao De Jing (Tao Te Ching) — Laozi; multiple translations [Beginner · -400]
+- The Dao De Jing (Tao Te Ching) — Laozi; multiple translations [Beginner · 400 BCE]
 - The Daoist Tradition — Livia Kohn [Intermediate · 2009]
-- The Huainanzi — Liu An and court scholars; translated by John S. Major et al. [Advanced · -139]
+- The Huainanzi — Liu An and court scholars; translated by John S. Major et al. [Advanced · 139 BCE]
 - The Tao of Physics — Fritjof Capra [Intermediate · 1975]
 - The Tao of Pooh — Benjamin Hoff [Beginner · 1982]
 - The Taoist Body — Kristofer Schipper [Advanced · 1993]
 - The Taoist Classics, Volume 1 — Thomas Cleary, translator [Intermediate · 1999]
 - The Taoist Experience: An Anthology — Livia Kohn, editor [Advanced · 1993]
 - The Way of Chuang Tzu — Thomas Merton [Beginner · 1965]
-- Zhuangzi: The Complete Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · -300]
-- Zhuangzi: The Essential Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · -300]
+- Zhuangzi: The Complete Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · 300 BCE]
+- Zhuangzi: The Essential Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · 300 BCE]
 
 ### Daoism, Anarchism and Social Thought (2)
 
@@ -595,11 +618,11 @@ This is a discovery catalogue, not a book-hosting service. Search results do not
 - Religions of Rome: A History — Mary Beard, John North and Simon Price [Advanced · 1998]
 - Roman Religion — Jörg Rüpke [Advanced · 2007]
 - The Greek Myths — Robert Graves [Intermediate · 1955]
-- The Iliad — Homer [Intermediate · -750]
-- The Odyssey — Homer [Beginner · -700]
+- The Iliad — Homer [Intermediate · 750 BCE]
+- The Odyssey — Homer [Beginner · 700 BCE]
 - The Oxford Handbook of Ancient Greek Religion — Edited by Esther Eidinow and Julia Kindt [Advanced · 2015]
 - The Roman Festivals of the Period of the Republic — W. Warde Fowler [Advanced · 1899]
-- Theogony — Hesiod [Intermediate · -700]
+- Theogony — Hesiod [Intermediate · 700 BCE]
 
 ### Hindu Traditions, Anti-Caste Thought and Social Equality (3)
 
@@ -810,7 +833,7 @@ This is a discovery catalogue, not a book-hosting service. Search results do not
 
 - On Liberty — John Stuart Mill [Intermediate · 1859]
 - The Origins of Totalitarianism — Hannah Arendt [Advanced · 1951]
-- The Republic — Plato [Advanced · -380]
+- The Republic — Plato [Advanced · 380 BCE]
 
 ### Political Philosophy and Authoritarianism (3)
 
@@ -1070,4 +1093,3 @@ This is a discovery catalogue, not a book-hosting service. Search results do not
 - Zoroastrianism: An Introduction — Jenny Rose [Beginner · 2011]
 - Zoroastrianism: Its Antiquity and Constant Vigour — Maneckji Nusservanji Dhalla [Advanced · 1914]
 - Zoroastrians: Their Religious Beliefs and Practices — Mary Boyce [Intermediate · 2001]
-

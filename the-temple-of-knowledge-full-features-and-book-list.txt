@@ -1,48 +1,71 @@
-The Temple of Knowledge — CALCism Reading Portal
-Full feature inventory and complete book list
+ The Temple of Knowledge — CALCism Reading Portal
 
-Catalogue records: 672
-Subject categories: 119
-CALCism recommendations: dynamic curated pathway
-Creator: Sora Izumi Dao (空 泉 道)
-Motto: “No theory is sacred enough to override reality.”
+Full feature inventory, audio/video links, critical religious-source guide and complete book list
 
-Feminism, queer theory, trans studies and liberation
-This edition substantially expands feminist history, Black and intersectional feminism, decolonial and transnational feminism, socialist/materialist feminism, lesbian theory, queer theory, transgender studies, asexuality, queer justice and abolitionist approaches, alongside a larger anarchist library covering Proudhon, Bakunin, Kropotkin, Goldman, Malatesta, Berkman, de Cleyre, Rocker, Bookchin, Ward, Makhno, Voline and Eleanor Marx. Max Stirner is included in the separate individualist-anarchist context, not labelled a feminist or queer theorist.
+- Catalogue records: 672
+- Subject categories: 119
+- Sorting: default order, title A–Z, author surname A–Z/Z–A, publication year oldest/newest, subject A–Z and reading level. Sorting works with search, subject/level filters and CSV export.
+- Creator: Sora Izumi Dao (空 泉 道)
+- Motto: “No theory is sacred enough to override reality.”
 
-#Pathways
-- Feminist foundations and history: Mary Wollstonecraft, Simone de Beauvoir, Kate Millett, Betty Friedan, Gerda Lerner.
-- Black, intersectional and decolonial feminism: bell hooks, Audre Lorde, Angela Y. Davis, Patricia Hill Collins, Kimberlé Crenshaw, Chandra Talpade Mohanty, Gloria Anzaldúa.
-- Socialist/materialist feminism and care: Silvia Federici, Cinzia Arruzza, Tithi Bhattacharya, Nancy Fraser, The Care Collective.
-- Lesbian theory, queer theory and sexual politics: Gayle Rubin, Monique Wittig, Michel Foucault, Judith Butler, Eve Kosofsky Sedgwick, Annamarie Jagose, Sara Ahmed, José Esteban Muñoz, Lee Edelman, Michael Warner.
-- Trans studies and asexuality: Susan Stryker, Leslie Feinberg, Julia Serano, Jack Halberstam, C. Riley Snorton, Angela Chen.
-- Queer justice and abolition: Joey L. Mogul, Andrea J. Ritchie, Kay Whitlock, Angela Y. Davis, Gina Dent, Erica R. Meiners, Beth E. Richie.
-- Individualist anarchism: Max Stirner, with contextual distinction from feminist and queer theory.
+ Audio and video discovery
 
-#Academic reading-list references
-- UCSB theories of genders and sexualities: https://english.ucsb.edu/graduate/academics/graduate-program-handbook/section-19-reading-lists-for-the-first-qualifying-exam/reading-list-10-theories-of-genders-and-sexualities/
-- UC Irvine queer theory and criticism: https://cta.lib.uci.edu/critical-theory-uc-irvine/schools-thought-reading-lists/queer-theory-criticism
-- Fordham University Libraries queer theory selections: https://fordham.libguides.com/LGBTQ/Theory
-- University of Washington Libraries queer and trans theory: https://guides.lib.uw.edu/research/literaryresearch/queer-theory
+Each catalogue card now includes targeted YouTube searches for audiobook/audio readings and video lectures, book discussions or author interviews. Searches are not verified editions: check the uploader, completeness, edition, translation and copyright status. Useful starting points:
 
-Website features
-- Interactive search across title, author and subject.
-- Dynamic subject selector and CALCism Recommended List.
-- Beginner, Intermediate and Advanced reading levels.
-- Free-edition discovery using Startpage by default, plus Ecosia, DuckDuckGo and Mojeek; Google and Bing remain hidden until the user accepts a warning.
-- Direct discovery links to relevant open-access catalogues, archives and specialist libraries.
-- Physical-book search across Germany, UK, France, Italy, Spain, Netherlands, Sweden, Poland and Belgium Amazon marketplaces.
-- Browser-local saved titles; no account or cloud synchronisation.
-- Reset filters and CSV export of visible titles.
-- Accessible tabs for catalogue, full book list, CALCism, feminism and queer theory, religion and socialism, moral philosophy, free-book sources, and features/guide.
-- Print CSS reveals all tabs and supports browser Print / Save as PDF.
-- Copyright-aware discovery; the site links outward and does not host copyrighted books.
+- LibriVox: https://librivox.org/ — volunteer-recorded public-domain audiobooks; check local copyright status.
+- Project Gutenberg: https://www.gutenberg.org/ — open ebook catalogue with some audio options.
+- Internet Archive audio: https://archive.org/details/audio — item-specific access and rights conditions.
+- Open Yale Courses: https://oyc.yale.edu/ — university lectures.
+- MIT OpenCourseWare: https://ocw.mit.edu/ — free course materials and selected recordings.
 
-Copyright and access
-This is a discovery catalogue, not a book-hosting service. Search results do not establish that a specific edition is free, public domain in your jurisdiction, or licensed for redistribution. Check edition-specific rights and local law. Bibliographic records are curated leads and have not all been independently verified.
+ Religious movements and critical source guide
 
-Complete book list
-#Anarchism (36)
+This guide distinguishes criticism of particular organisations, doctrines and practices from claims about whole religions or their members. “Cult” is contested; use precise concepts such as high-control group, coercive influence or new religious movement where appropriate. Compare advocacy sources, current-member perspectives, former-member testimony, primary documents, legal records and academic scholarship. Personal testimony matters but is not, by itself, independent verification of every claim.
+
+ Jehovah’s Witnesses
+- Owen Morgan — Telltale: https://www.youtube.com/@OwenMorganTelltale and https://owenmorgan.com/ — ex-Witness critical commentary.
+- JW Facts: https://jwfacts.com/ — critical reference; compare its citations with official publications and scholarship.
+- Cambridge scholarly overview: https://www.cambridge.org/core/elements/jehovahs-witnesses/605AED05C9FA13DC68BB74FE3D2C651D
+
+ Latter-day Saints / Mormonism
+- Mr Atheist (Snow) search: https://www.youtube.com/results?search_query=Mr+Atheist+Snow+Mormonism — critical ex-Mormon perspective; channel discovery link used because the exact current channel handle was not independently verified.
+- Mormon Stories Podcast: https://www.mormonstories.org/ — long-form current/former-member interviews and discussions.
+- LDS Discussions: https://www.ldsdiscussions.com/ — critical essays comparing truth claims with historical and church-published sources.
+
+ Scientology
+- Leah Remini: Scientology and the Aftermath: https://www.aetv.com/shows/leah-remini-scientology-and-the-aftermath — documentary series and former-member testimony.
+- The Underground Bunker: https://tonyortega.org/ — investigative reporting and commentary.
+- ICSA academic resources: https://internationalculticstudies.org/resources-academics/ — comparative high-control group resources.
+
+ Islam
+- Council of Ex-Muslims of Britain: https://ex-muslim.org.uk/ — openly critical ex-Muslim advocacy and publications.
+- Skeptic’s Annotated Quran: https://www.skepticsannotatedbible.com/quran/ — explicitly sceptical reading guide; compare translations and academic work.
+- Encyclopaedia Britannica overview: https://www.britannica.com/topic/Islam
+
+ Hindu traditions
+- B. R. Ambedkar, Annihilation of Caste: https://library.brambedkar.in/pdf/annihilation-of-caste/ — major anti-caste critique; read in context alongside Dalit, reformist and academic perspectives.
+- Ambedkar writings and speeches archive: https://baws.in/
+- Encyclopaedia Britannica overview: https://www.britannica.com/topic/Hinduism
+- Skeptic’s Annotated site: https://www.skepticsannotatedbible.com/ — locate its critical Bhagavad Gita guide; it is not a neutral scholarly edition.
+
+ Judaism and Hebrew Bible studies
+- Bible Odyssey (Society of Biblical Literature): https://www.bibleodyssey.org/ — academic essays on biblical texts and ancient contexts.
+- Oxford Academic: https://academic.oup.com/ — scholarly books and articles, some requiring access.
+- My Jewish Learning: https://www.myjewishlearning.com/ — accessible Jewish education and internal diversity; useful as a comparison source, not an anti-religious source.
+
+ Cross-cutting frameworks
+- International Cultic Studies Association: https://internationalculticstudies.org/
+- ICSA academic resources: https://internationalculticstudies.org/resources-academics/
+- Freedom of Mind BITE Model: https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/ — one heuristic, not a universally accepted diagnostic test.
+- Google Scholar: https://scholar.google.com/ — search academic literature and trace references.
+
+ Editorial and copyright standards
+
+The portal links outward rather than hosting copyrighted book files. Search results do not prove that a particular edition is free, public domain in your jurisdiction or licensed for redistribution. Verify the exact edition and applicable law. The guide should document specific claims, identify source perspective and uncertainty, and avoid stereotyping people because of religious identity.
+
+ Complete book list
+
+ Anarchism (36)
 
 - Anarchism and American Traditions — Voltairine de Cleyre [Intermediate · 1908]
 - Anarchism and Other Essays — Emma Goldman [Beginner · 1910]
@@ -81,14 +104,14 @@ Complete book list
 - What Is Property? — Pierre-Joseph Proudhon [Intermediate · 1840]
 - Workers' Councils — Anton Pannekoek [Advanced · 1946]
 
-#Anarchism, Religion and Spirituality (4)
+ Anarchism, Religion and Spirituality (4)
 
 - God and the State — Mikhail Bakunin [Beginner · 1882]
 - The Gospel in Solentiname — Ernesto Cardenal [Intermediate · 1975]
 - The Long Loneliness — Dorothy Day [Intermediate · 1952]
 - The Philosophy of Atheism — Emma Goldman [Intermediate · 1916]
 
-#Anarchist History and Biography (9)
+ Anarchist History and Biography (9)
 
 - Anarchism: A History of Libertarian Ideas and Movements — George Woodcock [Intermediate · 1962]
 - Errico Malatesta: His Life and Ideas — Errico Malatesta; edited by Vernon Richards [Intermediate · 1965]
@@ -100,34 +123,34 @@ Complete book list
 - The Spanish Anarchists: The Heroic Years 1868–1936 — Murray Bookchin [Advanced · 1977]
 - The Unknown Revolution, 1917–1921 — Voline [Advanced · 1947]
 
-#Anarchist History and Political Thought (1)
+ Anarchist History and Political Thought (1)
 
 - Nationalism and Culture — Rudolf Rocker [Advanced · 1937]
 
-#Anarchist Organising and Direct Democracy (4)
+ Anarchist Organising and Direct Democracy (4)
 
 - Anarchist Anthropology — David Graeber [Intermediate · 2004]
 - Direct Action: An Ethnography — David Graeber [Advanced · 2009]
 - The Democracy Project: A History, a Crisis, a Movement — David Graeber [Intermediate · 2013]
 - The Tyranny of Structurelessness — Jo Freeman [Intermediate · 1972]
 
-#Anarcho-Syndicalism and Labour (1)
+ Anarcho-Syndicalism and Labour (1)
 
 - Anarcho-Syndicalism: Theory and Practice — Rudolf Rocker [Intermediate · 1938]
 
-#Animal Ethics and Multispecies Justice (3)
+ Animal Ethics and Multispecies Justice (3)
 
 - Animal Liberation — Peter Singer [Intermediate · 1975]
 - Are We Smart Enough to Know How Smart Animals Are? — Frans de Waal [Beginner · 2016]
 - Zoopolis: A Political Theory of Animal Rights — Sue Donaldson and Will Kymlicka [Advanced · 2011]
 
-#Anthropology (3)
+ Anthropology (3)
 
 - Fragments of an Anarchist Anthropology — David Graeber [Beginner · 2004]
 - The Art of Not Being Governed — James C. Scott [Advanced · 2009]
 - The Dawn of Everything — David Graeber and David Wengrow [Intermediate · 2021]
 
-#Apatheism (7)
+ Apatheism (7)
 
 - Atheism: A Very Short Introduction — Julian Baggini [Beginner · 2003]
 - Religion for Atheists: A Non-believer's Guide to the Uses of Religion — Alain de Botton [Beginner · 2012]
@@ -137,7 +160,7 @@ Complete book list
 - The Oxford Handbook of Atheism — Edited by Stephen Bullivant and Michael Ruse [Advanced · 2013]
 - The Varieties of Nonreligious Experience: Atheism in American Culture — Phil Zuckerman [Intermediate · 2010]
 
-#Apistevism and Epistemic Criticism (8)
+ Apistevism and Epistemic Criticism (8)
 
 - Epistemology: A Contemporary Introduction to the Theory of Knowledge — Robert Audi [Advanced · 2010]
 - How to Think About Weird Things: Critical Thinking for a New Age — Theodore Schick Jr. and Lewis Vaughn [Beginner · 2019]
@@ -148,11 +171,11 @@ Complete book list
 - The Scout Mindset: Why Some People See Things Clearly and Others Don't — Julia Galef [Beginner · 2021]
 - The Will to Believe — William James [Intermediate · 1897]
 
-#Asexuality and Aromantic Studies (1)
+ Asexuality and Aromantic Studies (1)
 
 - Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex — Angela Chen [Beginner · 2020]
 
-#Astrobiology and Planetary Science (5)
+ Astrobiology and Planetary Science (5)
 
 - Life in the Universe — Jeffrey Bennett and Seth Shostak [Intermediate · 2007]
 - Life in the Universe — Jeffrey Bennett, Seth Shostak, Nicholas Schneider and Meredith MacGregor [Intermediate · 2022]
@@ -160,7 +183,7 @@ Complete book list
 - The New World on Mars: What We Can Create on the Red Planet — Robert Zubrin [Intermediate · 2021]
 - The Search for Life in the Universe — Donald Goldsmith and Tobias Owen [Intermediate · 1992]
 
-#Astronomy and Astrophysics (5)
+ Astronomy and Astrophysics (5)
 
 - An Introduction to Modern Astrophysics — Bradley W. Carroll and Dale A. Ostlie [Advanced · 1996]
 - Exoplanets — Michael Perryman [Advanced · 2018]
@@ -168,7 +191,7 @@ Complete book list
 - The Cosmic Perspective — Jeffrey Bennett, Megan Donahue, Nicholas Schneider and Mark Voit [Intermediate · 2000]
 - The Planet Factory: Exoplanets and the Search for a Second Earth — Elizabeth Tasker [Beginner · 2017]
 
-#Aztec and Mexica Traditions (9)
+ Aztec and Mexica Traditions (9)
 
 - Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind — Miguel León-Portilla; translated by Jack Emory Davis [Intermediate · 1990]
 - Aztecs: An Interpretation — Inga Clendinnen [Advanced · 1991]
@@ -180,20 +203,20 @@ Complete book list
 - The Aztecs of Mexico: An Introduction to the History and Culture of the Mexica People — Michael E. Smith [Intermediate · 1984]
 - The Essential Codex Mendoza — Frances F. Berdan and Patricia Rieff Anawalt [Advanced · 1997]
 
-#Biodiversity and Conservation Biology (3)
+ Biodiversity and Conservation Biology (3)
 
 - Silent Earth: Averting the Insect Apocalypse — Dave Goulson [Beginner · 2021]
 - The Diversity of Life — Edward O. Wilson [Intermediate · 1992]
 - The Future of Life — Edward O. Wilson [Beginner · 2002]
 
-#Biology and evolution (4)
+ Biology and evolution (4)
 
 - On the Origin of Species — Charles Darwin [Advanced · 1859]
 - The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design — Richard Dawkins [Intermediate · 1986]
 - The Greatest Show on Earth: The Evidence for Evolution — Richard Dawkins [Beginner · 2009]
 - The Selfish Gene — Richard Dawkins [Intermediate · 1976]
 
-#Black Feminism and Intersectionality (6)
+ Black Feminism and Intersectionality (6)
 
 - Ain’t I a Woman: Black Women and Feminism — bell hooks [Intermediate · 1981]
 - Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment — Patricia Hill Collins [Advanced · 1990]
@@ -202,18 +225,18 @@ Complete book list
 - Sister Outsider: Essays and Speeches — Audre Lorde [Intermediate · 1984]
 - Women, Race & Class — Angela Y. Davis [Intermediate · 1981]
 
-#Buddhism (16)
+ Buddhism (16)
 
 - Buddhism Without Beliefs — Stephen Batchelor [Beginner · 1997]
 - Buddhism: A Very Short Introduction — Damien Keown [Beginner · 1996]
 - In the Buddha's Words: An Anthology of Discourses from the Pali Canon — Bhikkhu Bodhi [Intermediate · 2005]
 - Secular Buddhism — Stephen Batchelor [Intermediate · 2017]
-- The Dhammapada — Traditional Buddhist text; multiple translators [Beginner · year unknown]
+- The Dhammapada — Traditional Buddhist text; multiple translators [Beginner · year not recorded]
 - The Foundations of Buddhism — Rupert Gethin [Intermediate · 1998]
 - The Heart of the Buddha's Teaching — Thich Nhat Hanh [Beginner · 1998]
-- The Majjhima Nikaya: The Middle-Length Discourses — Early Buddhist canon [Advanced · year unknown]
+- The Majjhima Nikaya: The Middle-Length Discourses — Early Buddhist canon [Advanced · year not recorded]
 - The Platform Sutra — Attributed to Huineng; translated by Philip B. Yampolsky [Advanced · 1967]
-- The Sutta Nipata — Early Buddhist discourses [Intermediate · year unknown]
+- The Sutta Nipata — Early Buddhist discourses [Intermediate · year not recorded]
 - The Threefold Lotus Sutra — Mahayana Buddhist scripture; translated by Bunno Kato et al. [Advanced · 1975]
 - The Tibetan Book of the Dead — Traditional Tibetan Buddhist text; translated by Gyurme Dorje et al. [Advanced · 2005]
 - The Way of the Bodhisattva — Shantideva; translated by Padmakara Translation Group [Intermediate · 1997]
@@ -221,14 +244,14 @@ Complete book list
 - Why Buddhism Is True — Robert Wright [Intermediate · 2017]
 - Zen Mind, Beginner's Mind — Shunryu Suzuki [Beginner · 1970]
 
-#Buddhist Socialism and Engaged Buddhism (4)
+ Buddhist Socialism and Engaged Buddhism (4)
 
 - Ambedkar: Towards an Enlightened India — Gail Omvedt [Intermediate · 2004]
 - Buddhist Economics: An Enlightened Approach to the Dismal Science — Clair Brown [Intermediate · 2017]
 - Engaged Buddhism: Buddhist Liberation Movements in Asia — Christopher S. Queen and Sallie B. King, editors [Advanced · 1996]
 - The Buddha and His Dhamma — B. R. Ambedkar [Intermediate · 1957]
 
-#Canaanite and Pre-Abrahamic Traditions (9)
+ Canaanite and Pre-Abrahamic Traditions (9)
 
 - Canaanite Myth and Hebrew Epic — Frank Moore Cross [Advanced · 1973]
 - Stories from Ancient Canaan — Michael D. Coogan [Intermediate · 1978]
@@ -240,7 +263,7 @@ Complete book list
 - The Ugaritic Baal Cycle, Volume II — Mark S. Smith and Wayne T. Pitard [Advanced · 2009]
 - Ugaritic Narrative Poetry — Edited by Simon B. Parker; translated by Mark S. Smith and others [Advanced · 1997]
 
-#Case Studies of High-Control Groups (8)
+ Case Studies of High-Control Groups (8)
 
 - Destroying the World to Save It: Aum Shinrikyo, Apocalyptic Violence, and the New Global Terrorism — Robert Jay Lifton [Advanced · 1999]
 - Going Clear: Scientology, Hollywood, and the Prison of Belief — Lawrence Wright [Intermediate · 2013]
@@ -251,7 +274,7 @@ Complete book list
 - The Vow: NXIVM and the Culture of Coercive Control (documentary companion resource) — HBO documentary series [Beginner · 2020]
 - Under the Banner of Heaven: A Story of Violent Faith — Jon Krakauer [Intermediate · 2003]
 
-#Celtic Traditions (9)
+ Celtic Traditions (9)
 
 - Blood and Mistletoe: The History of the Druids in Britain — Ronald Hutton [Advanced · 2009]
 - Celtic Mythology — Proinsias Mac Cana [Beginner · 1970]
@@ -263,12 +286,12 @@ Complete book list
 - The Gods of the Celts — Miranda J. Green [Intermediate · 1986]
 - The Mabinogion — Translated by Sioned Davies [Intermediate · 2007]
 
-#Christian Socialism, Anarchism and Liberation (2)
+ Christian Socialism, Anarchism and Liberation (2)
 
 - Anarchy and Christianity — Jacques Ellul [Intermediate · 1988]
 - The Kingdom of God Is Within You — Leo Tolstoy [Advanced · 1894]
 
-#Climate Science and Energy Transition (7)
+ Climate Science and Energy Transition (7)
 
 - Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming — Edited by Paul Hawken [Beginner · 2017]
 - The Climate Book — Edited by Greta Thunberg [Beginner · 2022]
@@ -278,19 +301,19 @@ Complete book list
 - This Changes Everything: Capitalism vs. the Climate — Naomi Klein [Intermediate · 2014]
 - Under a White Sky: The Nature of the Future — Elizabeth Kolbert [Intermediate · 2021]
 
-#Colonialism and internationalism (2)
+ Colonialism and internationalism (2)
 
 - Orientalism — Edward W. Said [Advanced · 1978]
 - The Wretched of the Earth — Frantz Fanon [Advanced · 1961]
 
-#Communalism (4)
+ Communalism (4)
 
 - Post-Scarcity Anarchism — Murray Bookchin [Intermediate · 1971]
 - The Ecology of Freedom — Murray Bookchin [Advanced · 1982]
 - The Next Revolution — Murray Bookchin [Intermediate · 2015]
 - The Politics of Social Ecology: Libertarian Municipalism — Janet Biehl [Intermediate · 1998]
 
-#Communism (17)
+ Communism (17)
 
 - Anarchy — Errico Malatesta [Beginner · 1891]
 - Communism and Anarchy — Peter Kropotkin [Beginner · 1901]
@@ -310,24 +333,24 @@ Complete book list
 - The Two Souls of Socialism — Hal Draper [Intermediate · 1966]
 - Workers' Councils — Anton Pannekoek [Advanced · 1946]
 
-#Community practice (2)
+ Community practice (2)
 
 - Mutual Aid — Dean Spade [Beginner · 2020]
 - The Little Book of Conflict Transformation — John Paul Lederach [Beginner · 2003]
 
-#Comparative Religion and Historical Criticism (3)
+ Comparative Religion and Historical Criticism (3)
 
 - The Evolution of God — Robert Wright [Intermediate · 2009]
 - The Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims — Mustafa Akyol [Intermediate · 2017]
 - Why I Am Not a Muslim — Ibn Warraq [Advanced · 1995]
 
-#Confucian Social Ethics and Socialist Debates (3)
+ Confucian Social Ethics and Socialist Debates (3)
 
 - Beyond Liberal Democracy: Political Thinking for an East Asian Context — Daniel A. Bell [Advanced · 2006]
 - Confucian Political Ethics: The Analects as a Basis for Political Philosophy — Daniel A. Bell [Advanced · 2008]
 - Confucianism and Human Rights — Edited by Wm. Theodore de Bary and Tu Weiming [Advanced · 1998]
 
-#Confucianism (17)
+ Confucianism (17)
 
 - A Short History of Chinese Philosophy — Fung Yu-lan; translated by Derk Bodde [Intermediate · 1948]
 - A Source Book in Chinese Philosophy — Wing-tsit Chan, translator and editor [Advanced · 1963]
@@ -335,19 +358,19 @@ Complete book list
 - Confucianism: A Short Introduction — Ronnie Littlejohn [Beginner · 2011]
 - Confucianism: A Very Short Introduction — Daniel K. Gardner [Beginner · 2014]
 - Introduction to Classical Chinese Philosophy — Bryan W. Van Norden [Beginner · 2011]
-- Mencius — Mengzi (Mencius); multiple translations [Intermediate · -300]
+- Mencius — Mengzi (Mencius); multiple translations [Intermediate · 300 BCE]
 - Neo-Confucianism: A Philosophical Introduction — Stephen C. Angle [Intermediate · 2009]
-- The Analects — Confucius; multiple translations [Beginner · -400]
-- The Book of Documents — One of the Five Classics of Confucianism [Advanced · -500]
-- The Book of Rites — Confucian classic; multiple translators [Advanced · -100]
-- The Classic of Changes (I Ching / Yijing) — Ancient Chinese classic interpreted in Confucian and other traditions [Advanced · -800]
-- The Classic of Poetry — Shijing; one of the Five Classics [Intermediate · -600]
-- The Doctrine of the Mean — Confucian classic; traditionally associated with Zisi [Intermediate · -300]
-- The Great Learning — Confucian classic; traditionally attributed to Zengzi [Beginner · -400]
-- The Spring and Autumn Annals — Confucian classic, traditionally associated with Confucius [Advanced · -500]
-- Xunzi: The Complete Text — Xunzi; translated by Eric L. Hutton [Advanced · -300]
+- The Analects — Confucius; multiple translations [Beginner · 400 BCE]
+- The Book of Documents — One of the Five Classics of Confucianism [Advanced · 500 BCE]
+- The Book of Rites — Confucian classic; multiple translators [Advanced · 100 BCE]
+- The Classic of Changes (I Ching / Yijing) — Ancient Chinese classic interpreted in Confucian and other traditions [Advanced · 800 BCE]
+- The Classic of Poetry — Shijing; one of the Five Classics [Intermediate · 600 BCE]
+- The Doctrine of the Mean — Confucian classic; traditionally associated with Zisi [Intermediate · 300 BCE]
+- The Great Learning — Confucian classic; traditionally attributed to Zengzi [Beginner · 400 BCE]
+- The Spring and Autumn Annals — Confucian classic, traditionally associated with Confucius [Advanced · 500 BCE]
+- Xunzi: The Complete Text — Xunzi; translated by Eric L. Hutton [Advanced · 300 BCE]
 
-#Cooperative and Solidarity Economics (6)
+ Cooperative and Solidarity Economics (6)
 
 - After Capitalism — David Schweickart [Advanced · 2002]
 - Collective Courage: A History of African American Cooperative Economic Thought and Practice — Jessica Gordon Nembhard [Intermediate · 2014]
@@ -356,7 +379,7 @@ Complete book list
 - The People's Republic of Walmart — Leigh Phillips and Michal Rozworski [Beginner · 2019]
 - The Solidarity Economy: An Introduction to the Theory and Practice of a New Economic Paradigm — Edited by Emily Kawano, Thomas Neal Masterson and Jonathan Teller-Elsberg [Intermediate · 2010]
 
-#Cosmology and the Universe (12)
+ Cosmology and the Universe (12)
 
 - A Brief History of Time — Stephen Hawking [Beginner · 1988]
 - Astrophysics for People in a Hurry — Neil deGrasse Tyson [Beginner · 2017]
@@ -371,7 +394,7 @@ Complete book list
 - The Road to Reality: A Complete Guide to the Laws of the Universe — Roger Penrose [Advanced · 2004]
 - The Universe in a Nutshell — Stephen Hawking [Intermediate · 2001]
 
-#Cosmopolitanism and Global Justice (5)
+ Cosmopolitanism and Global Justice (5)
 
 - Cosmopolitanism: Ethics in a World of Strangers — Kwame Anthony Appiah [Intermediate · 2006]
 - Cosmopolitanism: Ideals and Realities — David Held [Advanced · 2010]
@@ -379,7 +402,7 @@ Complete book list
 - The Cosmopolitan Vision — Ulrich Beck [Advanced · 2006]
 - World Poverty and Human Rights — Thomas Pogge [Advanced · 2002]
 
-#Cultic Studies, Coercive Control and Recovery (9)
+ Cultic Studies, Coercive Control and Recovery (9)
 
 - Combating Cult Mind Control — Steven Hassan [Intermediate · 2015]
 - Cults in Our Midst — Margaret Thaler Singer with Janja Lalich [Intermediate · 1995]
@@ -391,59 +414,59 @@ Complete book list
 - The Guru Papers: Masks of Authoritarian Power — Joel Kramer and Diana Alstad [Advanced · 1993]
 - Thought Reform and the Psychology of Totalism — Robert Jay Lifton [Advanced · 1961]
 
-#Daoism (15)
+ Daoism (15)
 
 - Daoism: A Beginner's Guide — James Miller [Beginner · 2003]
 - Daoism: A Guide for the Perplexed — Louis Komjathy [Intermediate · 2014]
-- Tao Te Ching — Laozi [Beginner · -400]
+- Tao Te Ching — Laozi [Beginner · 400 BCE]
 - The Book of Lieh-tzu — Liezi; translated by A. C. Graham [Intermediate · 300]
-- The Dao De Jing (Tao Te Ching) — Laozi; multiple translations [Beginner · -400]
+- The Dao De Jing (Tao Te Ching) — Laozi; multiple translations [Beginner · 400 BCE]
 - The Daoist Tradition — Livia Kohn [Intermediate · 2009]
-- The Huainanzi — Liu An and court scholars; translated by John S. Major et al. [Advanced · -139]
+- The Huainanzi — Liu An and court scholars; translated by John S. Major et al. [Advanced · 139 BCE]
 - The Tao of Physics — Fritjof Capra [Intermediate · 1975]
 - The Tao of Pooh — Benjamin Hoff [Beginner · 1982]
 - The Taoist Body — Kristofer Schipper [Advanced · 1993]
 - The Taoist Classics, Volume 1 — Thomas Cleary, translator [Intermediate · 1999]
 - The Taoist Experience: An Anthology — Livia Kohn, editor [Advanced · 1993]
 - The Way of Chuang Tzu — Thomas Merton [Beginner · 1965]
-- Zhuangzi: The Complete Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · -300]
-- Zhuangzi: The Essential Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · -300]
+- Zhuangzi: The Complete Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · 300 BCE]
+- Zhuangzi: The Essential Writings — Zhuangzi; translated by Brook Ziporyn [Intermediate · 300 BCE]
 
-#Daoism, Anarchism and Social Thought (2)
+ Daoism, Anarchism and Social Thought (2)
 
 - Daoism and Anarchism: Critiques of State Autonomy in Ancient China — John A. Rapp [Advanced · 2012]
 - Daoism and Ecology: Ways within a Cosmic Landscape — Edited by N. J. Girardot, James Miller and Liu Xiaogan [Advanced · 2001]
 
-#Decolonial and Transnational Feminism (2)
+ Decolonial and Transnational Feminism (2)
 
 - Feminism Without Borders: Decolonizing Theory, Practicing Solidarity — Chandra Talpade Mohanty [Advanced · 2003]
 - Under Western Eyes: Feminist Scholarship and Colonial Discourses — Chandra Talpade Mohanty [Advanced · 1984]
 
-#Decolonial Thought and Anti-Colonialism (3)
+ Decolonial Thought and Anti-Colonialism (3)
 
 - Decolonising the Mind: The Politics of Language in African Literature — Ngũgĩ wa Thiong'o [Intermediate · 1986]
 - Orientalism — Edward W. Said [Advanced · 1978]
 - The Wretched of the Earth — Frantz Fanon [Advanced · 1961]
 
-#Digital commons and privacy (2)
+ Digital commons and privacy (2)
 
 - Free Software, Free Society — Richard M. Stallman [Intermediate · 2002]
 - The Cathedral and the Bazaar — Eric S. Raymond [Intermediate · 1999]
 
-#Digital Commons, Privacy and Surveillance (3)
+ Digital Commons, Privacy and Surveillance (3)
 
 - Free Software, Free Society: Selected Essays of Richard M. Stallman — Richard M. Stallman [Intermediate · 2002]
 - Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing — Mar Hicks [Advanced · 2017]
 - The Age of Surveillance Capitalism — Shoshana Zuboff [Advanced · 2019]
 
-#Earth Systems and Geoscience (4)
+ Earth Systems and Geoscience (4)
 
 - Annals of the Former World — John McPhee [Advanced · 1998]
 - Gaia: A New Look at Life on Earth — James Lovelock [Beginner · 1979]
 - The Earth System — Lee R. Kump, James F. Kasting and Robert G. Crane [Advanced · 1999]
 - The Story of Earth: The First 4.5 Billion Years, from Stardust to Living Planet — Robert M. Hazen [Beginner · 2012]
 
-#Eclectic Paganism (9)
+ Eclectic Paganism (9)
 
 - A Book of Pagan Prayer — Ceisiwr Serith [Intermediate · 2002]
 - A World Full of Gods: An Inquiry into Polytheism — John Michael Greer [Intermediate · 2005]
@@ -455,7 +478,7 @@ Complete book list
 - The Pagan Book of Living and Dying — Edited by Starhawk, M. Macha Nightmare and others [Intermediate · 1997]
 - The Path of Paganism: An Experience-Based Guide to Modern Pagan Practice — John Beckett [Beginner · 2017]
 
-#Ecocentrism and Deep Ecology (8)
+ Ecocentrism and Deep Ecology (8)
 
 - Deep Ecology: Living as if Nature Mattered — Bill Devall and George Sessions [Intermediate · 1985]
 - Ecology, Community and Lifestyle — Arne Naess [Advanced · 1989]
@@ -466,12 +489,12 @@ Complete book list
 - The Ecological Thought — Timothy Morton [Advanced · 2010]
 - The Green State: Rethinking Democracy and Sovereignty — Robyn Eckersley [Advanced · 2004]
 
-#Ecofeminism and Feminist Ecology (2)
+ Ecofeminism and Feminist Ecology (2)
 
 - Ecofeminism — Maria Mies and Vandana Shiva [Intermediate · 1993]
 - Ecofeminism as Politics: Nature, Marx and the Postmodern — Ariel Salleh [Advanced · 1997]
 
-#Ecological Economics and Degrowth (5)
+ Ecological Economics and Degrowth (5)
 
 - Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist — Kate Raworth [Beginner · 2017]
 - Ecological Economics: Principles and Applications — Herman E. Daly and Joshua Farley [Advanced · 2004]
@@ -479,14 +502,14 @@ Complete book list
 - Prosperity Without Growth: Foundations for the Economy of Tomorrow — Tim Jackson [Intermediate · 2009]
 - The Limits to Growth — Donella H. Meadows, Dennis L. Meadows, Jørgen Randers and William W. Behrens III [Intermediate · 1972]
 
-#Ecology and climate (4)
+ Ecology and climate (4)
 
 - A Sand County Almanac — Aldo Leopold [Beginner · 1949]
 - Ecology: The Economy of Nature — Robert E. Ricklefs and Rick Relyea [Advanced · 2013]
 - Silent Spring — Rachel Carson [Beginner · 1962]
 - The Sixth Extinction — Elizabeth Kolbert [Beginner · 2014]
 
-#Economics (8)
+ Economics (8)
 
 - Capital, Volume I — Karl Marx [Advanced · 1867]
 - Capital, Volume II: The Process of Circulation of Capital — Karl Marx; edited by Friedrich Engels [Advanced · 1885]
@@ -497,16 +520,16 @@ Complete book list
 - The Wealth of Nations — Adam Smith [Advanced · 1776]
 - Theories of Surplus Value (sometimes called Capital, Volume IV) — Karl Marx; edited by Karl Kautsky [Advanced · 1905]
 
-#Education (2)
+ Education (2)
 
 - Deschooling Society — Ivan Illich [Intermediate · 1971]
 - Pedagogy of the Oppressed — Paulo Freire [Intermediate · 1968]
 
-#Environmental Ethics and Ecological Philosophy (1)
+ Environmental Ethics and Ecological Philosophy (1)
 
 - The Rights of Nature: A History of Environmental Ethics — Roderick Frazier Nash [Advanced · 1989]
 
-#Environmental Justice and Political Ecology (6)
+ Environmental Justice and Political Ecology (6)
 
 - A Political Ecology of the Modern World-System — Alf Hornborg, J. R. McNeill and Joan Martinez-Alier (editors) [Advanced · 2007]
 - Climate Leviathan: A Political Theory of Our Planetary Future — Geoff Mann and Joel Wainwright [Advanced · 2018]
@@ -515,7 +538,7 @@ Complete book list
 - The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation — Joan Martinez-Alier [Advanced · 2002]
 - The Politics of the Earth: Environmental Discourses — John S. Dryzek [Advanced · 1997]
 
-#Environmentalism and Conservation (9)
+ Environmentalism and Conservation (9)
 
 - A Sand County Almanac — Aldo Leopold [Beginner · 1949]
 - Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants — Robin Wall Kimmerer [Beginner · 2013]
@@ -527,11 +550,11 @@ Complete book list
 - The Uninhabitable Earth: Life After Warming — David Wallace-Wells [Beginner · 2019]
 - This Changes Everything: Capitalism vs. the Climate — Naomi Klein [Intermediate · 2014]
 
-#Ethics and metaethics (1)
+ Ethics and metaethics (1)
 
 - The Elements of Moral Philosophy — James Rachels and Stuart Rachels [Beginner · 1986]
 
-#Feminism and gender (6)
+ Feminism and gender (6)
 
 - Caliban and the Witch: Women, the Body and Primitive Accumulation — Silvia Federici [Advanced · 2004]
 - Feminism Is for Everybody — bell hooks [Beginner · 2000]
@@ -540,18 +563,18 @@ Complete book list
 - Marriage and Love — Emma Goldman [Beginner · 1911]
 - The Second Sex — Simone de Beauvoir [Advanced · 1949]
 
-#Feminist and Lesbian Theory (3)
+ Feminist and Lesbian Theory (3)
 
 - The Politics of Reality: Essays in Feminist Theory — Marilyn Frye [Advanced · 1983]
 - The Straight Mind and Other Essays — Monique Wittig [Advanced · 1992]
 - The Traffic in Women: Notes on the “Political Economy” of Sex — Gayle Rubin [Advanced · 1975]
 
-#Feminist Critiques and Contemporary Debates (2)
+ Feminist Critiques and Contemporary Debates (2)
 
 - Bad Feminist: Essays — Roxane Gay [Beginner · 2014]
 - The Beauty Myth: How Images of Beauty Are Used Against Women — Naomi Wolf [Intermediate · 1990]
 
-#Feminist History and Political Theory (5)
+ Feminist History and Political Theory (5)
 
 - A Vindication of the Rights of Woman — Mary Wollstonecraft [Intermediate · 1792]
 - Sexual Politics — Kate Millett [Advanced · 1970]
@@ -559,24 +582,24 @@ Complete book list
 - The Dialectic of Sex: The Case for Feminist Revolution — Shulamith Firestone [Advanced · 1970]
 - The Feminine Mystique — Betty Friedan [Intermediate · 1963]
 
-#Feminist Socialism and Working-Class History (4)
+ Feminist Socialism and Working-Class History (4)
 
 - Shelley’s Socialism: Two Lectures — Eleanor Marx [Intermediate · 1888]
 - The Origin of the Family, Private Property and the State — Friedrich Engels [Advanced · 1884]
 - The Woman Question: A Socialist Point of View — Eleanor Marx and Edward Aveling [Intermediate · 1886]
 - The Working-Class Movement in America — Eleanor Marx and Edward Aveling [Advanced · 1888]
 
-#Genetics and Molecular Biology (2)
+ Genetics and Molecular Biology (2)
 
 - The Gene: An Intimate History — Siddhartha Mukherjee [Intermediate · 2016]
 - The Song of the Cell: An Exploration of Medicine and the New Human — Siddhartha Mukherjee [Intermediate · 2022]
 
-#Geography and cities (2)
+ Geography and cities (2)
 
 - Cities for People — Jan Gehl [Beginner · 2010]
 - The Death and Life of Great American Cities — Jane Jacobs [Intermediate · 1961]
 
-#Germanic and Norse Traditions (9)
+ Germanic and Norse Traditions (9)
 
 - Dictionary of Northern Mythology — Rudolf Simek; translated by Angela Hall [Advanced · 1993]
 - Gods and Myths of Northern Europe — H. R. Ellis Davidson [Intermediate · 1964]
@@ -588,26 +611,26 @@ Complete book list
 - The Viking Way: Magic and Mind in Late Iron Age Scandinavia — Neil Price [Advanced · 2002]
 - The Viking World — Edited by Stefan Brink and Neil Price [Advanced · 2008]
 
-#Hellenism and Roman Religion (10)
+ Hellenism and Roman Religion (10)
 
 - Ancient Greek Religion — Jon D. Mikalson [Intermediate · 2005]
 - Greek Religion — Walter Burkert [Advanced · 1985]
 - Religions of Rome: A History — Mary Beard, John North and Simon Price [Advanced · 1998]
 - Roman Religion — Jörg Rüpke [Advanced · 2007]
 - The Greek Myths — Robert Graves [Intermediate · 1955]
-- The Iliad — Homer [Intermediate · -750]
-- The Odyssey — Homer [Beginner · -700]
+- The Iliad — Homer [Intermediate · 750 BCE]
+- The Odyssey — Homer [Beginner · 700 BCE]
 - The Oxford Handbook of Ancient Greek Religion — Edited by Esther Eidinow and Julia Kindt [Advanced · 2015]
 - The Roman Festivals of the Period of the Republic — W. Warde Fowler [Advanced · 1899]
-- Theogony — Hesiod [Intermediate · -700]
+- Theogony — Hesiod [Intermediate · 700 BCE]
 
-#Hindu Traditions, Anti-Caste Thought and Social Equality (3)
+ Hindu Traditions, Anti-Caste Thought and Social Equality (3)
 
 - Annihilation of Caste — B. R. Ambedkar [Intermediate · 1936]
 - The Bhagavad Gita According to Gandhi — M. K. Gandhi; translated by Mahadev Desai [Intermediate · 1946]
 - Who Were the Shudras? — B. R. Ambedkar [Advanced · 1946]
 
-#History (5)
+ History (5)
 
 - A People's History of the World — Chris Harman [Intermediate · 1999]
 - Homage to Catalonia — George Orwell [Beginner · 1938]
@@ -615,7 +638,7 @@ Complete book list
 - The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program That Shaped Our World — Vincent Bevins [Intermediate · 2020]
 - The Making of the English Working Class — E. P. Thompson [Advanced · 1963]
 
-#Humanism (8)
+ Humanism (8)
 
 - Humanism: A Beginner's Guide — Peter Cave [Beginner · 2009]
 - Humanism: A Beginner's Guide — Stephen Law [Beginner · 2011]
@@ -626,7 +649,7 @@ Complete book list
 - The Meaning of Humanism — Corliss Lamont [Intermediate · 1997]
 - What Is Humanism? — Andrew Copson [Beginner · 2015]
 
-#Ignosticism and Theological Noncognitivism (7)
+ Ignosticism and Theological Noncognitivism (7)
 
 - Philosophy of Religion: A Very Short Introduction — Tim Bayne [Beginner · 2018]
 - The Existence of God — Richard Swinburne [Advanced · 1979]
@@ -636,7 +659,7 @@ Complete book list
 - The Nonexistence of God — Nicholas Everitt [Advanced · 2004]
 - Theology and Falsification — Antony Flew [Advanced · 1950]
 
-#Inca and Andean Traditions (7)
+ Inca and Andean Traditions (7)
 
 - Inca Religion and Customs — Bernabé Cobo; translated by Roland Hamilton [Advanced · 1990]
 - Royal Commentaries of the Incas — Inca Garcilaso de la Vega [Advanced · 1609]
@@ -646,27 +669,27 @@ Complete book list
 - The Incas and Their Ancestors: The Archaeology of Peru — Michael E. Moseley [Advanced · 1992]
 - The Incas: New Perspectives — Gordon F. McEwan [Beginner · 2006]
 
-#Indigenous Knowledge and Decolonisation (3)
+ Indigenous Knowledge and Decolonisation (3)
 
 - As We Have Always Done: Indigenous Freedom through Radical Resistance — Leanne Betasamosake Simpson [Advanced · 2017]
 - Decolonizing Methodologies: Research and Indigenous Peoples — Linda Tuhiwai Smith [Advanced · 1999]
 - The Inconvenient Indian: A Curious Account of Native People in North America — Thomas King [Intermediate · 2012]
 
-#Individualist Anarchism and Egoism (2)
+ Individualist Anarchism and Egoism (2)
 
 - Stirner’s Critics — Max Stirner [Advanced · 1845]
 - The Ego and Its Own — Max Stirner [Advanced · 1844]
 
-#Islamic Socialism, Liberation and Social Justice (2)
+ Islamic Socialism, Liberation and Social Justice (2)
 
 - Islam and the Economic Challenge — M. Umer Chapra [Advanced · 1992]
 - On the Sociology of Islam — Ali Shariati [Advanced · 1979]
 
-#Jewish Labour, Socialism and Anarchism (1)
+ Jewish Labour, Socialism and Anarchism (1)
 
 - The Jewish Anarchist Movement in America — Kenyon Zimmer [Advanced · 2015]
 
-#Kemetism (9)
+ Kemetism (9)
 
 - Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms — Miriam Lichtheim [Advanced · 1973]
 - Ancient Egyptian Literature, Volume II: The New Kingdom — Miriam Lichtheim [Advanced · 1976]
@@ -678,36 +701,36 @@ Complete book list
 - The Egyptian Book of the Dead — Translated by Raymond O. Faulkner [Intermediate · 1972]
 - The Search for God in Ancient Egypt — Jan Assmann [Advanced · 2001]
 
-#Law and justice (2)
+ Law and justice (2)
 
 - Are Prisons Obsolete? — Angela Y. Davis [Beginner · 2003]
 - Changing Lenses — Howard Zehr [Intermediate · 1990]
 
-#LGBTQ+ studies (3)
+ LGBTQ+ studies (3)
 
 - Stone Butch Blues — Leslie Feinberg [Advanced · 1993]
 - Transgender History — Susan Stryker [Intermediate · 2008]
 - Transgender History: The Roots of Today's Revolution — Susan Stryker [Intermediate · 2008]
 
-#Literature and utopias (4)
+ Literature and utopias (4)
 
 - Nineteen Eighty-Four — George Orwell [Beginner · 1949]
 - The Dispossessed — Ursula K. Le Guin [Intermediate · 1974]
 - The Dispossessed: An Ambiguous Utopia — Ursula K. Le Guin [Intermediate · 1974]
 - The Ministry for the Future — Kim Stanley Robinson [Intermediate · 2020]
 
-#Marxism and Socialist History (2)
+ Marxism and Socialist History (2)
 
 - Karl Marx: A Biographical Memoir — Eleanor Marx and Edward Aveling [Intermediate · 1892]
 - The Condition of the Working Class in England — Friedrich Engels [Intermediate · 1845]
 
-#Mathematics and statistics (3)
+ Mathematics and statistics (3)
 
 - How to Lie with Statistics — Darrell Huff [Beginner · 1954]
 - How to Prove It — Daniel J. Velleman [Intermediate · 1994]
 - The Art of Statistics — David Spiegelhalter [Beginner · 2019]
 
-#Maya Traditions (9)
+ Maya Traditions (9)
 
 - Breaking the Maya Code — Michael D. Coe [Intermediate · 1992]
 - Maya Cosmos: Three Thousand Years on the Shaman's Path — David Freidel, Linda Schele and Joy Parker [Intermediate · 1993]
@@ -719,12 +742,12 @@ Complete book list
 - The Maya — Michael D. Coe and Stephen Houston [Beginner · 2022]
 - The Maya: A Very Short Introduction — Matthew Restall and Amara Solari [Beginner · 2020]
 
-#Media and communication (2)
+ Media and communication (2)
 
 - Amusing Ourselves to Death — Neil Postman [Beginner · 1985]
 - Manufacturing Consent — Edward S. Herman and Noam Chomsky [Advanced · 1988]
 
-#Metaethics (6)
+ Metaethics (6)
 
 - Being Good: A Short Introduction to Ethics — Simon Blackburn [Beginner · 2001]
 - Essays on Moral Realism — Edited by Geoffrey Sayre-McCord [Advanced · 1988]
@@ -733,7 +756,7 @@ Complete book list
 - The Fundamentals of Ethics — Russ Shafer-Landau [Beginner · 2018]
 - The Moral Problem — Michael Smith [Advanced · 1994]
 
-#Moral Anti-Realism and Error Theory (5)
+ Moral Anti-Realism and Error Theory (5)
 
 - Moral Fiction — Mark Eli Kalderon [Advanced · 2005]
 - Moral Relativism and Moral Objectivity — Gilbert Harman and Judith Jarvis Thomson [Advanced · 1996]
@@ -741,14 +764,14 @@ Complete book list
 - The Evolution of Morality — Richard Joyce [Intermediate · 2006]
 - The Oxford Handbook of Ethical Theory — Edited by David Copp [Advanced · 2006]
 
-#Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil (4)
+ Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil (4)
 
 - Beyond Good and Evil — Friedrich Nietzsche [Advanced · 1886]
 - Morality: An Introduction to Ethics — Bernard Williams [Intermediate · 1972]
 - On the Genealogy of Morality — Friedrich Nietzsche [Advanced · 1887]
 - The Illusion of Moral Responsibility — Saul Smilansky [Advanced · 2000]
 
-#New Atheism and Its Critics (13)
+ New Atheism and Its Critics (13)
 
 - Atheism: The Case Against God — George H. Smith [Intermediate · 1979]
 - Breaking the Spell: Religion as a Natural Phenomenon — Daniel C. Dennett [Intermediate · 2006]
@@ -764,20 +787,20 @@ Complete book list
 - The Missionary Position: Mother Teresa in Theory and Practice — Christopher Hitchens [Intermediate · 1995]
 - The Selfish Gene — Richard Dawkins [Intermediate · 1976]
 
-#Origins of Life and Evolution (3)
+ Origins of Life and Evolution (3)
 
 - The Origins of Life: From the Birth of Life to the Origin of Language — John Maynard Smith and Eörs Szathmáry [Advanced · 1999]
 - The Tangled Tree: A Radical New History of Life — David Quammen [Intermediate · 2018]
 - The Vital Question: Energy, Evolution, and the Origins of Complex Life — Nick Lane [Intermediate · 2015]
 
-#Philosophy of Mind and Cognitive Science (4)
+ Philosophy of Mind and Cognitive Science (4)
 
 - Consciousness Explained — Daniel C. Dennett [Advanced · 1991]
 - How Emotions Are Made: The Secret Life of the Brain — Lisa Feldman Barrett [Intermediate · 2017]
 - The Embodied Mind: Cognitive Science and Human Experience — Francisco J. Varela, Evan Thompson and Eleanor Rosch [Advanced · 1991]
 - The Self Illusion: How the Social Brain Creates Identity — Bruce Hood [Beginner · 2011]
 
-#Philosophy of Science (8)
+ Philosophy of Science (8)
 
 - Against Method — Paul Feyerabend [Advanced · 1975]
 - Conjectures and Refutations: The Growth of Scientific Knowledge — Karl Popper [Advanced · 1963]
@@ -788,41 +811,41 @@ Complete book list
 - Theory and Reality: An Introduction to the Philosophy of Science — Peter Godfrey-Smith [Intermediate · 2003]
 - What Is This Thing Called Science? — Alan F. Chalmers [Beginner · 1976]
 
-#Physics and astronomy (3)
+ Physics and astronomy (3)
 
 - A Brief History of Time — Stephen Hawking [Beginner · 1988]
 - Cosmos — Carl Sagan [Beginner · 1980]
 - Six Easy Pieces — Richard P. Feynman [Intermediate · 1963]
 
-#Physics and the Nature of Reality (4)
+ Physics and the Nature of Reality (4)
 
 - Reality Is Not What It Seems: The Journey to Quantum Gravity — Carlo Rovelli [Intermediate · 2014]
 - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory — Brian Greene [Intermediate · 1999]
 - The Fabric of Reality — David Deutsch [Advanced · 1997]
 - The Order of Time — Carlo Rovelli [Beginner · 2017]
 
-#Political Economy and Institutions (2)
+ Political Economy and Institutions (2)
 
 - The Great Transformation: The Political and Economic Origins of Our Time — Karl Polanyi [Advanced · 1944]
 - Why Nations Fail: The Origins of Power, Prosperity, and Poverty — Daron Acemoglu and James A. Robinson [Intermediate · 2012]
 
-#Political philosophy (3)
+ Political philosophy (3)
 
 - On Liberty — John Stuart Mill [Intermediate · 1859]
 - The Origins of Totalitarianism — Hannah Arendt [Advanced · 1951]
-- The Republic — Plato [Advanced · -380]
+- The Republic — Plato [Advanced · 380 BCE]
 
-#Political Philosophy and Authoritarianism (3)
+ Political Philosophy and Authoritarianism (3)
 
 - The Open Society and Its Enemies — Karl Popper [Advanced · 1945]
 - The Origins of Totalitarianism — Hannah Arendt [Advanced · 1951]
 - The Road to Serfdom — F. A. Hayek [Intermediate · 1944]
 
-#Politics and institutions (1)
+ Politics and institutions (1)
 
 - Seeing Like a State — James C. Scott [Intermediate · 1998]
 
-#Polynesian Traditions (9)
+ Polynesian Traditions (9)
 
 - Hawaiian Antiquities (Moolelo Hawaii) — David Malo; translated by Nathaniel B. Emerson [Advanced · 1903]
 - Hawaiian Mythology — Martha Warren Beckwith [Intermediate · 1940]
@@ -834,7 +857,7 @@ Complete book list
 - Polynesian Mythology and Ancient Traditional History of the New Zealand Race — George Grey [Advanced · 1855]
 - The Lore of the Whare-wānanga — S. Percy Smith [Advanced · 1913]
 
-#Psychology (5)
+ Psychology (5)
 
 - Behave — Robert M. Sapolsky [Intermediate · 2017]
 - Influence — Robert B. Cialdini [Beginner · 1984]
@@ -842,7 +865,7 @@ Complete book list
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion — Jonathan Haidt [Intermediate · 2012]
 - Thinking, Fast and Slow — Daniel Kahneman [Intermediate · 2011]
 
-#Punic and Carthaginian Religion (9)
+ Punic and Carthaginian Religion (9)
 
 - Carthage and the Carthaginians — R. Bosworth Smith [Intermediate · 1878]
 - Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization — Richard Miles [Intermediate · 2010]
@@ -854,18 +877,18 @@ Complete book list
 - The Phoenicians and the West: Politics, Colonies and Trade — Maria Eugenia Aubet; translated by Mary Turton [Advanced · 2001]
 - The Tophet in the Punic Mediterranean — Edited by Paolo Xella [Advanced · 2013]
 
-#Queer Justice, Abolition and Social Movements (2)
+ Queer Justice, Abolition and Social Movements (2)
 
 - Abolition. Feminism. Now. — Angela Y. Davis, Gina Dent, Erica R. Meiners and Beth E. Richie [Intermediate · 2022]
 - Queer (In)Justice: The Criminalization of LGBT People in the United States — Joey L. Mogul, Andrea J. Ritchie and Kay Whitlock [Advanced · 2011]
 
-#Queer Life Writing and Cultural History (3)
+ Queer Life Writing and Cultural History (3)
 
 - A Queer History of the United States — Michael Bronski [Beginner · 2011]
 - Borderlands/La Frontera: The New Mestiza — Gloria Anzaldúa [Advanced · 1987]
 - Zami: A New Spelling of My Name — Audre Lorde [Intermediate · 1982]
 
-#Queer Theory and Sexual Politics (9)
+ Queer Theory and Sexual Politics (9)
 
 - Cruising Utopia: The Then and There of Queer Futurity — José Esteban Muñoz [Advanced · 2009]
 - Epistemology of the Closet — Eve Kosofsky Sedgwick [Advanced · 1990]
@@ -877,7 +900,7 @@ Complete book list
 - The Queer Art of Failure — Jack Halberstam [Advanced · 2011]
 - Thinking Sex: Notes for a Radical Theory of the Politics of Sexuality — Gayle Rubin [Advanced · 1984]
 
-#Religion, Socialism and Liberation Theology (8)
+ Religion, Socialism and Liberation Theology (8)
 
 - A Theology of Liberation: History, Politics, and Salvation — Gustavo Gutiérrez [Advanced · 1971]
 - Christian Anarchism: A Political Commentary on the Gospel — Alexandre Christoyannopoulos [Advanced · 2010]
@@ -888,17 +911,17 @@ Complete book list
 - The Gospel in Solentiname — Ernesto Cardenal [Intermediate · 1975]
 - Why the Dalai Lama Is a Socialist: Buddhism and the Compassionate Society — Terry Gibbs [Intermediate · 2017]
 
-#Research Methods and Information Literacy (1)
+ Research Methods and Information Literacy (1)
 
 - The Craft of Research — Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup and William T. FitzGerald [Intermediate · 2016]
 
-#Revolutionary Socialism and Labour (3)
+ Revolutionary Socialism and Labour (3)
 
 - Reform or Revolution — Rosa Luxemburg [Intermediate · 1899]
 - The Accumulation of Capital — Rosa Luxemburg [Advanced · 1913]
 - The Mass Strike, the Political Party and the Trade Unions — Rosa Luxemburg [Advanced · 1906]
 
-#Sceptical Scripture Guides and Apocrypha (10)
+ Sceptical Scripture Guides and Apocrypha (10)
 
 - Lost Christianities: The Battles for Scripture and the Faiths We Never Knew — Bart D. Ehrman [Intermediate · 2003]
 - The Apocryphal Gospels: Texts and Translations — Bart D. Ehrman [Intermediate · 2003]
@@ -911,14 +934,14 @@ Complete book list
 - The Skeptic's Annotated Quran (online critical reference) — Steve Wells [Beginner · 2013]
 - This Is My Doctrine: The Development of Mormon Theology — Charles R. Harrell [Advanced · 2011]
 
-#Science and critical thinking (4)
+ Science and critical thinking (4)
 
 - Bad Science — Ben Goldacre [Beginner · 2008]
 - Calling Bullshit — Carl T. Bergstrom and Jevin D. West [Beginner · 2020]
 - The Demon-Haunted World — Carl Sagan [Beginner · 1995]
 - The Structure of Scientific Revolutions — Thomas S. Kuhn [Intermediate · 1962]
 
-#Science and Scientific Method (8)
+ Science and Scientific Method (8)
 
 - Calling Bullshit: The Art of Skepticism in a Data-Driven World — Carl T. Bergstrom and Jevin D. West [Beginner · 2020]
 - Scientific Method in Practice — Hugh G. Gauch Jr. [Advanced · 2003]
@@ -929,7 +952,7 @@ Complete book list
 - The Scientific Revolution — Steven Shapin [Intermediate · 1996]
 - The Structure of Scientific Revolutions — Thomas S. Kuhn [Intermediate · 1962]
 
-#Secularism (8)
+ Secularism (8)
 
 - A Secular Age — Charles Taylor [Advanced · 2007]
 - Living the Secular Life: New Answers to Old Questions — Phil Zuckerman [Beginner · 2014]
@@ -940,12 +963,12 @@ Complete book list
 - The Politics of Secularism in International Relations — Elizabeth Shakman Hurd [Advanced · 2008]
 - The Secular Outlook: In Defense of Moral and Political Secularism — Paul Cliteur [Advanced · 2010]
 
-#Secularism and religion (2)
+ Secularism and religion (2)
 
 - The God Delusion — Richard Dawkins [Intermediate · 2006]
 - Why I Am Not a Christian — Bertrand Russell [Beginner · 1927]
 
-#Shinto (7)
+ Shinto (7)
 
 - A New History of Shinto — John Breen and Mark Teeuwen [Advanced · 2010]
 - A Year in the Life of a Shinto Shrine — John K. Nelson [Intermediate · 1996]
@@ -955,7 +978,7 @@ Complete book list
 - Shinto: The Kami Way — Sokyo Ono; edited by William P. Woodard [Beginner · 1960]
 - Shinto: The Way Home — Thomas P. Kasulis [Intermediate · 2004]
 
-#Skepticism, Scripture and Biblical Criticism (8)
+ Skepticism, Scripture and Biblical Criticism (8)
 
 - Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible — Bart D. Ehrman [Intermediate · 2009]
 - Misquoting Jesus: The Story Behind Who Changed the Bible and Why — Bart D. Ehrman [Beginner · 2005]
@@ -966,7 +989,7 @@ Complete book list
 - The Skeptic's Annotated Bible — Steve Wells [Beginner · 2013]
 - Who Wrote the Bible? — Richard Elliott Friedman [Intermediate · 1987]
 
-#Slavic Traditions (8)
+ Slavic Traditions (8)
 
 - Religious Beliefs of the Slavs — Andrzej Szyjewski [Intermediate · 2003]
 - Slavic Mythology — Aleksander Gieysztor [Intermediate · 1982]
@@ -977,7 +1000,7 @@ Complete book list
 - The Slavic Myths — Noah Charney and Svetlana Slapšak [Beginner · 2023]
 - The Slavs in European History and Civilization — Francis Dvornik [Advanced · 1962]
 
-#Social Ecology and Environmental Anarchism (6)
+ Social Ecology and Environmental Anarchism (6)
 
 - Our Synthetic Environment — Murray Bookchin [Intermediate · 1962]
 - Post-Scarcity Anarchism — Murray Bookchin [Intermediate · 1971]
@@ -986,7 +1009,7 @@ Complete book list
 - The Ecology of Freedom: The Emergence and Dissolution of Hierarchy — Murray Bookchin [Advanced · 1982]
 - The Philosophy of Social Ecology: Essays on Dialectical Naturalism — Murray Bookchin [Advanced · 1990]
 
-#Socialism (13)
+ Socialism (13)
 
 - A Theory of Socialism and Capitalism — Hans-Hermann Hoppe [Advanced · 1989]
 - Another Now — Yanis Varoufakis [Intermediate · 2020]
@@ -1002,7 +1025,7 @@ Complete book list
 - The Soul of Man Under Socialism — Oscar Wilde [Beginner · 1891]
 - The Transition from Capitalism to Socialism — Paul M. Sweezy and Charles Bettelheim [Advanced · 1971]
 
-#Socialist Critiques of Religion (6)
+ Socialist Critiques of Religion (6)
 
 - Atheism in Christianity: The Religion of the Exodus and the Kingdom — Ernst Bloch [Advanced · 1968]
 - Contribution to the Critique of Hegel's Philosophy of Right: Introduction — Karl Marx [Advanced · 1844]
@@ -1011,26 +1034,26 @@ Complete book list
 - Socialism and the Churches — Rosa Luxemburg [Intermediate · 1905]
 - The Essence of Christianity — Ludwig Feuerbach [Advanced · 1841]
 
-#Socialist, Materialist and Reproductive Feminism (4)
+ Socialist, Materialist and Reproductive Feminism (4)
 
 - Feminism for the 99%: A Manifesto — Cinzia Arruzza, Tithi Bhattacharya and Nancy Fraser [Intermediate · 2019]
 - Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle — Silvia Federici [Advanced · 2012]
 - The Care Manifesto: The Politics of Interdependence — The Care Collective [Beginner · 2020]
 - Wages Against Housework — Silvia Federici [Intermediate · 1975]
 
-#Sociology (3)
+ Sociology (3)
 
 - The Presentation of Self in Everyday Life — Erving Goffman [Intermediate · 1956]
 - The Social Construction of Reality — Peter L. Berger and Thomas Luckmann [Advanced · 1966]
 - The Sociological Imagination — C. Wright Mills [Beginner · 1959]
 
-#Systems and technology (3)
+ Systems and technology (3)
 
 - General System Theory — Ludwig von Bertalanffy [Advanced · 1968]
 - Thinking in Systems — Donella H. Meadows [Beginner · 2008]
 - Weapons of Math Destruction — Cathy O'Neil [Beginner · 2016]
 
-#Systems Thinking and Complexity (5)
+ Systems Thinking and Complexity (5)
 
 - Complexity: A Guided Tour — Melanie Mitchell [Intermediate · 2009]
 - Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies — Geoffrey West [Intermediate · 2017]
@@ -1038,7 +1061,7 @@ Complete book list
 - The Web of Life: A New Scientific Understanding of Living Systems — Fritjof Capra [Intermediate · 1996]
 - Thinking in Systems: A Primer — Donella H. Meadows [Beginner · 2008]
 
-#Trans and Gender Studies (6)
+ Trans and Gender Studies (6)
 
 - Black on Both Sides: A Racial History of Trans Identity — C. Riley Snorton [Advanced · 2017]
 - Female Masculinity — Jack Halberstam [Advanced · 1998]
@@ -1047,7 +1070,7 @@ Complete book list
 - Undoing Gender — Judith Butler [Advanced · 2004]
 - Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity — Julia Serano [Intermediate · 2007]
 
-#Wicca (9)
+ Wicca (9)
 
 - Buckland’s Complete Book of Witchcraft — Raymond Buckland [Beginner · 1986]
 - Living Wicca: A Further Guide for the Solitary Practitioner — Scott Cunningham [Beginner · 1993]
@@ -1059,7 +1082,7 @@ Complete book list
 - Wicca: A Guide for the Solitary Practitioner — Scott Cunningham [Beginner · 1988]
 - Witchcraft Today — Gerald B. Gardner [Intermediate · 1954]
 
-#Zoroastrianism (9)
+ Zoroastrianism (9)
 
 - The Gathas of Zarathushtra — Translated by Stanley Insler [Advanced · 1975]
 - The Gāthās of Zarathushtra — Translated by Stanley Insler [Advanced · 1975]
@@ -1070,4 +1093,3 @@ Complete book list
 - Zoroastrianism: An Introduction — Jenny Rose [Beginner · 2011]
 - Zoroastrianism: Its Antiquity and Constant Vigour — Maneckji Nusservanji Dhalla [Advanced · 1914]
 - Zoroastrians: Their Religious Beliefs and Practices — Mary Boyce [Intermediate · 2001]
-

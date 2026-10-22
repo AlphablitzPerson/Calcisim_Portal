@@ -579,103 +579,7 @@ const books = [
 {t:"The Bhagavad Gita According to Gandhi",a:"M. K. Gandhi; translated by Mahadev Desai",s:"Hindu Traditions, Anti-Caste Thought and Social Equality",l:"Intermediate",y:1946},
 {t:"On the Sociology of Islam",a:"Ali Shariati",s:"Islamic Socialism, Liberation and Social Justice",l:"Advanced",y:1979},
 {t:"Islam and the Economic Challenge",a:"M. Umer Chapra",s:"Islamic Socialism, Liberation and Social Justice",l:"Advanced",y:1992},
-{t:"The Jewish Anarchist Movement in America",a:"Kenyon Zimmer",s:"Jewish Labour, Socialism and Anarchism",l:"Advanced",y:2015},
-{t:"A Vindication of the Rights of Woman",a:"Mary Wollstonecraft",s:"Feminist History and Political Theory",l:"Intermediate",y:1792},
-{t:"The Feminine Mystique",a:"Betty Friedan",s:"Feminist History and Political Theory",l:"Intermediate",y:1963},
-{t:"Sexual Politics",a:"Kate Millett",s:"Feminist History and Political Theory",l:"Advanced",y:1970},
-{t:"The Dialectic of Sex: The Case for Feminist Revolution",a:"Shulamith Firestone",s:"Feminist History and Political Theory",l:"Advanced",y:1970},
-{t:"Ain’t I a Woman: Black Women and Feminism",a:"bell hooks",s:"Black Feminism and Intersectionality",l:"Intermediate",y:1981},
-{t:"Feminist Theory: From Margin to Center",a:"bell hooks",s:"Black Feminism and Intersectionality",l:"Intermediate",y:1984},
-{t:"Sister Outsider: Essays and Speeches",a:"Audre Lorde",s:"Black Feminism and Intersectionality",l:"Intermediate",y:1984},
-{t:"Women, Race & Class",a:"Angela Y. Davis",s:"Black Feminism and Intersectionality",l:"Intermediate",y:1981},
-{t:"Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment",a:"Patricia Hill Collins",s:"Black Feminism and Intersectionality",l:"Advanced",y:1990},
-{t:"Demarginalizing the Intersection of Race and Sex",a:"Kimberlé Crenshaw",s:"Black Feminism and Intersectionality",l:"Advanced",y:1989},
-{t:"Feminism Without Borders: Decolonizing Theory, Practicing Solidarity",a:"Chandra Talpade Mohanty",s:"Decolonial and Transnational Feminism",l:"Advanced",y:2003},
-{t:"Under Western Eyes: Feminist Scholarship and Colonial Discourses",a:"Chandra Talpade Mohanty",s:"Decolonial and Transnational Feminism",l:"Advanced",y:1984},
-{t:"The Creation of Patriarchy",a:"Gerda Lerner",s:"Feminist History and Political Theory",l:"Advanced",y:1986},
-{t:"The Straight Mind and Other Essays",a:"Monique Wittig",s:"Feminist and Lesbian Theory",l:"Advanced",y:1992},
-{t:"The Politics of Reality: Essays in Feminist Theory",a:"Marilyn Frye",s:"Feminist and Lesbian Theory",l:"Advanced",y:1983},
-{t:"The Traffic in Women: Notes on the “Political Economy” of Sex",a:"Gayle Rubin",s:"Feminist and Lesbian Theory",l:"Advanced",y:1975},
-{t:"Thinking Sex: Notes for a Radical Theory of the Politics of Sexuality",a:"Gayle Rubin",s:"Queer Theory and Sexual Politics",l:"Advanced",y:1984},
-{t:"Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle",a:"Silvia Federici",s:"Socialist, Materialist and Reproductive Feminism",l:"Advanced",y:2012},
-{t:"Wages Against Housework",a:"Silvia Federici",s:"Socialist, Materialist and Reproductive Feminism",l:"Intermediate",y:1975},
-{t:"Feminism for the 99%: A Manifesto",a:"Cinzia Arruzza, Tithi Bhattacharya and Nancy Fraser",s:"Socialist, Materialist and Reproductive Feminism",l:"Intermediate",y:2019},
-{t:"The Care Manifesto: The Politics of Interdependence",a:"The Care Collective",s:"Socialist, Materialist and Reproductive Feminism",l:"Beginner",y:2020},
-{t:"Bad Feminist: Essays",a:"Roxane Gay",s:"Feminist Critiques and Contemporary Debates",l:"Beginner",y:2014},
-{t:"The Beauty Myth: How Images of Beauty Are Used Against Women",a:"Naomi Wolf",s:"Feminist Critiques and Contemporary Debates",l:"Intermediate",y:1990},
-{t:"The History of Sexuality, Volume 1: An Introduction",a:"Michel Foucault",s:"Queer Theory and Sexual Politics",l:"Advanced",y:1976},
-{t:"Epistemology of the Closet",a:"Eve Kosofsky Sedgwick",s:"Queer Theory and Sexual Politics",l:"Advanced",y:1990},
-{t:"Queer Theory: An Introduction",a:"Annamarie Jagose",s:"Queer Theory and Sexual Politics",l:"Beginner",y:1996},
-{t:"Queer Phenomenology: Orientations, Objects, Others",a:"Sara Ahmed",s:"Queer Theory and Sexual Politics",l:"Advanced",y:2006},
-{t:"Cruising Utopia: The Then and There of Queer Futurity",a:"José Esteban Muñoz",s:"Queer Theory and Sexual Politics",l:"Advanced",y:2009},
-{t:"No Future: Queer Theory and the Death Drive",a:"Lee Edelman",s:"Queer Theory and Sexual Politics",l:"Advanced",y:2004},
-{t:"Fear of a Queer Planet: Queer Politics and Social Theory",a:"Edited by Michael Warner",s:"Queer Theory and Sexual Politics",l:"Advanced",y:1993},
-{t:"The Queer Art of Failure",a:"Jack Halberstam",s:"Queer Theory and Sexual Politics",l:"Advanced",y:2011},
-{t:"Female Masculinity",a:"Jack Halberstam",s:"Trans and Gender Studies",l:"Advanced",y:1998},
-{t:"Transgender Warriors: Making History from Joan of Arc to Dennis Rodman and Beyond",a:"Leslie Feinberg",s:"Trans and Gender Studies",l:"Intermediate",y:1996},
-{t:"Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity",a:"Julia Serano",s:"Trans and Gender Studies",l:"Intermediate",y:2007},
-{t:"Black on Both Sides: A Racial History of Trans Identity",a:"C. Riley Snorton",s:"Trans and Gender Studies",l:"Advanced",y:2017},
-{t:"The Transgender Studies Reader",a:"Edited by Susan Stryker and Stephen Whittle",s:"Trans and Gender Studies",l:"Advanced",y:2006},
-{t:"Undoing Gender",a:"Judith Butler",s:"Trans and Gender Studies",l:"Advanced",y:2004},
-{t:"Zami: A New Spelling of My Name",a:"Audre Lorde",s:"Queer Life Writing and Cultural History",l:"Intermediate",y:1982},
-{t:"Borderlands/La Frontera: The New Mestiza",a:"Gloria Anzaldúa",s:"Queer Life Writing and Cultural History",l:"Advanced",y:1987},
-{t:"A Queer History of the United States",a:"Michael Bronski",s:"Queer Life Writing and Cultural History",l:"Beginner",y:2011},
-{t:"Queer (In)Justice: The Criminalization of LGBT People in the United States",a:"Joey L. Mogul, Andrea J. Ritchie and Kay Whitlock",s:"Queer Justice, Abolition and Social Movements",l:"Advanced",y:2011},
-{t:"Abolition. Feminism. Now.",a:"Angela Y. Davis, Gina Dent, Erica R. Meiners and Beth E. Richie",s:"Queer Justice, Abolition and Social Movements",l:"Intermediate",y:2022},
-{t:"Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex",a:"Angela Chen",s:"Asexuality and Aromantic Studies",l:"Beginner",y:2020},
-{t:"The Ego and Its Own",a:"Max Stirner",s:"Individualist Anarchism and Egoism",l:"Advanced",y:1844},
-{t:"Stirner’s Critics",a:"Max Stirner",s:"Individualist Anarchism and Egoism",l:"Advanced",y:1845},
-
-
-
-{t:"The System of Economic Contradictions: or, The Philosophy of Misery",a:"Pierre-Joseph Proudhon",s:"Anarchism",l:"Advanced",y:1846},
-{t:"Confessions of a Revolutionary",a:"Pierre-Joseph Proudhon",s:"Anarchism",l:"Intermediate",y:1849},
-{t:"The Philosophy of Progress",a:"Pierre-Joseph Proudhon",s:"Anarchism",l:"Intermediate",y:1853},
-{t:"On the Political Capacity of the Working Classes",a:"Pierre-Joseph Proudhon",s:"Anarchism",l:"Advanced",y:1865},
-{t:"Justice in the Revolution and in the Church",a:"Pierre-Joseph Proudhon",s:"Anarchism",l:"Advanced",y:1858},
-{t:"The Knouto-Germanic Empire and the Social Revolution",a:"Mikhail Bakunin",s:"Anarchism",l:"Advanced",y:1871},
-{t:"Marxism, Freedom and the State",a:"Mikhail Bakunin",s:"Anarchism",l:"Intermediate",y:1950},
-{t:"The Paris Commune and the Idea of the State",a:"Mikhail Bakunin",s:"Anarchism",l:"Intermediate",y:1871},
-{t:"Selected Writings",a:"Mikhail Bakunin",s:"Anarchism",l:"Intermediate",y:1973},
-{t:"Fields, Factories and Workshops",a:"Peter Kropotkin",s:"Anarchism",l:"Intermediate",y:1899},
-{t:"Modern Science and Anarchy",a:"Peter Kropotkin",s:"Anarchism",l:"Advanced",y:1903},
-{t:"The Great French Revolution, 1789–1793",a:"Peter Kropotkin",s:"Anarchism",l:"Advanced",y:1909},
-{t:"Ethics: Origin and Development",a:"Peter Kropotkin",s:"Anarchism",l:"Advanced",y:1922},
-{t:"Memoirs of a Revolutionist",a:"Peter Kropotkin",s:"Anarchist History and Biography",l:"Intermediate",y:1899},
-{t:"Anarchy",a:"Errico Malatesta",s:"Anarchism",l:"Beginner",y:1891},
-{t:"At the Café: Conversations on Anarchism",a:"Errico Malatesta",s:"Anarchism",l:"Beginner",y:1922},
-{t:"Errico Malatesta: His Life and Ideas",a:"Errico Malatesta; edited by Vernon Richards",s:"Anarchist History and Biography",l:"Intermediate",y:1965},
-{t:"Prison Memoirs of an Anarchist",a:"Alexander Berkman",s:"Anarchist History and Biography",l:"Intermediate",y:1912},
-{t:"Living My Life",a:"Emma Goldman",s:"Anarchist History and Biography",l:"Intermediate",y:1931},
-{t:"My Disillusionment in Russia",a:"Emma Goldman",s:"Anarchist History and Biography",l:"Intermediate",y:1923},
-{t:"Marriage and Love",a:"Emma Goldman",s:"Feminism and gender",l:"Beginner",y:1911},
-{t:"Anarchism and American Traditions",a:"Voltairine de Cleyre",s:"Anarchism",l:"Intermediate",y:1908},
-{t:"Selected Works of Voltairine de Cleyre",a:"Voltairine de Cleyre",s:"Anarchism",l:"Intermediate",y:2004},
-{t:"The Anarchist Revolution: Polemical Articles 1886–1917",a:"Lucy Parsons",s:"Anarchism",l:"Intermediate",y:2004},
-{t:"Anarcho-Syndicalism: Theory and Practice",a:"Rudolf Rocker",s:"Anarcho-Syndicalism and Labour",l:"Intermediate",y:1938},
-{t:"Nationalism and Culture",a:"Rudolf Rocker",s:"Anarchist History and Political Thought",l:"Advanced",y:1937},
-{t:"Anarchy in Action",a:"Colin Ward",s:"Anarchism",l:"Beginner",y:1973},
-{t:"Post-Scarcity Anarchism",a:"Murray Bookchin",s:"Social Ecology and Environmental Anarchism",l:"Intermediate",y:1971},
-{t:"The Ecology of Freedom: The Emergence and Dissolution of Hierarchy",a:"Murray Bookchin",s:"Social Ecology and Environmental Anarchism",l:"Advanced",y:1982},
-{t:"Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm",a:"Murray Bookchin",s:"Social Ecology and Environmental Anarchism",l:"Intermediate",y:1995},
-{t:"Anarchist Anthropology",a:"David Graeber",s:"Anarchist Organising and Direct Democracy",l:"Intermediate",y:2004},
-{t:"The Political Philosophy of Poststructuralist Anarchism",a:"Todd May",s:"Anarchism",l:"Advanced",y:1994},
-{t:"Anarchism: A History of Libertarian Ideas and Movements",a:"George Woodcock",s:"Anarchist History and Biography",l:"Intermediate",y:1962},
-{t:"The Spanish Anarchists: The Heroic Years 1868–1936",a:"Murray Bookchin",s:"Anarchist History and Biography",l:"Advanced",y:1977},
-{t:"The Russian Revolution in Ukraine (March 1917–April 1918)",a:"Nestor Makhno",s:"Anarchist History and Biography",l:"Advanced",y:1926},
-{t:"The Unknown Revolution, 1917–1921",a:"Voline",s:"Anarchist History and Biography",l:"Advanced",y:1947},
-{t:"The Dispossessed",a:"Ursula K. Le Guin",s:"Anarchism",l:"Intermediate",y:1974},
-{t:"Enquiry Concerning Political Justice",a:"William Godwin",s:"Anarchism",l:"Advanced",y:1793},
-{t:"The Woman Question: A Socialist Point of View",a:"Eleanor Marx and Edward Aveling",s:"Feminist Socialism and Working-Class History",l:"Intermediate",y:1886},
-{t:"Shelley’s Socialism: Two Lectures",a:"Eleanor Marx",s:"Feminist Socialism and Working-Class History",l:"Intermediate",y:1888},
-{t:"Karl Marx: A Biographical Memoir",a:"Eleanor Marx and Edward Aveling",s:"Marxism and Socialist History",l:"Intermediate",y:1892},
-{t:"The Working-Class Movement in America",a:"Eleanor Marx and Edward Aveling",s:"Feminist Socialism and Working-Class History",l:"Advanced",y:1888},
-{t:"The Origin of the Family, Private Property and the State",a:"Friedrich Engels",s:"Feminist Socialism and Working-Class History",l:"Advanced",y:1884},
-{t:"The Condition of the Working Class in England",a:"Friedrich Engels",s:"Marxism and Socialist History",l:"Intermediate",y:1845},
-{t:"The Mass Strike, the Political Party and the Trade Unions",a:"Rosa Luxemburg",s:"Revolutionary Socialism and Labour",l:"Advanced",y:1906},
-{t:"Reform or Revolution",a:"Rosa Luxemburg",s:"Revolutionary Socialism and Labour",l:"Intermediate",y:1899},
-{t:"The Accumulation of Capital",a:"Rosa Luxemburg",s:"Revolutionary Socialism and Labour",l:"Advanced",y:1913},
-
+{t:"The Jewish Anarchist Movement in America",a:"Kenyon Zimmer",s:"Jewish Labour, Socialism and Anarchism",l:"Advanced",y:2015}
 ];
 const catalog = document.getElementById('catalog');
 const search = document.getElementById('search');
@@ -685,45 +589,6 @@ let savedOnly = false;
 const saved = new Set(JSON.parse(localStorage.getItem('templeOfKnowledgeSavedBooks') || '[]'));
 // A curated CALCism pathway spanning its materialist, anarchist, communalist, ecological, scientific and philosophical foundations.
 const calcismRecommended = new Set([
- "The Ego and Its Own|Max Stirner|Individualist Anarchism and Egoism",
- "Feminism Is for Everybody|bell hooks|Feminism and gender",
- "Women, Race & Class|Angela Y. Davis|Black Feminism and Intersectionality",
- "Sister Outsider: Essays and Speeches|Audre Lorde|Black Feminism and Intersectionality",
- "Feminism for the 99%: A Manifesto|Cinzia Arruzza, Tithi Bhattacharya and Nancy Fraser|Socialist, Materialist and Reproductive Feminism",
- "Queer (In)Justice: The Criminalization of LGBT People in the United States|Joey L. Mogul, Andrea J. Ritchie and Kay Whitlock|Queer Justice, Abolition and Social Movements",
- "Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex|Angela Chen|Asexuality and Aromantic Studies",
- "The System of Economic Contradictions: or, The Philosophy of Misery|Pierre-Joseph Proudhon|Anarchism",
- "The Knouto-Germanic Empire and the Social Revolution|Mikhail Bakunin|Anarchism",
- "The ABC of Anarchism|Alexander Berkman|Anarchism",
- "Anarcho-Syndicalism: Theory and Practice|Rudolf Rocker|Anarcho-Syndicalism and Labour",
- "Post-Scarcity Anarchism|Murray Bookchin|Social Ecology and Environmental Anarchism",
- "The Woman Question: A Socialist Point of View|Eleanor Marx and Edward Aveling|Feminist Socialism and Working-Class History",
- "Shelley’s Socialism: Two Lectures|Eleanor Marx|Feminist Socialism and Working-Class History",
-
- "The Ego and Its Own|Max Stirner|Individualist Anarchism and Egoism",
- "Feminism Is for Everybody|bell hooks|Feminism and gender",
- "Women, Race & Class|Angela Y. Davis|Black Feminism and Intersectionality",
- "Sister Outsider: Essays and Speeches|Audre Lorde|Black Feminism and Intersectionality",
- "Feminism for the 99%: A Manifesto|Cinzia Arruzza, Tithi Bhattacharya and Nancy Fraser|Socialist, Materialist and Reproductive Feminism",
- "Queer (In)Justice: The Criminalization of LGBT People in the United States|Joey L. Mogul, Andrea J. Ritchie and Kay Whitlock|Queer Justice, Abolition and Social Movements",
- "Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex|Angela Chen|Asexuality and Aromantic Studies",
-
- "The Ego and Its Own|Max Stirner|Individualist Anarchism and Egoism",
- "Feminism Is for Everybody|bell hooks|Feminism and gender",
- "Women, Race & Class|Angela Y. Davis|Black Feminism and Intersectionality",
- "Sister Outsider: Essays and Speeches|Audre Lorde|Black Feminism and Intersectionality",
- "Feminism for the 99%: A Manifesto|Cinzia Arruzza, Tithi Bhattacharya and Nancy Fraser|Socialist, Materialist and Reproductive Feminism",
- "Queer (In)Justice: The Criminalization of LGBT People in the United States|Joey L. Mogul, Andrea J. Ritchie and Kay Whitlock|Queer Justice, Abolition and Social Movements",
- "Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex|Angela Chen|Asexuality and Aromantic Studies",
-
- "The Ego and Its Own|Max Stirner|Individualist Anarchism and Egoism",
- "Feminism Is for Everybody|bell hooks|Feminism and gender",
- "Women, Race & Class|Angela Y. Davis|Black Feminism and Intersectionality",
- "Sister Outsider: Essays and Speeches|Audre Lorde|Black Feminism and Intersectionality",
- "Feminism for the 99%: A Manifesto|Cinzia Arruzza, Tithi Bhattacharya and Nancy Fraser|Socialist, Materialist and Reproductive Feminism",
- "Queer (In)Justice: The Criminalization of LGBT People in the United States|Joey L. Mogul, Andrea J. Ritchie and Kay Whitlock|Queer Justice, Abolition and Social Movements",
- "Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex|Angela Chen|Asexuality and Aromantic Studies",
-
  "The Conquest of Bread|Peter Kropotkin|Anarchism",
  "Mutual Aid: A Factor of Evolution|Peter Kropotkin|Anarchism",
  "Anarchism and Other Essays|Emma Goldman|Anarchism",
@@ -865,30 +730,56 @@ function directSources(b){const q=b.t+' '+b.a;return [
  ...(['Moral Anti-Realism, Moral Nihilism & the Illusion of Good and Evil'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Moral Anti-Realism','https://plato.stanford.edu/entries/moral-anti-realism/'],['Stanford Encyclopedia of Philosophy: Moral Error Theory','https://plato.stanford.edu/entries/moral-anti-realism/'],['Internet Encyclopedia of Philosophy: Moral Anti-Realism','https://iep.utm.edu/moralrea/']]:[])
  ];}
 function amazonPrint(b){const marketplace=document.getElementById('marketplace')?.value||'de';return 'https://www.amazon.'+marketplace+'/s?i=stripbooks&k='+encodeURIComponent(b.t+' '+b.a);}
+function authorSortKey(author){
+ const first=String(author||'').split(';')[0].split(/\s+(?:and|&)\s+/i)[0]
+  .replace(/^\s*(?:edited by|translated by|compiled by|traditional)\s+/i,'').trim();
+ const words=first.replace(/[.,]/g,'').split(/\s+/).filter(Boolean);
+ return (words.length?words[words.length-1]+' '+words.slice(0,-1).join(' '):first).toLocaleLowerCase();
+}
+function sortBooks(items,mode){
+ const collator=new Intl.Collator(undefined,{sensitivity:'base',numeric:true});
+ const year=(b)=>Number.isFinite(Number(b.y))?Number(b.y):null;
+ return [...items].map((b,index)=>({b,index})).sort((x,y)=>{
+  const a=x.b,b=y.b; let result=0;
+  switch(mode){
+   case 'title-asc': result=collator.compare(a.t,b.t)||collator.compare(a.a,b.a); break;
+   case 'author-asc': result=collator.compare(authorSortKey(a.a),authorSortKey(b.a))||collator.compare(a.a,b.a)||collator.compare(a.t,b.t); break;
+   case 'author-desc': result=collator.compare(authorSortKey(b.a),authorSortKey(a.a))||collator.compare(b.a,a.a)||collator.compare(a.t,b.t); break;
+   case 'year-asc': {const ay=year(a),by=year(b);result=ay===null?(by===null?0:1):by===null?-1:ay-by;result=result||collator.compare(a.t,b.t);break;}
+   case 'year-desc': {const ay=year(a),by=year(b);result=ay===null?(by===null?0:1):by===null?-1:by-ay;result=result||collator.compare(a.t,b.t);break;}
+   case 'subject-asc': result=collator.compare(a.s,b.s)||collator.compare(a.t,b.t); break;
+   case 'level-asc': {const rank={Beginner:0,Intermediate:1,Advanced:2};result=(rank[a.l]??99)-(rank[b.l]??99)||collator.compare(a.t,b.t);break;}
+   default: result=x.index-y.index;
+  }
+  return result||x.index-y.index;
+ }).map(x=>x.b);
+}
 function draw(){
  const q=search.value.trim().toLowerCase();
  const normalized=v=>String(v).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');
  const queryTerms=normalized(q).split(' ').filter(w=>w && !['and','or','the'].includes(w));
  const searchMatches=b=>{if(!q)return true;const hay=normalized(b.t+' '+b.a+' '+b.s);if(queryTerms.includes('marx')&&queryTerms.includes('engels'))return hay.includes('marx')||hay.includes('engels');return queryTerms.every(term=>hay.includes(term));};
- const filtered=books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));
+ const filtered=sortBooks(books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a))),document.getElementById('sortBy').value);
  document.getElementById('resultCount').textContent=`Showing ${filtered.length} of ${books.length} titles`;
+ document.getElementById('resultCount').setAttribute('aria-label',`${filtered.length} catalogue results, sorted by ${document.getElementById('sortBy').selectedOptions[0].textContent}`);
  catalog.innerHTML='';
  if(!filtered.length){catalog.innerHTML='<div class="empty" style="grid-column:1/-1">No titles match these filters. Try a broader search or reset the filters.</div>';return;}
  filtered.forEach(b=>{
   const key=b.t+'|'+b.a; const isSaved=saved.has(key);
   const el=document.createElement('article');el.className='book';
-  el.innerHTML=`<div class="tagrow"><span class="tag">${esc(b.s)}</span><span class="tag">${esc(b.l)}</span></div><h3>${esc(b.t)}</h3><p class="author">${esc(b.a)}${b.y?` · ${b.y<0?Math.abs(b.y)+' BCE':b.y}`:''}</p><div class="status">Free access: <strong>check availability and licence</strong>. Search results and catalogue records are not verified free editions.</div><div class="actions"><a class="button primary" href="${freeSearch(b)}" target="_blank" rel="noopener noreferrer">Find a free edition ↗</a><a class="button secondary" href="${amazonPrint(b)}" target="_blank" rel="noopener noreferrer">Amazon print search ↗</a><a class="button ghost" href="mailto:secularperspective@outlook.com?subject=${encodeURIComponent('Temple of Knowledge book request: '+b.t)}&body=${encodeURIComponent('Hello,\n\nI could not find a suitable free edition of this book in The Temple of Knowledge.\n\nTitle: '+b.t+'\nAuthor: '+b.a+'\n\nCould you help locate a lawful edition or consider adding a source?\n\nThank you.')}">Request this book by email</a><button class="ghost save" type="button">${isSaved?'★ Saved':'☆ Save'}</button></div><details><summary>Direct source links</summary><div class="actions">${directSources(b).map(([label,url])=>`<a href="${url}" target="_blank" rel="noopener noreferrer">${label} ↗</a>`).join('')}</div></details>`;
+  el.innerHTML=`<div class="tagrow"><span class="tag">${esc(b.s)}</span><span class="tag">${esc(b.l)}</span></div><h3>${esc(b.t)}</h3><p class="author">${esc(b.a)}${b.y?` · ${b.y<0?Math.abs(b.y)+' BCE':b.y}`:''}</p><div class="status">Free access: <strong>check availability and licence</strong>. Search results and catalogue records are not verified free editions.</div><div class="actions"><a class="button primary" href="${freeSearch(b)}" target="_blank" rel="noopener noreferrer">Find a free edition ↗</a><a class="button secondary" href="${amazonPrint(b)}" target="_blank" rel="noopener noreferrer">Amazon print search ↗</a><a class="button media-link" href="https://www.youtube.com/results?search_query=${encodeURIComponent('"'+b.t+'" '+b.a+' audiobook OR audio book OR reading')}" target="_blank" rel="noopener noreferrer">Audio / audiobook search ↗</a><a class="button media-link" href="https://www.youtube.com/results?search_query=${encodeURIComponent('"'+b.t+'" '+b.a+' lecture OR book discussion OR author interview')}" target="_blank" rel="noopener noreferrer">Video / lecture search ↗</a><a class="button ghost" href="mailto:secularperspective@outlook.com?subject=${encodeURIComponent('Temple of Knowledge book request: '+b.t)}&body=${encodeURIComponent('Hello,\n\nI could not find a suitable free edition of this book in The Temple of Knowledge.\n\nTitle: '+b.t+'\nAuthor: '+b.a+'\n\nCould you help locate a lawful edition or consider adding a source?\n\nThank you.')}">Request this book by email</a><button class="ghost save" type="button">${isSaved?'★ Saved':'☆ Save'}</button></div><details><summary>Direct source links</summary><div class="actions">${directSources(b).map(([label,url])=>`<a href="${url}" target="_blank" rel="noopener noreferrer">${label} ↗</a>`).join('')}</div></details>`;
   el.querySelector('.save').addEventListener('click',()=>{if(saved.has(key))saved.delete(key);else saved.add(key);localStorage.setItem('templeOfKnowledgeSavedBooks',JSON.stringify([...saved]));draw();});
   catalog.appendChild(el);
  });
 }
 [search,topic,level].forEach(e=>e.addEventListener('input',draw));
+document.getElementById('sortBy').addEventListener('change',draw);
 document.getElementById('freeSearchEngine').addEventListener('change',draw);
 document.getElementById('unlockProprietary').addEventListener('click',()=>{const accepted=window.confirm('Proprietary search engine warning\n\nGoogle and Bing are proprietary, non-FOSS services. Using them may expose your search queries and related technical information to those providers under their own policies. They are provided only as optional alternatives. Use these sources at your own risk.\n\nUnlock Google and Bing in the search-engine menu?');if(!accepted)return;for(const value of ['google','bing']){const option=document.querySelector('#freeSearchEngine option[value=\"' + value + '\"]');if(option)option.hidden=false;}document.getElementById('unlockProprietary').textContent='Google / Bing unlocked';document.getElementById('unlockProprietary').disabled=true;});
 document.getElementById('showSaved').addEventListener('click',()=>{savedOnly=!savedOnly;document.getElementById('showSaved').textContent=savedOnly?'★ Show all titles':'★ Show saved titles';draw();});
-document.getElementById('clearFilters').addEventListener('click',()=>{search.value='';topic.value='';level.value='';savedOnly=false;document.getElementById('showSaved').textContent='★ Show saved titles';draw();});
+document.getElementById('clearFilters').addEventListener('click',()=>{search.value='';topic.value='';level.value='';document.getElementById('sortBy').value='default';savedOnly=false;document.getElementById('showSaved').textContent='★ Show saved titles';draw();});
 document.getElementById('marketplace').addEventListener('change',draw);
-document.getElementById('exportList').addEventListener('click',()=>{const q=search.value.trim().toLowerCase();const normalized=v=>String(v).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');const queryTerms=normalized(q).split(' ').filter(w=>w && !['and','or','the'].includes(w));const searchMatches=b=>{if(!q)return true;const hay=normalized(b.t+' '+b.a+' '+b.s);if(queryTerms.includes('marx')&&queryTerms.includes('engels'))return hay.includes('marx')||hay.includes('engels');return queryTerms.every(term=>hay.includes(term));};const rows=books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));const csv=[['Title','Author','Subject','Level','Publication year','Free edition search (selected engine)','Amazon physical books search'],...rows.map(b=>[b.t,b.a,b.s,b.l,b.y,freeSearch(b),amazonPrint(b)])].map(r=>r.map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='temple-of-knowledge-reading-list.csv';a.click();URL.revokeObjectURL(url);});
+document.getElementById('exportList').addEventListener('click',()=>{const q=search.value.trim().toLowerCase();const normalized=v=>String(v).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');const queryTerms=normalized(q).split(' ').filter(w=>w && !['and','or','the'].includes(w));const searchMatches=b=>{if(!q)return true;const hay=normalized(b.t+' '+b.a+' '+b.s);if(queryTerms.includes('marx')&&queryTerms.includes('engels'))return hay.includes('marx')||hay.includes('engels');return queryTerms.every(term=>hay.includes(term));};const rows=sortBooks(books.filter(b=>searchMatches(b)&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a))),document.getElementById('sortBy').value);const csv=[['Title','Author','Subject','Level','Publication year','Free edition search (selected engine)','Amazon physical books search'],...rows.map(b=>[b.t,b.a,b.s,b.l,b.y,freeSearch(b),amazonPrint(b)])].map(r=>r.map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='temple-of-knowledge-reading-list.csv';a.click();URL.revokeObjectURL(url);});
 draw();
 
 
