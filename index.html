@@ -281,12 +281,12 @@ footer a { color: #f0d28c; }
   </div>
   <div class="note"><strong>European copyright safeguards:</strong> The Temple of Knowledge links to legitimate sources rather than hosting book files. Across the EU, the general term for literary works is the author's life plus 70 years, but exceptions and national rules apply. A book being public domain in the United States does <em>not</em> automatically mean it is public domain in Europe. Translations, introductions, annotations, illustrations, scholarly editions and modern covers may have separate rights. We will label a title “verified public domain” only after checking the relevant edition and jurisdiction; otherwise we will say “licence/status to check”. <a href="https://europa.eu/youreurope/business/growing/protecting-intellectual-property/copyright/index_en.htm" target="_blank" rel="noopener noreferrer">EU copyright overview ↗</a> · <a href="https://euipo.europa.eu/en/copyright-knowledge-centre" target="_blank" rel="noopener noreferrer">EUIPO Copyright Knowledge Centre ↗</a></div>
   <div class="note"><strong>How links work:</strong> Startpage is the default search engine for free-edition discovery; you can switch to Ecosia, DuckDuckGo or Mojeek. Google and Bing are hidden by default and can be unlocked after a warning. They are proprietary services; use them at your own risk. These search services are not all fully FOSS. Each book also links directly to relevant catalogues and repositories where you can check for an edition. A search result or catalogue record does not guarantee free access or permission to redistribute. Amazon links are restricted to the physical Books catalogue, not Kindle. Always check the edition, availability, licence and national copyright status.</div>
-  <div class="note"><strong>Paganism, ancient religions and living traditions:</strong> This catalogue now has 15 dedicated subjects, from Hellenic and Roman religion to Celtic, Kemetic, Germanic/Norse, Slavic, Wiccan, Polynesian, Aztec/Mexica, Inca/Andean, Maya, Punic, Zoroastrian, Canaanite, eclectic Pagan and Shinto traditions. These are not one historically uniform religion: the catalogue distinguishes ancient primary sources, modern practice, and historical or academic scholarship. For Indigenous and living traditions, read works by community scholars and practitioners alongside outside scholarship. Titles are bibliographic leads; free access and edition licences still need checking.</div>
+  <div class="note"><strong>Paganism, ancient religions and living traditions:</strong> The catalogue includes 15 dedicated Pagan, ancient-religion and living-tradition subjects, alongside expanded Humanism, Secularism, Apatheism, Ignosticism and Theological Noncognitivism, Apistevism and Epistemic Criticism, Metaethics, Moral Anti-Realism and Error Theory, Philosophy of Science, and Science and Scientific Method. These are distinct fields and positions, not interchangeable labels. “Apistevism” is used here as a specialised term for the project’s critique of faith as a sufficient basis for knowledge, not as a universally standard academic category. Pagan and Indigenous traditions are not one historically uniform religion: the catalogue distinguishes primary sources, modern practice, and historical or academic scholarship. Titles are bibliographic leads; free access and edition licences still need checking.</div>
   <div class="section-head"><div><div class="kicker">Explore the collection</div><h2>Find your next book</h2></div><div class="small" id="resultCount" aria-live="polite"></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Search title, author or topic…" aria-label="Search books">
     <select id="topic" aria-label="Filter by subject"><option value="">All subjects</option></select>
-    <select id="level" aria-label="Filter by level"><option value="">All levels</option><option>Beginner</option><option>Intermediate</option><option>Advanced</option><option>All levels</option></select>
+    <select id="level" aria-label="Filter by level"><option value="">All levels</option><option>Beginner</option><option>Intermediate</option><option>Advanced</option></select>
     <div class="engine-control"><select id="freeSearchEngine" aria-label="Search engine for free-edition discovery"><option value="startpage">Startpage (default)</option><option value="ecosia">Ecosia</option><option value="duckduckgo">DuckDuckGo</option><option value="mojeek">Mojeek</option><option value="google" hidden>Google (proprietary)</option><option value="bing" hidden>Bing (proprietary)</option></select><button class="ghost" id="unlockProprietary" type="button">Unlock Google / Bing</button></div>
     <select id="marketplace" aria-label="Amazon physical-book marketplace"><option value="de">Amazon Germany (€)</option><option value="co.uk">Amazon UK (£)</option><option value="fr">Amazon France (€)</option><option value="it">Amazon Italy (€)</option><option value="es">Amazon Spain (€)</option><option value="nl">Amazon Netherlands (€)</option><option value="se">Amazon Sweden (SEK)</option><option value="pl">Amazon Poland (PLN)</option><option value="com.be">Amazon Belgium (€)</option></select>
   </div>
@@ -542,7 +542,233 @@ const books = [
 {t:"The Little Book of Conflict Transformation",a:"John Paul Lederach",s:"Community practice",l:"Beginner",y:2003},
 {t:"Mutual Aid",a:"Dean Spade",s:"Community practice",l:"Beginner",y:2020},
 {t:"Free Software, Free Society",a:"Richard M. Stallman",s:"Digital commons and privacy",l:"Intermediate",y:2002},
-{t:"The Cathedral and the Bazaar",a:"Eric S. Raymond",s:"Digital commons and privacy",l:"Intermediate",y:1999}
+{t:"The Cathedral and the Bazaar",a:"Eric S. Raymond",s:"Digital commons and privacy",l:"Intermediate",y:1999},
+{t:"The Greek Myths",a:"Robert Graves",s:"Hellenism and Roman Religion",l:"Intermediate",y:1955},
+{t:"Ancient Greek Religion",a:"Jon D. Mikalson",s:"Hellenism and Roman Religion",l:"Intermediate",y:2005},
+{t:"Roman Religion",a:"Jörg Rüpke",s:"Hellenism and Roman Religion",l:"Advanced",y:2007},
+{t:"The Roman Festivals of the Period of the Republic",a:"W. Warde Fowler",s:"Hellenism and Roman Religion",l:"Advanced",y:1899},
+{t:"The Oxford Handbook of Ancient Greek Religion",a:"Edited by Esther Eidinow and Julia Kindt",s:"Hellenism and Roman Religion",l:"Advanced",y:2015},
+{t:"The Gods of the Celts",a:"Miranda J. Green",s:"Celtic Traditions",l:"Intermediate",y:1986},
+{t:"The Celtic Myths: A Guide to the Ancient Gods and Legends",a:"Miranda Aldhouse-Green",s:"Celtic Traditions",l:"Beginner",y:2015},
+{t:"Pagan Celtic Britain",a:"Anne Ross",s:"Celtic Traditions",l:"Advanced",y:1967},
+{t:"The Celtic World",a:"Edited by Barry Cunliffe",s:"Celtic Traditions",l:"Advanced",y:1995},
+{t:"The Complete Gods and Goddesses of Ancient Egypt",a:"Richard H. Wilkinson",s:"Kemetism",l:"Beginner",y:2003},
+{t:"Religion and Ritual in Ancient Egypt",a:"Emily Teeter",s:"Kemetism",l:"Intermediate",y:2011},
+{t:"Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms",a:"Miriam Lichtheim",s:"Kemetism",l:"Advanced",y:1973},
+{t:"Ancient Egyptian Literature, Volume II: The New Kingdom",a:"Miriam Lichtheim",s:"Kemetism",l:"Advanced",y:1976},
+{t:"The Road to Hel: A Study of the Conception of the Dead in Old Norse Literature",a:"H. R. Ellis Davidson",s:"Germanic and Norse Traditions",l:"Advanced",y:1943},
+{t:"Dictionary of Northern Mythology",a:"Rudolf Simek; translated by Angela Hall",s:"Germanic and Norse Traditions",l:"Advanced",y:1993},
+{t:"Norse Mythology",a:"John Lindow",s:"Germanic and Norse Traditions",l:"Intermediate",y:2001},
+{t:"The Viking World",a:"Edited by Stefan Brink and Neil Price",s:"Germanic and Norse Traditions",l:"Advanced",y:2008},
+{t:"The Slavic Myths",a:"Noah Charney and Svetlana Slapšak",s:"Slavic Traditions",l:"Beginner",y:2023},
+{t:"The Slavs in European History and Civilization",a:"Francis Dvornik",s:"Slavic Traditions",l:"Advanced",y:1962},
+{t:"Religious Beliefs of the Slavs",a:"Andrzej Szyjewski",s:"Slavic Traditions",l:"Intermediate",y:2003},
+{t:"The Witches’ Bible: The Complete Witches’ Handbook",a:"Janet and Stewart Farrar",s:"Wicca",l:"Intermediate",y:1981},
+{t:"Buckland’s Complete Book of Witchcraft",a:"Raymond Buckland",s:"Wicca",l:"Beginner",y:1986},
+{t:"Living Wicca: A Further Guide for the Solitary Practitioner",a:"Scott Cunningham",s:"Wicca",l:"Beginner",y:1993},
+{t:"The Wiccan Mysteries: Ancient Origins and Teachings",a:"Raven Grimassi",s:"Wicca",l:"Intermediate",y:1997},
+{t:"Myths and Legends of the Polynesians",a:"Johannes C. Andersen",s:"Polynesian Traditions",l:"Intermediate",y:1928},
+{t:"Māori Religion and Mythology",a:"Elsdon Best",s:"Polynesian Traditions",l:"Advanced",y:1924},
+{t:"Hawaiian Antiquities (Moolelo Hawaii)",a:"David Malo; translated by Nathaniel B. Emerson",s:"Polynesian Traditions",l:"Advanced",y:1903},
+{t:"Polynesian Mythology and Ancient Traditional History of the New Zealand Race",a:"George Grey",s:"Polynesian Traditions",l:"Advanced",y:1855},
+{t:"Aztecs: An Interpretation",a:"Inga Clendinnen",s:"Aztec and Mexica Traditions",l:"Advanced",y:1991},
+{t:"Handbook to Life in the Aztec World",a:"Manuel Aguilar-Moreno",s:"Aztec and Mexica Traditions",l:"Intermediate",y:2006},
+{t:"The Aztecs of Mexico: An Introduction to the History and Culture of the Mexica People",a:"Michael E. Smith",s:"Aztec and Mexica Traditions",l:"Intermediate",y:1984},
+{t:"The Essential Codex Mendoza",a:"Frances F. Berdan and Patricia Rieff Anawalt",s:"Aztec and Mexica Traditions",l:"Advanced",y:1997},
+{t:"The Incas",a:"Craig Morris and Adriana von Hagen",s:"Inca and Andean Traditions",l:"Beginner",y:2011},
+{t:"The Incas and Their Ancestors: The Archaeology of Peru",a:"Michael E. Moseley",s:"Inca and Andean Traditions",l:"Advanced",y:1992},
+{t:"The Ancient Maya",a:"Robert J. Sharer and Loa P. Traxler",s:"Maya Traditions",l:"Advanced",y:2006},
+{t:"Maya History and Religion",a:"J. Eric S. Thompson",s:"Maya Traditions",l:"Intermediate",y:1970},
+{t:"The Maya: A Very Short Introduction",a:"Matthew Restall and Amara Solari",s:"Maya Traditions",l:"Beginner",y:2020},
+{t:"Reading the Maya Glyphs",a:"Michael D. Coe and Mark Van Stone",s:"Maya Traditions",l:"Intermediate",y:2001},
+{t:"Carthage: A History",a:"Serge Lancel; translated by Antonia Nevill",s:"Punic and Carthaginian Religion",l:"Intermediate",y:1995},
+{t:"The Tophet in the Punic Mediterranean",a:"Edited by Paolo Xella",s:"Punic and Carthaginian Religion",l:"Advanced",y:2013},
+{t:"The Phoenicians and the West: Politics, Colonies and Trade",a:"Maria Eugenia Aubet; translated by Mary Turton",s:"Punic and Carthaginian Religion",l:"Advanced",y:2001},
+{t:"Carthage and the Carthaginians",a:"R. Bosworth Smith",s:"Punic and Carthaginian Religion",l:"Intermediate",y:1878},
+{t:"The Zoroastrian Tradition: An Introduction to the Ancient Wisdom of Zarathushtra",a:"Farhang Mehr",s:"Zoroastrianism",l:"Beginner",y:1991},
+{t:"Zoroastrianism: A Guide for the Perplexed",a:"Jenny Rose",s:"Zoroastrianism",l:"Intermediate",y:2011},
+{t:"The Gathas of Zarathushtra",a:"Translated by Stanley Insler",s:"Zoroastrianism",l:"Advanced",y:1975},
+{t:"Zoroastrianism: Its Antiquity and Constant Vigour",a:"Maneckji Nusservanji Dhalla",s:"Zoroastrianism",l:"Advanced",y:1914},
+{t:"The Canaanites",a:"Jonathan N. Tubb",s:"Canaanite and Pre-Abrahamic Traditions",l:"Beginner",y:1998},
+{t:"The Ugaritic Baal Cycle, Volume I",a:"Mark S. Smith and Wayne T. Pitard",s:"Canaanite and Pre-Abrahamic Traditions",l:"Advanced",y:1994},
+{t:"The Ugaritic Baal Cycle, Volume II",a:"Mark S. Smith and Wayne T. Pitard",s:"Canaanite and Pre-Abrahamic Traditions",l:"Advanced",y:2009},
+{t:"The Religion of Ancient Israel",a:"Ziony Zevit",s:"Canaanite and Pre-Abrahamic Traditions",l:"Advanced",y:2001},
+{t:"Drawing Down the Moon: Witches, Druids, Goddess-Worshippers, and Other Pagans in America",a:"Margot Adler",s:"Eclectic Paganism",l:"Intermediate",y:1979},
+{t:"A World Full of Gods: An Inquiry into Polytheism",a:"John Michael Greer",s:"Eclectic Paganism",l:"Intermediate",y:2005},
+{t:"The Druidry Handbook: Spiritual Practice Rooted in the Living Earth",a:"John Michael Greer",s:"Eclectic Paganism",l:"Intermediate",y:2006},
+{t:"The Book of Pagan Prayer",a:"Ceisiwr Serith",s:"Eclectic Paganism",l:"Intermediate",y:2002},
+{t:"Shinto: The Way Home",a:"Thomas P. Kasulis",s:"Shinto",l:"Intermediate",y:2004},
+{t:"A New History of Shinto",a:"John Breen and Mark Teeuwen",s:"Shinto",l:"Advanced",y:2010},
+{t:"The Daoist Tradition",a:"Livia Kohn",s:"Daoism",l:"Intermediate",y:2009},
+{t:"Daoism: A Guide for the Perplexed",a:"Louis Komjathy",s:"Daoism",l:"Intermediate",y:2014},
+{t:"The Taoist Classics, Volume 1",a:"Thomas Cleary, translator",s:"Daoism",l:"Intermediate",y:1999},
+{t:"Introduction to Classical Chinese Philosophy",a:"Bryan W. Van Norden",s:"Confucianism",l:"Beginner",y:2011},
+{t:"Confucianism: A Short Introduction",a:"Ronnie Littlejohn",s:"Confucianism",l:"Beginner",y:2011},
+{t:"Confucianism and the Family",a:"Edited by Walter H. Slote and George A. De Vos",s:"Confucianism",l:"Advanced",y:1998},
+{t:"Humanism: A Beginner's Guide",a:"Stephen Law",s:"Humanism",l:"Beginner",y:2011},
+{t:"What Is Humanism?",a:"Andrew Copson",s:"Humanism",l:"Beginner",y:2015},
+{t:"The Humanist Tradition in the West",a:"Alan Bullock",s:"Humanism",l:"Intermediate",y:1985},
+{t:"The God Argument: The Case against Religion and for Humanism",a:"A. C. Grayling",s:"Humanism",l:"Intermediate",y:2013},
+{t:"The Little Book of Humanism",a:"Andrew Copson and Alice Roberts",s:"Humanism",l:"Beginner",y:2020},
+{t:"Humanism: A Beginner's Guide",a:"Peter Cave",s:"Humanism",l:"Beginner",y:2009},
+{t:"The Humanist Manifesto III",a:"American Humanist Association",s:"Humanism",l:"Beginner",y:2003},
+{t:"The Meaning of Humanism",a:"Corliss Lamont",s:"Humanism",l:"Intermediate",y:1997},
+{t:"Secularism: A Very Short Introduction",a:"Andrew Copson",s:"Secularism",l:"Beginner",y:2019},
+{t:"A Secular Age",a:"Charles Taylor",s:"Secularism",l:"Advanced",y:2007},
+{t:"The Secular Outlook: In Defense of Moral and Political Secularism",a:"Paul Cliteur",s:"Secularism",l:"Advanced",y:2010},
+{t:"Living the Secular Life: New Answers to Old Questions",a:"Phil Zuckerman",s:"Secularism",l:"Beginner",y:2014},
+{t:"Secularism and Freedom of Conscience",a:"Cécile Laborde",s:"Secularism",l:"Advanced",y:2017},
+{t:"The Politics of Secularism in International Relations",a:"Elizabeth Shakman Hurd",s:"Secularism",l:"Advanced",y:2008},
+{t:"The Nonreligious: Understanding Secular People and Societies",a:"Lois Lee",s:"Secularism",l:"Intermediate",y:2015},
+{t:"The Oxford Handbook of Secularism",a:"Edited by Phil Zuckerman and John R. Shook",s:"Secularism",l:"Advanced",y:2017},
+{t:"The Little Book of Atheist Spirituality",a:"André Comte-Sponville",s:"Apatheism",l:"Intermediate",y:2006},
+{t:"The Nonreligious: Understanding Secular People and Societies",a:"Lois Lee",s:"Apatheism",l:"Intermediate",y:2015},
+{t:"The Varieties of Nonreligious Experience: Atheism in American Culture",a:"Phil Zuckerman",s:"Apatheism",l:"Intermediate",y:2010},
+{t:"Religion for Atheists: A Non-believer's Guide to the Uses of Religion",a:"Alain de Botton",s:"Apatheism",l:"Beginner",y:2012},
+{t:"The Oxford Handbook of Atheism",a:"Edited by Stephen Bullivant and Michael Ruse",s:"Apatheism",l:"Advanced",y:2013},
+{t:"Atheism: A Very Short Introduction",a:"Julian Baggini",s:"Apatheism",l:"Beginner",y:2003},
+{t:"The Joy of Secularism: 11 Essays for How We Live Now",a:"Edited by George Levine",s:"Apatheism",l:"Intermediate",y:2011},
+{t:"The Miracle of Theism: Arguments for and against the Existence of God",a:"J. L. Mackie",s:"Ignosticism and Theological Noncognitivism",l:"Advanced",y:1982},
+{t:"Theology and Falsification",a:"Antony Flew",s:"Ignosticism and Theological Noncognitivism",l:"Advanced",y:1950},
+{t:"The God of the Philosophers",a:"Antony Flew",s:"Ignosticism and Theological Noncognitivism",l:"Intermediate",y:1966},
+{t:"The Existence of God",a:"Richard Swinburne",s:"Ignosticism and Theological Noncognitivism",l:"Advanced",y:1979},
+{t:"Philosophy of Religion: A Very Short Introduction",a:"Tim Bayne",s:"Ignosticism and Theological Noncognitivism",l:"Beginner",y:2018},
+{t:"The Impossibility of God",a:"Edited by Michael Martin and Ricki Monnier",s:"Ignosticism and Theological Noncognitivism",l:"Advanced",y:2003},
+{t:"The Nonexistence of God",a:"Nicholas Everitt",s:"Ignosticism and Theological Noncognitivism",l:"Advanced",y:2004},
+{t:"Epistemology: A Contemporary Introduction to the Theory of Knowledge",a:"Robert Audi",s:"Apistevism and Epistemic Criticism",l:"Advanced",y:2010},
+{t:"The Ethics of Belief",a:"William K. Clifford",s:"Apistevism and Epistemic Criticism",l:"Intermediate",y:1877},
+{t:"The Will to Believe",a:"William James",s:"Apistevism and Epistemic Criticism",l:"Intermediate",y:1897},
+{t:"Knowledge and Its Limits",a:"Timothy Williamson",s:"Apistevism and Epistemic Criticism",l:"Advanced",y:2000},
+{t:"The Problem of Knowledge",a:"A. J. Ayer",s:"Apistevism and Epistemic Criticism",l:"Advanced",y:1956},
+{t:"The Demon-Haunted World: Science as a Candle in the Dark",a:"Carl Sagan",s:"Apistevism and Epistemic Criticism",l:"Beginner",y:1995},
+{t:"The Scout Mindset: Why Some People See Things Clearly and Others Don't",a:"Julia Galef",s:"Apistevism and Epistemic Criticism",l:"Beginner",y:2021},
+{t:"How to Think About Weird Things: Critical Thinking for a New Age",a:"Theodore Schick Jr. and Lewis Vaughn",s:"Apistevism and Epistemic Criticism",l:"Beginner",y:2019},
+{t:"Metaethics: An Introduction",a:"Andrew Fisher",s:"Metaethics",l:"Beginner",y:2011},
+{t:"Metaethics: A Contemporary Introduction",a:"Alexis Burgess and David Plunkett",s:"Metaethics",l:"Advanced",y:2020},
+{t:"Ethics: Inventing Right and Wrong",a:"J. L. Mackie",s:"Metaethics",l:"Intermediate",y:1977},
+{t:"The Fundamentals of Ethics",a:"Russ Shafer-Landau",s:"Metaethics",l:"Beginner",y:2018},
+{t:"The Moral Problem",a:"Michael Smith",s:"Metaethics",l:"Advanced",y:1994},
+{t:"Essays on Moral Realism",a:"Edited by Geoffrey Sayre-McCord",s:"Metaethics",l:"Advanced",y:1988},
+{t:"Being Good: A Short Introduction to Ethics",a:"Simon Blackburn",s:"Metaethics",l:"Beginner",y:2001},
+{t:"The Myth of Morality",a:"Richard Joyce",s:"Moral Anti-Realism and Error Theory",l:"Advanced",y:2001},
+{t:"Moral Fiction",a:"Mark Eli Kalderon",s:"Moral Anti-Realism and Error Theory",l:"Advanced",y:2005},
+{t:"Moral Error Theory: History, Critique, Defence",a:"Jonas Olson",s:"Moral Anti-Realism and Error Theory",l:"Advanced",y:2014},
+{t:"Moral Relativism and Moral Objectivity",a:"Gilbert Harman and Judith Jarvis Thomson",s:"Moral Anti-Realism and Error Theory",l:"Advanced",y:1996},
+{t:"The Oxford Handbook of Ethical Theory",a:"Edited by David Copp",s:"Moral Anti-Realism and Error Theory",l:"Advanced",y:2006},
+{t:"Taking Morality Seriously: A Defense of Robust Realism",a:"David Enoch",s:"Moral Anti-Realism and Error Theory",l:"Advanced",y:2011},
+{t:"The Evolution of Morality",a:"Richard Joyce",s:"Moral Anti-Realism and Error Theory",l:"Intermediate",y:2006},
+{t:"What Is This Thing Called Science?",a:"Alan F. Chalmers",s:"Philosophy of Science",l:"Beginner",y:1976},
+{t:"Theory and Reality: An Introduction to the Philosophy of Science",a:"Peter Godfrey-Smith",s:"Philosophy of Science",l:"Intermediate",y:2003},
+{t:"Philosophy of Science: A Very Short Introduction",a:"Samir Okasha",s:"Philosophy of Science",l:"Beginner",y:2002},
+{t:"The Logic of Scientific Discovery",a:"Karl Popper",s:"Philosophy of Science",l:"Advanced",y:1959},
+{t:"Conjectures and Refutations: The Growth of Scientific Knowledge",a:"Karl Popper",s:"Philosophy of Science",l:"Advanced",y:1963},
+{t:"Against Method",a:"Paul Feyerabend",s:"Philosophy of Science",l:"Advanced",y:1975},
+{t:"The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience",a:"Lee McIntyre",s:"Philosophy of Science",l:"Intermediate",y:2019},
+{t:"The Knowledge Machine: How Irrationality Created Modern Science",a:"Michael Strevens",s:"Philosophy of Science",l:"Intermediate",y:2020},
+{t:"Scientific Method in Practice",a:"Hugh G. Gauch Jr.",s:"Science and Scientific Method",l:"Advanced",y:2003},
+{t:"The Beginning of Infinity: Explanations That Transform the World",a:"David Deutsch",s:"Science and Scientific Method",l:"Advanced",y:2011},
+{t:"The Craft of Scientific Writing",a:"Michael Alley",s:"Science and Scientific Method",l:"Intermediate",y:1996},
+{t:"Calling Bullshit: The Art of Skepticism in a Data-Driven World",a:"Carl T. Bergstrom and Jevin D. West",s:"Science and Scientific Method",l:"Beginner",y:2020},
+{t:"The Scientific Revolution",a:"Steven Shapin",s:"Science and Scientific Method",l:"Intermediate",y:1996},
+{t:"The Art of Statistics: Learning from Data",a:"David Spiegelhalter",s:"Science and Scientific Method",l:"Beginner",y:2019},
+{t:"The Structure of Scientific Revolutions",a:"Thomas S. Kuhn",s:"Science and Scientific Method",l:"Intermediate",y:1962},
+{t:"The Demon-Haunted World: Science as a Candle in the Dark",a:"Carl Sagan",s:"Science and Scientific Method",l:"Beginner",y:1995},
+
+/* New Atheism and the Four Horsemen */
+{t:"The God Delusion",a:"Richard Dawkins",s:"New Atheism and Its Critics",l:"Beginner",y:2006},
+{t:"The Blind Watchmaker",a:"Richard Dawkins",s:"New Atheism and Its Critics",l:"Intermediate",y:1986},
+{t:"The Selfish Gene",a:"Richard Dawkins",s:"New Atheism and Its Critics",l:"Intermediate",y:1976},
+{t:"God Is Not Great: How Religion Poisons Everything",a:"Christopher Hitchens",s:"New Atheism and Its Critics",l:"Beginner",y:2007},
+{t:"The Missionary Position: Mother Teresa in Theory and Practice",a:"Christopher Hitchens",s:"New Atheism and Its Critics",l:"Intermediate",y:1995},
+{t:"Letters to a Young Contrarian",a:"Christopher Hitchens",s:"New Atheism and Its Critics",l:"Beginner",y:2001},
+{t:"Breaking the Spell: Religion as a Natural Phenomenon",a:"Daniel C. Dennett",s:"New Atheism and Its Critics",l:"Intermediate",y:2006},
+{t:"Darwin's Dangerous Idea: Evolution and the Meanings of Life",a:"Daniel C. Dennett",s:"New Atheism and Its Critics",l:"Advanced",y:1995},
+{t:"The End of Faith: Religion, Terror, and the Future of Reason",a:"Sam Harris",s:"New Atheism and Its Critics",l:"Beginner",y:2004},
+{t:"Letter to a Christian Nation",a:"Sam Harris",s:"New Atheism and Its Critics",l:"Beginner",y:2006},
+{t:"The Moral Landscape: How Science Can Determine Human Values",a:"Sam Harris",s:"New Atheism and Its Critics",l:"Intermediate",y:2010},
+{t:"The Four Horsemen: The Conversation That Sparked an Atheist Revolution",a:"Richard Dawkins, Daniel C. Dennett, Sam Harris and Christopher Hitchens; moderated by Stephen Fry",s:"New Atheism and Its Critics",l:"Beginner",y:2019},
+{t:"Atheism: The Case Against God",a:"George H. Smith",s:"New Atheism and Its Critics",l:"Intermediate",y:1979},
+{t:"The Evolution of Atheism: The Politics of a Modern Movement",a:"Stephen LeDrew",s:"New Atheism and Its Critics",l:"Advanced",y:2016},
+/* Environmentalism, ecology and ecocentrism */
+{t:"Silent Spring",a:"Rachel Carson",s:"Environmentalism and Conservation",l:"Beginner",y:1962},
+{t:"A Sand County Almanac",a:"Aldo Leopold",s:"Environmentalism and Conservation",l:"Beginner",y:1949},
+{t:"The Sixth Extinction: An Unnatural History",a:"Elizabeth Kolbert",s:"Environmentalism and Conservation",l:"Beginner",y:2014},
+{t:"The Uninhabitable Earth: Life After Warming",a:"David Wallace-Wells",s:"Environmentalism and Conservation",l:"Beginner",y:2019},
+{t:"This Changes Everything: Capitalism vs. the Climate",a:"Naomi Klein",s:"Environmentalism and Conservation",l:"Intermediate",y:2014},
+{t:"Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",a:"Robin Wall Kimmerer",s:"Environmentalism and Conservation",l:"Beginner",y:2013},
+{t:"The End of Nature",a:"Bill McKibben",s:"Environmentalism and Conservation",l:"Beginner",y:1989},
+{t:"The Future of Life",a:"Edward O. Wilson",s:"Environmentalism and Conservation",l:"Beginner",y:2002},
+{t:"The Economics of Biodiversity: The Dasgupta Review",a:"Partha Dasgupta",s:"Environmentalism and Conservation",l:"Advanced",y:2021},
+{t:"The Ecocentrists: A History of Radical Environmentalism",a:"Keith Makoto Woodhouse",s:"Ecocentrism and Deep Ecology",l:"Advanced",y:2018},
+{t:"Deep Ecology: Living as if Nature Mattered",a:"Bill Devall and George Sessions",s:"Ecocentrism and Deep Ecology",l:"Intermediate",y:1985},
+{t:"The Ecological Self",a:"Freya Mathews",s:"Ecocentrism and Deep Ecology",l:"Advanced",y:1991},
+{t:"Environmental Ethics: An Introduction to Environmental Philosophy",a:"Joseph R. DesJardins",s:"Ecocentrism and Deep Ecology",l:"Intermediate",y:2012},
+{t:"The Ecological Thought",a:"Timothy Morton",s:"Ecocentrism and Deep Ecology",l:"Advanced",y:2010},
+{t:"The Green State: Rethinking Democracy and Sovereignty",a:"Robyn Eckersley",s:"Ecocentrism and Deep Ecology",l:"Advanced",y:2004},
+{t:"Ecological Economics: Principles and Applications",a:"Herman E. Daly and Joshua Farley",s:"Ecological Economics and Degrowth",l:"Advanced",y:2004},
+{t:"Prosperity Without Growth: Foundations for the Economy of Tomorrow",a:"Tim Jackson",s:"Ecological Economics and Degrowth",l:"Intermediate",y:2009},
+{t:"Less Is More: How Degrowth Will Save the World",a:"Jason Hickel",s:"Ecological Economics and Degrowth",l:"Beginner",y:2020},
+{t:"The Limits to Growth",a:"Donella H. Meadows, Dennis L. Meadows, Jørgen Randers and William W. Behrens III",s:"Ecological Economics and Degrowth",l:"Intermediate",y:1972},
+{t:"Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist",a:"Kate Raworth",s:"Ecological Economics and Degrowth",l:"Beginner",y:2017},
+{t:"Environmental Justice: Concepts, Evidence and Politics",a:"Gordon Walker",s:"Environmental Justice and Political Ecology",l:"Intermediate",y:2012},
+{t:"The Environmentalism of the Poor",a:"Joan Martinez-Alier",s:"Environmental Justice and Political Ecology",l:"Advanced",y:2002},
+{t:"A Political Ecology of the Modern World-System",a:"Alf Hornborg, J. R. McNeill and Joan Martinez-Alier (editors)",s:"Environmental Justice and Political Ecology",l:"Advanced",y:2007},
+{t:"The Politics of the Earth: Environmental Discourses",a:"John S. Dryzek",s:"Environmental Justice and Political Ecology",l:"Advanced",y:1997},
+/* Cosmology, astronomy and the origins of the universe */
+{t:"Cosmos",a:"Carl Sagan",s:"Cosmology and the Universe",l:"Beginner",y:1980},
+{t:"A Brief History of Time",a:"Stephen Hawking",s:"Cosmology and the Universe",l:"Beginner",y:1988},
+{t:"The First Three Minutes: A Modern View of the Origin of the Universe",a:"Steven Weinberg",s:"Cosmology and the Universe",l:"Intermediate",y:1977},
+{t:"The Inflationary Universe",a:"Alan H. Guth",s:"Cosmology and the Universe",l:"Intermediate",y:1997},
+{t:"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",a:"Brian Greene",s:"Cosmology and the Universe",l:"Intermediate",y:2004},
+{t:"The Big Picture: On the Origins of Life, Meaning, and the Universe Itself",a:"Sean Carroll",s:"Cosmology and the Universe",l:"Intermediate",y:2016},
+{t:"Astrophysics for People in a Hurry",a:"Neil deGrasse Tyson",s:"Cosmology and the Universe",l:"Beginner",y:2017},
+{t:"The Universe in a Nutshell",a:"Stephen Hawking",s:"Cosmology and the Universe",l:"Intermediate",y:2001},
+{t:"The Elegant Universe",a:"Brian Greene",s:"Cosmology and the Universe",l:"Intermediate",y:1999},
+{t:"The Road to Reality: A Complete Guide to the Laws of the Universe",a:"Roger Penrose",s:"Cosmology and the Universe",l:"Advanced",y:2004},
+{t:"An Introduction to Modern Astrophysics",a:"Bradley W. Carroll and Dale A. Ostlie",s:"Astronomy and Astrophysics",l:"Advanced",y:1996},
+{t:"The Cosmic Perspective",a:"Jeffrey Bennett, Megan Donahue, Nicholas Schneider and Mark Voit",s:"Astronomy and Astrophysics",l:"Intermediate",y:2000},
+{t:"Exoplanets",a:"Michael Perryman",s:"Astronomy and Astrophysics",l:"Advanced",y:2018},
+{t:"The Planet Factory: Exoplanets and the Search for a Second Earth",a:"Elizabeth Tasker",s:"Astronomy and Astrophysics",l:"Beginner",y:2017},
+{t:"Life in the Universe",a:"Jeffrey Bennett and Seth Shostak",s:"Astrobiology and Planetary Science",l:"Intermediate",y:2007},
+{t:"The Search for Life in the Universe",a:"Donald Goldsmith and Tobias Owen",s:"Astrobiology and Planetary Science",l:"Intermediate",y:1992},
+{t:"Rare Earth: Why Complex Life Is Uncommon in the Universe",a:"Peter D. Ward and Donald Brownlee",s:"Astrobiology and Planetary Science",l:"Intermediate",y:2000},
+{t:"The New World on Mars: What We Can Create on the Red Planet",a:"Robert Zubrin",s:"Astrobiology and Planetary Science",l:"Intermediate",y:2021},
+/* Earth systems, geology and systems thinking */
+{t:"Gaia: A New Look at Life on Earth",a:"James Lovelock",s:"Earth Systems and Geoscience",l:"Beginner",y:1979},
+{t:"The Earth System",a:"Lee R. Kump, James F. Kasting and Robert G. Crane",s:"Earth Systems and Geoscience",l:"Advanced",y:1999},
+{t:"The Story of Earth: The First 4.5 Billion Years, from Stardust to Living Planet",a:"Robert M. Hazen",s:"Earth Systems and Geoscience",l:"Beginner",y:2012},
+{t:"Annals of the Former World",a:"John McPhee",s:"Earth Systems and Geoscience",l:"Advanced",y:1998},
+{t:"Thinking in Systems: A Primer",a:"Donella H. Meadows",s:"Systems Thinking and Complexity",l:"Beginner",y:2008},
+{t:"The Systems View of Life: A Unifying Vision",a:"Fritjof Capra and Pier Luigi Luisi",s:"Systems Thinking and Complexity",l:"Advanced",y:2014},
+{t:"Complexity: A Guided Tour",a:"Melanie Mitchell",s:"Systems Thinking and Complexity",l:"Intermediate",y:2009},
+{t:"Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies",a:"Geoffrey West",s:"Systems Thinking and Complexity",l:"Intermediate",y:2017},
+
+
+/* Further environmental science, social ecology and animal ethics */
+{t:"Remaking Society: Pathways to a Green Future",a:"Murray Bookchin",s:"Social Ecology and Environmental Anarchism",l:"Intermediate",y:1990},
+{t:"The Philosophy of Social Ecology: Essays on Dialectical Naturalism",a:"Murray Bookchin",s:"Social Ecology and Environmental Anarchism",l:"Advanced",y:1990},
+{t:"Our Synthetic Environment",a:"Murray Bookchin",s:"Social Ecology and Environmental Anarchism",l:"Intermediate",y:1962},
+{t:"The Climate Book",a:"Edited by Greta Thunberg",s:"Climate Science and Energy Transition",l:"Beginner",y:2022},
+{t:"The New Climate War: The Fight to Take Back Our Planet",a:"Michael E. Mann",s:"Climate Science and Energy Transition",l:"Intermediate",y:2021},
+{t:"Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming",a:"Edited by Paul Hawken",s:"Climate Science and Energy Transition",l:"Beginner",y:2017},
+{t:"Under a White Sky: The Nature of the Future",a:"Elizabeth Kolbert",s:"Climate Science and Energy Transition",l:"Intermediate",y:2021},
+{t:"The Uninhabitable Earth: Life After Warming",a:"David Wallace-Wells",s:"Climate Science and Energy Transition",l:"Beginner",y:2019},
+{t:"Animal Liberation",a:"Peter Singer",s:"Animal Ethics and Multispecies Justice",l:"Intermediate",y:1975},
+{t:"Zoopolis: A Political Theory of Animal Rights",a:"Sue Donaldson and Will Kymlicka",s:"Animal Ethics and Multispecies Justice",l:"Advanced",y:2011},
+{t:"Are We Smart Enough to Know How Smart Animals Are?",a:"Frans de Waal",s:"Animal Ethics and Multispecies Justice",l:"Beginner",y:2016},
+{t:"The Order of Time",a:"Carlo Rovelli",s:"Physics and the Nature of Reality",l:"Beginner",y:2017},
+{t:"Reality Is Not What It Seems: The Journey to Quantum Gravity",a:"Carlo Rovelli",s:"Physics and the Nature of Reality",l:"Intermediate",y:2014},
+{t:"The Fabric of Reality",a:"David Deutsch",s:"Physics and the Nature of Reality",l:"Advanced",y:1997},
+{t:"The Big Bang: The Origin of the Universe",a:"Simon Singh",s:"Cosmology and the Universe",l:"Beginner",y:2004},
+{t:"The Origins of Life: From the Birth of Life to the Origin of Language",a:"John Maynard Smith and Eörs Szathmáry",s:"Origins of Life and Evolution",l:"Advanced",y:1999},
+{t:"The Vital Question: Energy, Evolution, and the Origins of Complex Life",a:"Nick Lane",s:"Origins of Life and Evolution",l:"Intermediate",y:2015},
+{t:"The Tangled Tree: A Radical New History of Life",a:"David Quammen",s:"Origins of Life and Evolution",l:"Intermediate",y:2018},
+{t:"Cosmopolitanism: Ethics in a World of Strangers",a:"Kwame Anthony Appiah",s:"Cosmopolitanism and Global Justice",l:"Intermediate",y:2006},
+{t:"The Cosmopolitan Tradition: A Noble but Flawed Ideal",a:"Martha C. Nussbaum",s:"Cosmopolitanism and Global Justice",l:"Advanced",y:2019},
+{t:"Cosmopolitanism: Ideals and Realities",a:"David Held",s:"Cosmopolitanism and Global Justice",l:"Advanced",y:2010},
+{t:"World Poverty and Human Rights",a:"Thomas Pogge",s:"Cosmopolitanism and Global Justice",l:"Advanced",y:2002},
+{t:"The Cosmopolitan Vision",a:"Ulrich Beck",s:"Cosmopolitanism and Global Justice",l:"Advanced",y:2006},
+
 ];
 const catalog = document.getElementById('catalog');
 const search = document.getElementById('search');
@@ -550,8 +776,61 @@ const topic = document.getElementById('topic');
 const level = document.getElementById('level');
 let savedOnly = false;
 const saved = new Set(JSON.parse(localStorage.getItem('templeOfKnowledgeSavedBooks') || '[]'));
+// A curated CALCism pathway spanning its materialist, anarchist, communalist, ecological, scientific and philosophical foundations.
+const calcismRecommended = new Set([
+ 'The Conquest of Bread|Peter Kropotkin|Anarchism',
+ 'Mutual Aid: A Factor of Evolution|Peter Kropotkin|Anarchism',
+ 'Anarchism and Other Essays|Emma Goldman|Anarchism',
+ 'What Is Property?|Pierre-Joseph Proudhon|Anarchism',
+ 'The Ecology of Freedom|Murray Bookchin|Communalism',
+ 'Post-Scarcity Anarchism|Murray Bookchin|Communalism',
+ 'The Next Revolution|Murray Bookchin|Communalism',
+ 'Fragments of an Anarchist Anthropology|David Graeber|Anthropology',
+ 'The Dawn of Everything|David Graeber and David Wengrow|Anthropology',
+ 'Capital, Volume I|Karl Marx|Economics',
+ 'Doughnut Economics|Kate Raworth|Economics',
+ 'Governing the Commons|Elinor Ostrom|Economics',
+ 'The Demon-Haunted World|Carl Sagan|Science and critical thinking',
+ 'The Structure of Scientific Revolutions|Thomas S. Kuhn|Science and critical thinking',
+ 'Cosmos|Carl Sagan|Physics and astronomy',
+ 'On the Origin of Species|Charles Darwin|Biology and evolution',
+ 'Silent Spring|Rachel Carson|Ecology and climate',
+ 'The Sixth Extinction|Elizabeth Kolbert|Ecology and climate',
+ 'A Sand County Almanac|Aldo Leopold|Ecology and climate',
+ 'Thinking in Systems|Donella H. Meadows|Systems and technology',
+ 'Pedagogy of the Oppressed|Paulo Freire|Education',
+ 'On Liberty|John Stuart Mill|Political philosophy',
+ 'The Dispossessed|Ursula K. Le Guin|Literature and utopias',
+ 'The God Delusion|Richard Dawkins|New Atheism and Its Critics',
+ 'God Is Not Great: How Religion Poisons Everything|Christopher Hitchens|New Atheism and Its Critics',
+ 'Breaking the Spell: Religion as a Natural Phenomenon|Daniel C. Dennett|New Atheism and Its Critics',
+ 'The End of Faith: Religion, Terror, and the Future of Reason|Sam Harris|New Atheism and Its Critics',
+ "The Scout Mindset: Why Some People See Things Clearly and Others Don\'t|Julia Galef|Apistevism and Epistemic Criticism",
+ 'The Ethics of Belief|William K. Clifford|Apistevism and Epistemic Criticism',
+ 'Ethics: Inventing Right and Wrong|J. L. Mackie|Metaethics',
+ 'The Myth of Morality|Richard Joyce|Moral Anti-Realism and Error Theory',
+ 'What Is This Thing Called Science?|Alan F. Chalmers|Philosophy of Science',
+ 'Silent Spring|Rachel Carson|Environmentalism and Conservation',
+ 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants|Robin Wall Kimmerer|Environmentalism and Conservation',
+ 'Deep Ecology: Living as if Nature Mattered|Bill Devall and George Sessions|Ecocentrism and Deep Ecology',
+ 'The Ecological Self|Freya Mathews|Ecocentrism and Deep Ecology',
+ 'Cosmos|Carl Sagan|Cosmology and the Universe',
+ 'The Big Picture: On the Origins of Life, Meaning, and the Universe Itself|Sean Carroll|Cosmology and the Universe',
+ 'Astrophysics for People in a Hurry|Neil deGrasse Tyson|Cosmology and the Universe',
+ 'Remaking Society: Pathways to a Green Future|Murray Bookchin|Social Ecology and Environmental Anarchism',
+ 'The Philosophy of Social Ecology: Essays on Dialectical Naturalism|Murray Bookchin|Social Ecology and Environmental Anarchism',
+ 'The Origins of Life: From the Birth of Life to the Origin of Language|John Maynard Smith and Eörs Szathmáry|Origins of Life and Evolution',
+ 'Cosmopolitanism: Ethics in a World of Strangers|Kwame Anthony Appiah|Cosmopolitanism and Global Justice',
+ 'World Poverty and Human Rights|Thomas Pogge|Cosmopolitanism and Global Justice'
+]);
+function isCalcismRecommended(b){return calcismRecommended.has(`${b.t}|${b.a}|${b.s}`)}
+const recommendedOption=document.createElement('option');
+recommendedOption.value='__calcism_recommended__';
+recommendedOption.textContent='CALCism Recommended List';
+topic.appendChild(recommendedOption);
 const topics = [...new Set(books.map(b=>b.s))].sort((a,b)=>a.localeCompare(b));
 topics.forEach(s=>{const o=document.createElement('option');o.value=s;o.textContent=s;topic.appendChild(o)});
+function matchesTopic(b){return !topic.value||(topic.value==='__calcism_recommended__'?isCalcismRecommended(b):b.s===topic.value)}
 document.getElementById('bookCount').textContent=books.length;
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function freeSearch(b){const q='"'+b.t+'" "'+b.a+'" (site:gutenberg.org OR site:archive.org OR site:openlibrary.org OR site:doabooks.org OR site:marxists.org OR site:theanarchistlibrary.org OR site:standardebooks.org)';const engine=document.getElementById('freeSearchEngine')?.value||'startpage';const urls={startpage:'https://www.startpage.com/sp/search?query=',ecosia:'https://www.ecosia.org/search?q=',duckduckgo:'https://duckduckgo.com/?q=',mojeek:'https://www.mojeek.com/search?q=',google:'https://www.google.com/search?q=',bing:'https://www.bing.com/search?q='};return urls[engine]+encodeURIComponent(q);}
@@ -578,12 +857,23 @@ function directSources(b){const q=b.t+' '+b.a;return [
  ...(['Punic and Carthaginian Religion'].includes(b.s)?[['Oxford Handbook of the Phoenician and Punic Mediterranean','https://academic.oup.com/edited-volume/34280']]:[]),
  ...(['Zoroastrianism'].includes(b.s)?[['Encyclopaedia Iranica','https://iranicaonline.org/']]:[]),
  ...(['Canaanite and Pre-Abrahamic Traditions'].includes(b.s)?[['Ugaritic Narrative Poetry record','https://content.www.wellcomecollection.org/works/nmc7nma3']]:[]),
- ...(['Shinto'].includes(b.s)?[['Encyclopedia of Shinto','https://d-museum.kokugakuin.ac.jp/eos/'],['Oxford Academic: Shinto by Helen Hardacre','https://academic.oup.com/book/6981']]:[])
+ ...(['Punic and Carthaginian Religion'].includes(b.s)?[['Digital Library of Inscriptions and Texts','https://www.edr-edr.it/'],['The Phoenician-Punic language and epigraphy resources','https://www.univie.ac.at/phoenix/']]:[]),
+ ...(['Zoroastrianism'].includes(b.s)?[['Encyclopaedia Iranica: Zoroastrianism','https://iranicaonline.org/'],['Avesta.org text resources','https://www.avesta.org/']]:[]),
+ ...(['Canaanite and Pre-Abrahamic Traditions'].includes(b.s)?[['Ugarit and the Ugaritic texts research resources','https://www.ugarit.ox.ac.uk/']]:[]),
+ ...(['Eclectic Paganism','Wicca'].includes(b.s)?[['Pagan Studies: academic research and bibliography','https://www.paganstudies.org/']]:[]),
+ ...(['Shinto'].includes(b.s)?[['Encyclopedia of Shinto','https://d-museum.kokugakuin.ac.jp/eos/'],['Oxford Academic: Shinto by Helen Hardacre','https://academic.oup.com/book/6981']]:[]),
+ ...(['Humanism'].includes(b.s)?[['Humanists International','https://humanists.international/'],['American Humanist Association','https://americanhumanist.org/']]:[]),
+ ...(['Secularism','Apatheism'].includes(b.s)?[['Humanists International','https://humanists.international/'],['The Nonreligion and Secularity Research Network','https://nsrn.net/']]:[]),
+ ...(['Ignosticism and Theological Noncognitivism'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Philosophy of Religion','https://plato.stanford.edu/entries/philosophy-religion/'],['Internet Encyclopedia of Philosophy','https://iep.utm.edu/']]:[]),
+ ...(['Apistevism and Epistemic Criticism'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Epistemology','https://plato.stanford.edu/entries/epistemology/'],['Internet Encyclopedia of Philosophy: Skepticism','https://iep.utm.edu/skeptic/']]:[]),
+ ...(['Metaethics','Moral Anti-Realism and Error Theory'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Metaethics','https://plato.stanford.edu/entries/metaethics/'],['Internet Encyclopedia of Philosophy: Moral Anti-Realism','https://iep.utm.edu/moralrea/']]:[]),
+ ...(['Philosophy of Science','Science and Scientific Method'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Scientific Method','https://plato.stanford.edu/entries/scientific-method/'],['PhilPapers','https://philpapers.org/']]:[]),
+ ...(['Cosmopolitanism and Global Justice','Internationalism and global politics','Colonialism and internationalism'].includes(b.s)?[['Stanford Encyclopedia of Philosophy: Cosmopolitanism','https://plato.stanford.edu/entries/cosmopolitanism/'],['United Nations Digital Library','https://digitallibrary.un.org/']]:[])
  ];}
 function amazonPrint(b){const marketplace=document.getElementById('marketplace')?.value||'de';return 'https://www.amazon.'+marketplace+'/s?i=stripbooks&k='+encodeURIComponent(b.t+' '+b.a);}
 function draw(){
  const q=search.value.trim().toLowerCase();
- const filtered=books.filter(b=>(!q||(b.t+' '+b.a+' '+b.s).toLowerCase().includes(q))&&(!topic.value||b.s===topic.value)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));
+ const filtered=books.filter(b=>(!q||(b.t+' '+b.a+' '+b.s).toLowerCase().includes(q))&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));
  document.getElementById('resultCount').textContent=`Showing ${filtered.length} of ${books.length} titles`;
  catalog.innerHTML='';
  if(!filtered.length){catalog.innerHTML='<div class="empty" style="grid-column:1/-1">No titles match these filters. Try a broader search or reset the filters.</div>';return;}
@@ -601,7 +891,7 @@ document.getElementById('unlockProprietary').addEventListener('click',()=>{const
 document.getElementById('showSaved').addEventListener('click',()=>{savedOnly=!savedOnly;document.getElementById('showSaved').textContent=savedOnly?'★ Show all titles':'★ Show saved titles';draw();});
 document.getElementById('clearFilters').addEventListener('click',()=>{search.value='';topic.value='';level.value='';savedOnly=false;document.getElementById('showSaved').textContent='★ Show saved titles';draw();});
 document.getElementById('marketplace').addEventListener('change',draw);
-document.getElementById('exportList').addEventListener('click',()=>{const q=search.value.trim().toLowerCase();const rows=books.filter(b=>(!q||(b.t+' '+b.a+' '+b.s).toLowerCase().includes(q))&&(!topic.value||b.s===topic.value)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));const csv=[['Title','Author','Subject','Level','Publication year','Free edition search (selected engine)','Amazon physical books search'],...rows.map(b=>[b.t,b.a,b.s,b.l,b.y,freeSearch(b),amazonPrint(b)])].map(r=>r.map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='temple-of-knowledge-reading-list.csv';a.click();URL.revokeObjectURL(url);});
+document.getElementById('exportList').addEventListener('click',()=>{const q=search.value.trim().toLowerCase();const rows=books.filter(b=>(!q||(b.t+' '+b.a+' '+b.s).toLowerCase().includes(q))&&matchesTopic(b)&&(!level.value||level.value==='All levels'||b.l===level.value)&&(!savedOnly||saved.has(b.t+'|'+b.a)));const csv=[['Title','Author','Subject','Level','Publication year','Free edition search (selected engine)','Amazon physical books search'],...rows.map(b=>[b.t,b.a,b.s,b.l,b.y,freeSearch(b),amazonPrint(b)])].map(r=>r.map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='temple-of-knowledge-reading-list.csv';a.click();URL.revokeObjectURL(url);});
 draw();
 </script>
 </body>
